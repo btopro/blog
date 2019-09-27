@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/why-i-started-hax-camp\/index.html",
-        "Nm4alRkIlo5ShUAFbPCBg"
+        "AIiwahwGUDwTUv4FqudQ"
     ],
     [
         "pages\/my-first-time-on-stage\/index.html",
@@ -56,7 +56,7 @@ var precacheConfig = [
     ],
     [
         "pages\/open-community-pedagogy\/index.html",
-        "vcivQjArkrrVrJUKiCpvSg"
+        "CfVqASDSKTyRXmHrhXj60A"
     ],
     [
         "pages\/stand-against-the-ocean-1\/index.html",
@@ -280,11 +280,11 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "XK6SmjoCGwYooEdlDAQN0A"
+        "fqCU9nhxNicd4jecyx4wA"
     ],
     [
         "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
+        "E02kjvDpd4ZWFB6skGKFg"
     ],
     [
         "site.json",
@@ -296,7 +296,7 @@ var precacheConfig = [
     ],
     [
         "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
+        "o3ZCedgv4IU8bvZhhogzbA"
     ],
     [
         "files\/IMG_20190729_213151.jpg",
@@ -714,3 +714,4 @@ self.addEventListener('fetch', function (event) {
 
 
 // Runtime cache configuration, using the sw-toolbox library.
+toolbox.router.get(/(https?:\/\/cdn\.waxam\.io(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
