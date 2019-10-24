@@ -7,7 +7,7 @@
     "metadata": {
         "author": {
             "name": "Bryan Ollendyke",
-            "image": "files\/headshot143493.3299999684.jpg",
+            "image": "files\/headshot511743.1799999904.jpg",
             "socialLink": "https:\/\/twitter.com\/btopro",
             "email": "btopro@outlook.com"
         },
@@ -15,7 +15,7 @@
             "name": "btopro",
             "domain": "https:\/\/btopro.com",
             "created": 1548653466,
-            "updated": 1570802994,
+            "updated": 1571929489,
             "settings": {
                 "pathauto": true,
                 "publishPagesOn": false,
@@ -32,7 +32,11 @@
             },
             "static": {
                 "cdn": "cdn.waxam.io",
+<<<<<<< HEAD
                 "lastPublished": 1571628306,
+=======
+                "lastPublished": 1571929538,
+>>>>>>> master
                 "publishedLocation": "https:\/\/btopro.com",
                 "offline": false
             },
@@ -97,6 +101,7 @@
     },
     "items": [
         {
+<<<<<<< HEAD
             "id": "item-0d1cff31-ce46-425b-a406-5c7f611f0154",
             "indent": 0,
             "location": "pages\/the-infinite-void\/index.html",
@@ -166,16 +171,18 @@
             }
         },
         {
+=======
+>>>>>>> master
             "id": "item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91",
             "indent": 0,
             "location": "pages\/why-i-started-hax-camp\/index.html",
-            "order": "3",
+            "order": "0",
             "parent": null,
             "title": "Why I started hax-camp",
             "description": "Hi. I'm Bryan Ollendyke, and I have a vision of the future and, I think, a way to get there. I'm not fancy. I don't have big money. I don't have important people on high; I have something far more imp",
             "metadata": {
                 "created": 1568225571,
-                "updated": 1571505950,
+                "updated": 1569606228,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/\/EBd7L7eXkAAOW_d.jpg",
@@ -272,6 +279,30 @@
                         "type": "image\/jpeg",
                         "name": "IMG_20190729_103418.jpg",
                         "size": 13500
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot495331.4750000136.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot495331.4750000136.jpg",
+                        "url": "files\/headshot495331.4750000136.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot495331.4750000136.jpg",
+                        "size": 228989
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot504645.5449999776.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot504645.5449999776.jpg",
+                        "url": "files\/headshot504645.5449999776.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot504645.5449999776.jpg",
+                        "size": 241173
+                    },
+                    {
+                        "path": "\/var\/www\/html\/sites\/btopro\/files\/headshot511743.1799999904.jpg",
+                        "fullUrl": "\/sites\/btopro\/files\/headshot511743.1799999904.jpg",
+                        "url": "files\/headshot511743.1799999904.jpg",
+                        "type": "image\/jpeg",
+                        "name": "headshot511743.1799999904.jpg",
+                        "size": 190065
                     }
                 ],
                 "readtime": 4,
@@ -300,16 +331,109 @@
             }
         },
         {
+            "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
+            "indent": 0,
+            "location": "pages\/the-infinite-void\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "The infinite void",
+            "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but fe",
+            "metadata": {
+                "created": 1571928965,
+                "updated": 1571929228,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 12,
+                    "schema": [],
+                    "tags": {
+                        "p": 12
+                    },
+                    "elements": 12
+                }
+            }
+        },
+        {
+            "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
+            "indent": 0,
+            "location": "pages\/abstractionism\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Abstractionism",
+            "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).This has been happening",
+            "metadata": {
+                "created": 1571929384,
+                "updated": 1571929445,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 5,
+                    "paragraphs": 35,
+                    "schema": [],
+                    "tags": {
+                        "p": 35,
+                        "h2": 5
+                    },
+                    "elements": 40
+                }
+            }
+        },
+        {
+            "id": "item-7080d384-ade3-441e-867f-4d5b955f99a2",
+            "indent": 0,
+            "location": "pages\/our-values-empowerment\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Our Values: Empowerment",
+            "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is th",
+            "metadata": {
+                "created": 1571929041,
+                "updated": 1571929078,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 20,
+                    "schema": [],
+                    "tags": {
+                        "p": 20
+                    },
+                    "elements": 20
+                }
+            }
+        },
+        {
+            "id": "item-0589f6d1-3184-4e46-a856-7522d2a1b435",
+            "indent": 0,
+            "location": "pages\/villains-visionaries\/index.html",
+            "order": 0,
+            "parent": null,
+            "title": "Villains and Visionaries",
+            "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pla",
+            "metadata": {
+                "created": 1571929282,
+                "updated": 1571929305,
+                "readtime": 3,
+                "contentDetails": {
+                    "headings": 0,
+                    "paragraphs": 12,
+                    "schema": [],
+                    "tags": {
+                        "p": 12
+                    },
+                    "elements": 12
+                }
+            }
+        },
+        {
             "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
             "indent": 0,
             "location": "pages\/my-first-time-on-stage\/index.html",
-            "order": "4",
+            "order": "1",
             "parent": null,
             "title": "My first time on stage",
             "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker.If you haven't followed the references, I'm code na",
             "metadata": {
                 "created": 1567105783,
-                "updated": 1571505951,
+                "updated": 1570813854,
                 "readtime": 8,
                 "contentDetails": {
                     "headings": 0,
@@ -327,13 +451,13 @@
             "id": "item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a",
             "indent": 0,
             "location": "pages\/annabella\/index.html",
-            "order": "5",
+            "order": "2",
             "parent": null,
             "title": "Annabella",
             "description": "The wheels squeaked on the cart, boosting my kid sister I placed her in the front part kids sit in. Five years old, happy to have someone who could lift her high. I was fifteen when we went to a rando",
             "metadata": {
                 "created": 1564284842,
-                "updated": 1571505951,
+                "updated": 1568225580,
                 "readtime": 8,
                 "contentDetails": {
                     "headings": 0,
@@ -362,13 +486,13 @@
             "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
             "indent": 0,
             "location": "pages\/hey-remember-when\/index.html",
-            "order": "6",
+            "order": "3",
             "parent": null,
             "title": "Hey, remember when",
             "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.To build a nest, in my &#34;Effing&#34; co",
             "metadata": {
                 "created": 1563756349,
-                "updated": 1571505951,
+                "updated": 1568225580,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 0,
@@ -419,13 +543,13 @@
             "id": "item-e3d7d519-9549-4e44-9ab8-b9df805a3531",
             "indent": 0,
             "location": "pages\/open-community-pedagogy\/index.html",
-            "order": "7",
+            "order": "4",
             "parent": null,
             "title": "Open Community Pedagogy",
             "description": "  This instructional designer didn't need to know HTML in order to convey an instructional concept.  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to t",
             "metadata": {
                 "created": 1561129642,
-                "updated": 1571505951,
+                "updated": 1569546326,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/color-spectrum.jpg",
@@ -459,14 +583,14 @@
         {
             "id": "item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc",
             "indent": 0,
-            "location": "pages\/stand-against-the-ocean-2\/index.html",
-            "order": "8",
+            "location": "pages\/stand-against-the-ocean-1\/index.html",
+            "order": "5",
             "parent": null,
             "title": "Stand against the ocean",
             "description": "The waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand when it's so much easier to sit. You'll be",
             "metadata": {
                 "created": 1560976855,
-                "updated": 1571505951,
+                "updated": 1568225580,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/IMG_20190307_142300.jpg",
@@ -501,14 +625,14 @@
         {
             "id": "item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
             "indent": 0,
-            "location": "pages\/edtechjoker-2\/index.html",
-            "order": "9",
+            "location": "pages\/edtechjoker-1\/index.html",
+            "order": "6",
             "parent": null,
             "title": "EdTechJoker",
             "description": "Ex Plures PluresFrom many, many. The phrase of a new publishing revolution.I'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up a",
             "metadata": {
                 "created": 1560392061,
-                "updated": 1571505951,
+                "updated": 1568225580,
                 "readtime": 4,
                 "contentDetails": {
                     "headings": 0,
@@ -531,13 +655,13 @@
             "id": "item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814",
             "indent": 0,
             "location": "pages\/technical-weapons\/index.html",
-            "order": "10",
+            "order": "7",
             "parent": null,
             "title": "Technical weapons",
             "description": "Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peopl",
             "metadata": {
                 "created": 1559789483,
-                "updated": 1571505952,
+                "updated": 1570061513,
                 "readtime": 6,
                 "contentDetails": {
                     "headings": 7,
@@ -575,13 +699,13 @@
             "id": "item-73248929-e4a5-44eb-aea5-8e2373a34b69",
             "indent": 0,
             "location": "pages\/i-made-a-thing\/index.html",
-            "order": "11",
+            "order": "8",
             "parent": null,
             "title": "I made a thing",
             "description": "Hey hey, ho ho. Welcome. To the revolution!!Come say hi at Apereo 2019 or Domains 2019.",
             "metadata": {
                 "created": 1559336489,
-                "updated": 1571505952,
+                "updated": 1568225580,
                 "readtime": 1,
                 "contentDetails": {
                     "headings": 0,
@@ -621,14 +745,14 @@
         {
             "id": "item-04fb0667-5539-4d0a-b841-a203d6117d69",
             "indent": 0,
-            "location": "pages\/the-web-components-high-performance-video-2\/index.html",
-            "order": "12",
+            "location": "pages\/the-web-components-high-performance-video-1\/index.html",
+            "order": "9",
             "parent": null,
             "title": "THE web components high performance video",
             "description": "I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if someo",
             "metadata": {
                 "created": 1558709795,
-                "updated": 1571505952,
+                "updated": 1568225580,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/sites\/btopro\/files\/scale-50\/2019-05-24_11-14-49.jpg",
@@ -669,13 +793,13 @@
             "id": "item-70f48666-098d-42fa-8b9d-064f3e678583",
             "indent": 0,
             "location": "pages\/ocean\/index.html",
-            "order": "13",
+            "order": "10",
             "parent": null,
             "title": "Ocean",
             "description": "Now and then, life feels like your adrift in an ocean of work on a sinking ship. There's water so choppy that it feels like you can't see land off in the distance let alone dream of swimming there. Th",
             "metadata": {
                 "created": 1556907679,
-                "updated": 1571505952,
+                "updated": 1568225581,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/headshot.jpg",
@@ -700,14 +824,14 @@
         {
             "id": "item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74",
             "indent": 0,
-            "location": "pages\/drunken-ux-interview-2\/index.html",
-            "order": "14",
+            "location": "pages\/drunken-ux-interview-1\/index.html",
+            "order": "11",
             "parent": null,
             "title": "Drunken UX interview",
             "description": "I was recently interviewed on the Drunken UX podcast, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb",
             "metadata": {
                 "created": 1554140865,
-                "updated": 1571505952,
+                "updated": 1568225581,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/scale-50\/IMG_20190127_153429.jpg",
@@ -730,14 +854,14 @@
             "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
             "indent": 0,
             "location": "pages\/fortify\/index.html",
-            "order": "15",
+            "order": "12",
             "parent": null,
             "title": "Fortify",
             "description": "\"FORT. NIGHT.\"They yell. Not in the way that teenagers rushing home from school to dominate their friends yell but in the way of innocence. The yell of the joy of dad suggesting that we build a fort",
             "metadata": {
                 "siteName": "btopro",
                 "created": 1550810167,
-                "updated": 1571505952,
+                "updated": 1568225581,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/IMG_20190221_184100.jpg",
@@ -754,14 +878,14 @@
         {
             "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
             "indent": 0,
-            "location": "pages\/all-screens-have-rights-2\/index.html",
-            "order": "16",
+            "location": "pages\/all-screens-have-rights-1\/index.html",
+            "order": "13",
             "parent": null,
             "title": "All screens have rights",
             "description": "The EU recently passed Article 13, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerned",
             "metadata": {
                 "created": 1553786677,
-                "updated": 1571505953,
+                "updated": 1568225581,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/ie8.jpg",
@@ -819,42 +943,42 @@
             "id": "item-7502f3ce-134f-4c88-beaf-85e539c0e801",
             "indent": 0,
             "location": "pages\/reclaim-the-web\/index.html",
-            "order": "17",
+            "order": "14",
             "parent": null,
             "title": "Reclaim the web",
             "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.Now with HAXcms, I can capture and p",
             "metadata": {
                 "created": 1553524583,
-                "updated": 1571505953,
+                "updated": 1568225581,
                 "readtime": 3
             }
         },
         {
             "id": "item-985e5628-b3e6-44e5-85dc-c4d7be7bd754",
             "indent": 0,
-            "location": "pages\/structured-anarchy-2\/index.html",
-            "order": "18",
+            "location": "pages\/structured-anarchy-1\/index.html",
+            "order": "15",
             "parent": null,
             "title": "Structured Anarchy",
             "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS. \u00a0I am writing now to talk about how I\u2019ve begun working towards that goal that you might",
             "metadata": {
                 "siteName": "btopro",
                 "created": 1300665600,
-                "updated": 1571505953,
+                "updated": 1568225581,
                 "readtime": 4
             }
         },
         {
             "id": "item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d",
             "indent": 0,
-            "location": "pages\/haxcms-theme-layer-code-review-2\/index.html",
-            "order": "19",
+            "location": "pages\/haxcms-theme-layer-code-review-1\/index.html",
+            "order": "16",
             "parent": null,
             "title": "HAXcms Theme layer Code Review",
             "description": "Weekly Code ReviewThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions s",
             "metadata": {
                 "created": 1551471215,
-                "updated": 1571505953,
+                "updated": 1568225582,
                 "readtime": 1
             }
         },
@@ -862,67 +986,67 @@
             "id": "item-cd716dd0-59b0-a24d-1ddb-2779369c52b2",
             "indent": 0,
             "location": "pages\/2018-innovation-submission\/index.html",
-            "order": "20",
+            "order": "17",
             "parent": null,
             "title": "2018 Innovation Submission",
             "description": "This is my submission to the TLT 2018 Open Innovation Challenge. We have amazing capabilities and solutions available to us as an R1 research institution. But like many of fellow institutions, we ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505953,
+                "updated": 1568225582,
                 "readtime": 1
             }
         },
         {
             "id": "item-44797f99-e67b-41ce-a32f-57ccafea33ec",
             "indent": 0,
-            "location": "pages\/elms-ln-code-review-series-part-1-2\/index.html",
-            "order": "21",
+            "location": "pages\/elms-ln-code-review-series-part-1-1\/index.html",
+            "order": "18",
             "parent": null,
             "title": "ELMS:LN Code review series Part 1",
             "description": "  Going to get really meta here..  This is a video showing how this blog post was made. The post follows but this video shows the state of HAXcms which is the system being used to develop this ",
             "metadata": {
                 "created": 1551458253,
-                "updated": 1571505953,
+                "updated": 1568225582,
                 "readtime": 1
             }
         },
         {
             "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
             "indent": 0,
-            "location": "pages\/golden-shimmering-joy-2\/index.html",
-            "order": "22",
+            "location": "pages\/golden-shimmering-joy-1\/index.html",
+            "order": "19",
             "parent": null,
             "title": "Golden, shimmering, joy",
             "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His auto",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505953
+                "updated": 1568225582
             }
         },
         {
             "id": "item-5e860e67-2444-0304-6180-9cb7dee92321",
             "indent": 0,
             "location": "pages\/common-web-component-state-question\/index.html",
-            "order": "23",
+            "order": "20",
             "parent": null,
             "title": "Common web component state question",
             "description": "I wanted to post an answer I gave recently to a web component question post training that we gave at Open Apereo. I asked Toben and he said it was ok if I posted the question \/ answer here because it'",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225582
             }
         },
         {
             "id": "item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8",
             "indent": 0,
             "location": "pages\/ngdle-is-really-just-enigma-misspelled\/index.html",
-            "order": "24",
+            "order": "21",
             "parent": null,
             "title": "NGDLE is really just Enigma misspelled",
             "description": "I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childhoo",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954,
+                "updated": 1568225582,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/btopro\/files\/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -955,91 +1079,91 @@
             "id": "item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0",
             "indent": 0,
             "location": "pages\/compartmentalizing\/index.html",
-            "order": "25",
+            "order": "22",
             "parent": null,
             "title": "Compartmentalizing",
             "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lov",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225583
             }
         },
         {
             "id": "item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a",
             "indent": 0,
-            "location": "pages\/occupy-the-bridge-2\/index.html",
-            "order": "26",
+            "location": "pages\/occupy-the-bridge-1\/index.html",
+            "order": "23",
             "parent": null,
             "title": "OCCUPY... the bridge",
             "description": "Bridges\u00a0 get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the bridge",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225583
             }
         },
         {
             "id": "item-46aa6443-ebf1-62b2-6523-760490d5ce9b",
             "indent": 0,
             "location": "pages\/when-educators-left-the-lms\/index.html",
-            "order": "27",
+            "order": "24",
             "parent": null,
             "title": "When Educators left the LMS",
             "description": "While not seeing it beyond previews and reviews, the movie When God left the building\n reviews an intreging concept: that people who leave the christian church are just leaving the building and pursui",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225583
             }
         },
         {
             "id": "item-8cef1ad3-7cc7-778a-b125-1d85f265742d",
             "indent": 0,
             "location": "pages\/the-lms-is-cable-we-are-roku-expect-us\/index.html",
-            "order": "28",
+            "order": "25",
             "parent": null,
             "title": "The LMS is Cable, We are Roku. Expect Us",
             "description": "Cable\nIn the 40s and 50s, the Cable industry was born.\nBy the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had on",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225583
             }
         },
         {
             "id": "item-6c53744c-1b33-97a1-976f-90484f5bc450",
             "indent": 0,
-            "location": "pages\/innovation-s-four-ingredients-2\/index.html",
-            "order": "29",
+            "location": "pages\/innovation-s-four-ingredients-1\/index.html",
+            "order": "26",
             "parent": null,
             "title": "Innovation's four ingredients",
             "description": "I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about car",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225583
             }
         },
         {
             "id": "item-401610da-127f-602f-5298-265f5eea00ee",
             "indent": 0,
             "location": "pages\/straddling-the-abyss\/index.html",
-            "order": "30",
+            "order": "27",
             "parent": null,
             "title": "Straddling the Abyss",
             "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward, ",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505954
+                "updated": 1568225584
             }
         },
         {
             "id": "item-f82147b6-1844-d3c0-9515-01130ce85c79",
             "indent": 0,
             "location": "pages\/the-knowledge-decentralization-manifesto\/index.html",
-            "order": "31",
+            "order": "28",
             "parent": null,
             "title": "The Knowledge Decentralization Manifesto",
             "description": "Access to knowledge is a control system.\nAs the \"Apple of Eden\n\" unlocked the power to question so too is the case with all modern knowledge transfer technologies. Knowledge corrupts established thoug",
             "metadata": {
                 "created": 1548824000,
-                "updated": 1571505955
+                "updated": 1568225584
             }
         },
         {

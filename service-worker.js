@@ -43,8 +43,24 @@ var precacheConfig = [
         "AIiwahwGUDwTUv4FqudQ"
     ],
     [
+        "pages\/the-infinite-void\/index.html",
+        "HCnj993OfosQhGYx1l6ZGg"
+    ],
+    [
+        "pages\/abstractionism\/index.html",
+        "Sps3Ce7ndqSyeKaZiXGA"
+    ],
+    [
+        "pages\/our-values-empowerment\/index.html",
+        "Wwnk1or1gHWjyNBqgXrGqg"
+    ],
+    [
+        "pages\/villains-visionaries\/index.html",
+        "LWtEcbcCGCj8OxmtPpeQ"
+    ],
+    [
         "pages\/my-first-time-on-stage\/index.html",
-        "kuz2wOp1BUVz1c7i5cD0A"
+        "CqZO3RjA3ea8MUHi7pOClQ"
     ],
     [
         "pages\/annabella\/index.html",
@@ -332,7 +348,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "41XlOjH7qKRVWVuMFwFQ"
+        "yTYRayt558tDvskuExMOEg"
     ],
     [
         "404.html",
@@ -389,6 +405,10 @@ var precacheConfig = [
     [
         "files\/bridge.jpg",
         "ABnWktPUavyklcTBuzrxFg"
+    ],
+    [
+        "files\/headshot511743.1799999904.jpg",
+        "R637p9fdcA9HCiCZ5NHE4Q"
     ],
     [
         "files\/IMG_20190127_153429.jpg",
@@ -491,6 +511,10 @@ var precacheConfig = [
         "5QBi9DgW1FYBuP2KH9bcqg"
     ],
     [
+        "files\/headshot495331.4750000136.jpg",
+        "p3KLjW1ynrj2YWafHWoMw"
+    ],
+    [
         "files\/color-spectrum.jpg",
         "DFSsTizZxcq8wsHHUSU7Rw"
     ],
@@ -509,6 +533,10 @@ var precacheConfig = [
     [
         "files\/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
         "Ow96pIX28xlDg55FlYD8Q"
+    ],
+    [
+        "files\/headshot504645.5449999776.jpg",
+        "09HayoCYHBzqoUKUJnDwA"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
