@@ -103,10 +103,22 @@
             "order": "0",
             "parent": null,
             "title": "Information Altruism goes national",
-            "description": "",
+            "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My t",
             "metadata": {
                 "created": 1583472602,
-                "updated": 1583472611
+                "updated": 1583473173,
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 5,
+                    "schema": [],
+                    "tags": {
+                        "p": 5,
+                        "h2": 1,
+                        "ul": 1
+                    },
+                    "elements": 7
+                }
             }
         },
         {
