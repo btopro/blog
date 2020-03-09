@@ -106,18 +106,19 @@
             "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My t",
             "metadata": {
                 "created": 1583472602,
-                "updated": 1583473173,
-                "readtime": 1,
+                "updated": 1583768302,
+                "readtime": 3,
                 "contentDetails": {
-                    "headings": 1,
-                    "paragraphs": 5,
+                    "headings": 5,
+                    "paragraphs": 10,
                     "schema": [],
                     "tags": {
-                        "p": 5,
-                        "h2": 1,
-                        "ul": 1
+                        "p": 10,
+                        "h2": 3,
+                        "ul": 1,
+                        "h3": 2
                     },
-                    "elements": 7
+                    "elements": 16
                 }
             }
         },
