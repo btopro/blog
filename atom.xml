@@ -11,7 +11,7 @@
   <entry>
     <title>Information Altruism goes national</title>
     <id>https://btopro.com/information-altruism-goes-national-1</id>
-    <updated>2020-03-09T15:51:42+00:00</updated>
+    <updated>2020-03-09T19:13:12+00:00</updated>
     <published>2020-03-06T05:30:02+00:00</published>
     <summary>In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My t</summary>
     <link href="https://btopro.com/information-altruism-goes-national-1"/>
@@ -54,8 +54,15 @@
 </ol>
 <p style="width: 100%;"><span>There's three independent studies currently as well. One doing general clean up of issues, testing, making new basic elements and documenting how to make them. Another doing a dedicated, in depth UX study. And another working with a team to build a pandoc document converting microservice to power HAXcms instances to allow drag and drop file conversion (say from Word Doc's directly to HTML).</span></p>
 <h3 style="width: 100%;" id="header-ee092b2f-8920-9066-f853-8b97b225858b"><span>Front three: Industry</span></h3>
-<p style="width: 100%;"><span>I've been seeking out to run events nationally to bring HAX camp and our web components to more and more people.</span></p>
-<p style="width: 100%;"><span>And through all this donation, I can see people being attracted to free information, free approaches, free code but also, an ideology. That we can empower the maximal amount of people through standards based approaches to development.</span></p>
+<p style="width: 100%;"><span>I've been seeking anyone who will help run events nationally to bring HAX camp and our web components to more and more people, and we've got some takers already. There will be HAXcamp at Michigan (as part of Apereo in June), Penn State (Aug) and potentially two or three additional locations though we are still in talks with local organizers.</span></p>
+<p style="width: 100%;">Want to host a HAXcamp? It's simple -- get a space, agree to talk web components (or integration into platforms there-in) in an <lrn-vocab term="Un-conference format" resource="#f3c1c0c3-2c92-54a5-8c10-95432f47dd17" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " style="width: 100%;" schema-resource-id="#f3c1c0c3-2c92-54a5-8c10-95432f47dd17"><span><wikipedia-query search="Unconference" _title="Unconference Wikipedia article"></wikipedia-query>
+</span></lrn-vocab>
+, and let me or one of the ELMS:LN core members know you're interested in branding it as <a href="https://hax.camp">HAXcamp</a>
+. That's it. Let's kick web components up to the next level.</p>
+<p style="width: 100%;">I know that if web components take hold, you'll be jumping on HAX 1-2 years from now. That's what I'm banking on with these events. I see the pace that our UX and quality is ramping up. I see what groups will announce implementation in the next year, let alone the ones that I don't know about that are considering it now. Then I'm projecting from there.</p>
+<p style="width: 100%;"><span>And this through donation of time and knowledge around the things surrounding our platform. We'll typically talk about everything around HAX/ELMS:LN, occationally HAX itself but usually the things that can empower you in your quest to become a freer developer of the constraints of the modern web publishing industry.</span></p>
+<p style="width: 100%;"><span>I see people attracted to free information, free tooling, free code but also, an ideology. An ideology that we can bring the web and society beyond that of today and to where we need it to go for improved conversation, development, sharing of knowledge, and reducing tribalism in our time through standards based approaches to development.</span></p>
+<p style="width: 100%;"><span>You may call me a dreamer, I always will be. Dream with us.</span></p>
  ]]>
     </content>
   </entry>
