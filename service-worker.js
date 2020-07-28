@@ -43,6 +43,14 @@ var precacheConfig = [
         "MkRbFyu6THJvPVPAJXi3w"
     ],
     [
+        "pages\/keep-moving-week-0\/index.html",
+        "4G8dQxwZb4jZMMuQOroEow"
+    ],
+    [
+        "pages\/information-altruism-2-0\/index.html",
+        "LlhiRr3OXXP7hT5x7uXsg"
+    ],
+    [
         "pages\/why-i-started-hax-camp-1\/index.html",
         "aDZBqL8Pj6PeE3aAR3wQ"
     ],
@@ -56,7 +64,7 @@ var precacheConfig = [
     ],
     [
         "pages\/our-values-empowerment-1\/index.html",
-        "lj3ImRPySX3kin7BnwLVQ"
+        "uVWGP7sTp7vc6LgeGDKBA"
     ],
     [
         "pages\/catching-gman-1\/index.html",
@@ -175,6 +183,10 @@ var precacheConfig = [
         "1h7TigGPbxVVGwHx1nVDtA"
     ],
     [
+        "pages\/the-knowledge-decentralization-manifesto-the-prolog-2\/index.html",
+        "W9PjOuJ2Z1VUru9uVd2Jqw"
+    ],
+    [
         "pages\/hax-apereo-piece-2\/index.html",
         "AsykHl3UuMPJZy3bqxJw"
     ],
@@ -191,8 +203,20 @@ var precacheConfig = [
         "cFv09pj0etsH2f5uCb2cA"
     ],
     [
+        "pages\/ngdle-oer-cost-reduction-accessibility-and-decentralization-the-future-of-our-institutions-2\/index.html",
+        "IvGnAVEZDf9GFXO4lmfMWw"
+    ],
+    [
         "pages\/actually-curing-edtech-2\/index.html",
         "YqxXNxxva5VCpltmqiVJQ"
+    ],
+    [
+        "pages\/in-my-own-words-zero-cost-education-2\/index.html",
+        "hdqauH4aNSs0Q8hUAyMQQ"
+    ],
+    [
+        "pages\/education-technology-action-2\/index.html",
+        "7GKwQtHwxgjjrRS3W6O8EQ"
     ],
     [
         "pages\/pure-joy-2\/index.html",
@@ -227,12 +251,20 @@ var precacheConfig = [
         "lmcCuXSrNGzOUrlBf9yXQ"
     ],
     [
+        "pages\/-alt-reality-2\/index.html",
+        "fgceO6jsti2V6oS220iA"
+    ],
+    [
         "pages\/end-of-summer-2\/index.html",
         "4RK96XElOmm9mYVCO1FxQ"
     ],
     [
         "pages\/combating-the-rise-of-authoritarianism-2\/index.html",
         "wzsqtNrWX4qDQ80dz39b8w"
+    ],
+    [
+        "pages\/attacking-the-false-binary-of-politics-2\/index.html",
+        "0bot5nwnaDe0oWycvMqw"
     ],
     [
         "pages\/singularity-digital-activism-and-saving-our-institutions-2\/index.html",
@@ -280,7 +312,15 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "WGa3vji4VdX4pB29a5rsbQ"
+        "K9IhVzJvJzntP9tsZ93kRQ"
+    ],
+    [
+        "manifest.json",
+        "NQ6UNvs0WLO64hLCcFE39A"
+    ],
+    [
+        "site.json",
+        "tPZ31FTgOy8yw1C3QqnLQ"
     ],
     [
         "files\/haxcms-managed\/512x512-IMG_20190823_102434 2.jpg",
@@ -327,14 +367,6 @@ var precacheConfig = [
         "MC2oEa4LYQvAnSJAw65c2w"
     ],
     [
-        "manifest.json",
-        "gmNXxVtnfpUk2yLp2YOQ"
-    ],
-    [
-        "site.json",
-        "k4Qe5WEKdekvndP8LszHWQ"
-    ],
-    [
         "404.html",
         "QEzLbAYRfRrqwxyIGIpfNQ"
     ],
@@ -373,10 +405,6 @@ var precacheConfig = [
     [
         "files\/collapse.jpg",
         "9AhNkigqf3OSXyOx3jlB6w"
-    ],
-    [
-        "files\/._.DS_Store",
-        "A0pQqDXkb1dum938Ip9Mxw"
     ],
     [
         "files\/headshot143493.3299999684.jpg",
