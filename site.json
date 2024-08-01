@@ -2208,14 +2208,17 @@
       "slug": "new-item",
       "order": 0,
       "parent": null,
-      "title": "New item",
-      "description": "",
+      "title": "FOSSY Day 1",
+      "description": "\n",
       "metadata": {
         "locked": false,
         "created": 1722535480,
-        "images": [],
-        "videos": [],
-        "updated": 1722535480
+        "images": {},
+        "videos": {},
+        "updated": 1722535545,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     },
     {
