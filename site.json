@@ -2268,13 +2268,16 @@
       "order": 0,
       "parent": null,
       "title": "FOSSY Day 2",
-      "description": "",
+      "description": "Day two I hung out in the Education Track most of the day. This is a series of phrases and important topics I learned about to bring back:\nRenewable assignment - David Willey concept; it's having stu",
       "metadata": {
         "locked": false,
         "created": 1722646530,
-        "images": [],
-        "videos": [],
-        "updated": 1722646530
+        "images": {},
+        "videos": {},
+        "updated": 1722648008,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 2
       }
     }
   ]
