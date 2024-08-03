@@ -2246,16 +2246,21 @@
       "id": "item-c7c43c72-1a21-4e60-8d56-a12aac372936",
       "indent": 0,
       "location": "pages/item-c7c43c72-1a21-4e60-8d56-a12aac372936/index.html",
-      "slug": "page",
-      "order": 1,
+      "slug": "fossy-day-3",
+      "order": 2,
       "parent": null,
-      "title": "Page",
-      "description": "",
+      "title": "FOSSY Day 3",
+      "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
       "metadata": {
         "created": 1722699241,
-        "updated": 1722699241,
-        "images": [],
-        "videos": []
+        "updated": 1722699724,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "tags": "fossy",
+        "locked": false,
+        "readtime": 1
       }
     }
   ]
