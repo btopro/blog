@@ -11,3 +11,9 @@
  * Think of it like a sass mixin, where you can apply any css you want
  * inside of that block and it'll apply downstream. Two examples are given below
  */
+
+
+
+ .haxcms-theme-element::part(map-menu) {
+    max-width: 212px;
+ }
