@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1723477861,
+      "updated": 1723478338,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -34,10 +34,10 @@
       "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
     },
     "theme": {
-      "element": "terrible-productionz-themes",
-      "path": "@haxtheweb/terrible-themes/lib/terrible-productionz-themes.js",
-      "name": "Terrible productionz site",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "element": "bootstrap-theme",
+      "path": "@haxtheweb/bootstrap-theme/bootstrap-theme.js",
+      "name": "BootstrapCSS theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/BlueStyle.svg",
       "variables": {
         "image": "files/1500x5001.jpeg",
         "imageAlt": "",
