@@ -2135,13 +2135,16 @@
       "order": 0,
       "parent": null,
       "title": "Fossy24",
-      "description": "",
+      "description": "My thoughts on FOSSY 24 as they happened. I grouped them under here because they were per day and I think important to capture in that way.\n",
       "metadata": {
         "locked": false,
         "created": 1723213915,
-        "images": [],
-        "videos": [],
-        "updated": 1723213915
+        "images": {},
+        "videos": {},
+        "updated": 1723478731,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
