@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1723478338,
+      "updated": 1723478808,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -63,13 +63,13 @@
       "indent": 0,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
       "slug": "the-teachable",
-      "order": 3,
+      "order": 4,
       "parent": null,
       "title": "The Teachable",
       "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
       "metadata": {
         "created": "1704214231",
-        "updated": 1723213921,
+        "updated": 1723478771,
         "images": [
           "files/image.png"
         ],
@@ -129,7 +129,7 @@
         "created": 1704396258,
         "images": [],
         "videos": [],
-        "updated": 1722646570,
+        "updated": 1723478807,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -141,13 +141,13 @@
       "indent": 0,
       "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
       "slug": "i-developed",
-      "order": 2,
+      "order": 3,
       "parent": null,
       "title": "I, Developed.",
       "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
       "metadata": {
         "created": 1709329865,
-        "updated": 1723213920,
+        "updated": 1723478771,
         "images": [],
         "videos": [
           "https://www.youtube.com/watch?v=wjA9-eSr9ao"
@@ -175,13 +175,13 @@
       "indent": 0,
       "location": "pages/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0/index.html",
       "slug": "the-climb-1",
-      "order": 4,
+      "order": 5,
       "parent": null,
       "title": "The Climb",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213921,
+        "updated": 1723478772,
         "readtime": "7",
         "contentDetails": {
           "headings": "1",
@@ -233,13 +233,13 @@
       "indent": 0,
       "location": "pages/item-88a3c232-54d6-4179-8059-634223f201c4/index.html",
       "slug": "keep-moving-week-0",
-      "order": 5,
+      "order": 6,
       "parent": null,
       "title": "Keep moving: Week 0",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213923,
+        "updated": 1723478773,
         "readtime": "10",
         "contentDetails": {
           "headings": "1",
@@ -278,13 +278,13 @@
       "indent": 0,
       "location": "pages/item-8e045593-79fd-401d-b380-1029001f5574/index.html",
       "slug": "arrival",
-      "order": 6,
+      "order": 7,
       "parent": null,
       "title": "Arrival",
       "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
       "metadata": {
         "created": "1698076822",
-        "updated": 1723213924,
+        "updated": 1723478773,
         "images": [],
         "videos": [
           "https://youtu.be/iPGgdRGyUtM?si=tkME13Ni2qPOeTts",
@@ -305,13 +305,13 @@
       "indent": 0,
       "location": "pages/item-1235ea3a-9254-4b93-8df3-8909fddcce88/index.html",
       "slug": "information-altruism-2-0",
-      "order": 7,
+      "order": 8,
       "parent": null,
       "title": "Information Altruism 2.0",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213924,
+        "updated": 1723478774,
         "readtime": "7",
         "contentDetails": {
           "headings": "6",
@@ -336,13 +336,13 @@
       "indent": 0,
       "location": "pages/item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91/index.html",
       "slug": "why-i-started-hax-camp-1",
-      "order": 8,
+      "order": 9,
       "parent": null,
       "title": "Why I started hax-camp",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213926,
+        "updated": 1723478774,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files//EBd7L7eXkAAOW_d.jpg",
@@ -506,13 +506,13 @@
       "indent": 0,
       "location": "pages/item-25c16bd5-a817-4df1-b147-88e448309a4b/index.html",
       "slug": "abstractionism-1",
-      "order": 9,
+      "order": 10,
       "parent": null,
       "title": "Abstractionism",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213927,
+        "updated": 1723478775,
         "readtime": "3",
         "contentDetails": {
           "headings": "5",
@@ -534,13 +534,13 @@
       "indent": 0,
       "location": "pages/item-0589f6d1-3184-4e46-a856-7522d2a1b435/index.html",
       "slug": "villains-and-visionaries",
-      "order": 10,
+      "order": 11,
       "parent": null,
       "title": "Villains and Visionaries",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213928,
+        "updated": 1723478775,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -561,13 +561,13 @@
       "indent": 0,
       "location": "pages/item-7080d384-ade3-441e-867f-4d5b955f99a2/index.html",
       "slug": "our-values-empowerment-1",
-      "order": 11,
+      "order": 12,
       "parent": null,
       "title": "Our Values: Empowerment",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213928,
+        "updated": 1723478776,
         "readtime": "3",
         "contentDetails": {
           "headings": "1",
@@ -589,13 +589,13 @@
       "indent": 0,
       "location": "pages/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7/index.html",
       "slug": "catching-gman-1",
-      "order": 12,
+      "order": 13,
       "parent": null,
       "title": "Catching Gman",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213929,
+        "updated": 1723478776,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
@@ -671,13 +671,13 @@
       "indent": 0,
       "location": "pages/item-2d2887cc-08c8-4f22-8554-abcce1823282/index.html",
       "slug": "the-infinite-void-1",
-      "order": 13,
+      "order": 14,
       "parent": null,
       "title": "The infinite void",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213930,
+        "updated": 1723478777,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -698,13 +698,13 @@
       "indent": 0,
       "location": "pages/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711/index.html",
       "slug": "my-first-time-on-stage-2",
-      "order": 14,
+      "order": 15,
       "parent": null,
       "title": "My first time on stage",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213931,
+        "updated": 1723478777,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -726,13 +726,13 @@
       "indent": 0,
       "location": "pages/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a/index.html",
       "slug": "annabella-2",
-      "order": 15,
+      "order": 16,
       "parent": null,
       "title": "Annabella",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213932,
+        "updated": 1723478778,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -765,13 +765,13 @@
       "indent": 0,
       "location": "pages/item-006601d9-4063-4bd9-ba32-3e959b631d31/index.html",
       "slug": "hey-remember-when-2",
-      "order": 16,
+      "order": 17,
       "parent": null,
       "title": "Hey, remember when",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213933,
+        "updated": 1723478779,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -826,13 +826,13 @@
       "indent": 0,
       "location": "pages/item-e3d7d519-9549-4e44-9ab8-b9df805a3531/index.html",
       "slug": "open-community-pedagogy-2",
-      "order": 17,
+      "order": 18,
       "parent": null,
       "title": "Open Community Pedagogy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213934,
+        "updated": 1723478779,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/color-spectrum.jpg",
@@ -871,13 +871,13 @@
       "indent": 0,
       "location": "pages/item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc/index.html",
       "slug": "stand-against-the-ocean-2",
-      "order": 18,
+      "order": 19,
       "parent": null,
       "title": "Stand against the ocean",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213935,
+        "updated": 1723478780,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/IMG_20190307_142300.jpg",
@@ -917,13 +917,13 @@
       "indent": 0,
       "location": "pages/item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2/index.html",
       "slug": "edtechjoker-2",
-      "order": 19,
+      "order": 20,
       "parent": null,
       "title": "EdTechJoker",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213936,
+        "updated": 1723478780,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -950,13 +950,13 @@
       "indent": 0,
       "location": "pages/item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814/index.html",
       "slug": "technical-weapons-2",
-      "order": 20,
+      "order": 21,
       "parent": null,
       "title": "Technical weapons",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213937,
+        "updated": 1723478781,
         "readtime": "6",
         "contentDetails": {
           "headings": "7",
@@ -998,13 +998,13 @@
       "indent": 0,
       "location": "pages/item-73248929-e4a5-44eb-aea5-8e2373a34b69/index.html",
       "slug": "i-made-a-thing-2",
-      "order": 21,
+      "order": 22,
       "parent": null,
       "title": "I made a thing",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213938,
+        "updated": 1723478781,
         "readtime": "1",
         "contentDetails": {
           "headings": "0",
@@ -1049,13 +1049,13 @@
       "indent": 0,
       "location": "pages/item-04fb0667-5539-4d0a-b841-a203d6117d69/index.html",
       "slug": "the-web-components-high-performance-video-2",
-      "order": 22,
+      "order": 23,
       "parent": null,
       "title": "THE web components high performance video",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213939,
+        "updated": 1723478782,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/2019-05-24_11-14-49.jpg",
@@ -1106,7 +1106,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213941,
+        "updated": 1723478782,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/scale-50/IMG_20190127_153429.jpg",
@@ -1140,7 +1140,7 @@
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1723213942,
+        "updated": 1723478783,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
@@ -1168,7 +1168,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213943,
+        "updated": 1723478783,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/ie8.jpg",
@@ -1236,7 +1236,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213943,
+        "updated": 1723478784,
         "readtime": "3",
         "published": "1",
         "locked": "",
@@ -1255,7 +1255,7 @@
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1723213944,
+        "updated": 1723478785,
         "readtime": "4",
         "published": "1",
         "locked": "",
@@ -1273,7 +1273,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213945,
+        "updated": 1723478785,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1291,7 +1291,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213946,
+        "updated": 1723478786,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1309,7 +1309,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213947,
+        "updated": 1723478786,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1327,7 +1327,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213948,
+        "updated": 1723478787,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1344,7 +1344,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213949,
+        "updated": 1723478787,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1361,7 +1361,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213950,
+        "updated": 1723478788,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1404,7 +1404,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213951,
+        "updated": 1723478788,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1421,7 +1421,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213952,
+        "updated": 1723478789,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1438,7 +1438,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213953,
+        "updated": 1723478790,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1455,7 +1455,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213954,
+        "updated": 1723478790,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1472,7 +1472,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213955,
+        "updated": 1723478791,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1489,7 +1489,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213956,
+        "updated": 1723478791,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1506,7 +1506,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213957,
+        "updated": 1723478792,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1517,13 +1517,13 @@
       "indent": 0,
       "location": "pages/item-79649f12-a6d2-98f5-3c0b-8b88f2a24457/index.html",
       "slug": "hax-apereo-piece-2",
-      "order": 43,
+      "order": 42,
       "parent": null,
       "title": "HAX apereo piece",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213958,
+        "updated": 1723478792,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1534,13 +1534,13 @@
       "indent": 0,
       "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
       "slug": "the-perfect-cup-of-coffee-2",
-      "order": 44,
+      "order": 43,
       "parent": null,
       "title": "The perfect cup of coffee",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723213959,
+        "updated": 1723478793,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1551,13 +1551,13 @@
       "indent": 0,
       "location": "pages/item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0/index.html",
       "slug": "watch-the-ripples-and-you-ll-miss-the-waves-2",
-      "order": 47,
+      "order": 44,
       "parent": null,
       "title": "Watch the ripples and you'll miss the waves",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699783,
+        "updated": 1723478793,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1568,13 +1568,13 @@
       "indent": 0,
       "location": "pages/item-40122e25-5673-4544-133f-2acb042dbb23/index.html",
       "slug": "i-challenge-you-to-transform-education-together-2",
-      "order": 48,
+      "order": 45,
       "parent": null,
       "title": "I challenge you to Transform Education; together",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699783,
+        "updated": 1723478794,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1585,13 +1585,13 @@
       "indent": 0,
       "location": "pages/item-4080a73d-360e-7a65-131b-705b8c6169e7/index.html",
       "slug": "actually-curing-edtech-2",
-      "order": 52,
+      "order": 48,
       "parent": null,
       "title": "Actually, curing edtech",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699785,
+        "updated": 1723478796,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1602,13 +1602,13 @@
       "indent": 0,
       "location": "pages/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca/index.html",
       "slug": "pure-joy-2",
-      "order": 58,
+      "order": 51,
       "parent": null,
       "title": "Pure Joy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699789,
+        "updated": 1723478797,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1619,13 +1619,13 @@
       "indent": 0,
       "location": "pages/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2/index.html",
       "slug": "creating-the-decentralized-instructional-experience-app-2",
-      "order": 60,
+      "order": 53,
       "parent": null,
       "title": "Creating the decentralized instructional experience app",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699790,
+        "updated": 1723478798,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1636,13 +1636,13 @@
       "indent": 0,
       "location": "pages/item-1222b362-d24d-0aa7-20e7-724767f57656/index.html",
       "slug": "using-webcomponents-to-unearth-the-ngdle-2",
-      "order": 62,
+      "order": 54,
       "parent": null,
       "title": "Using Webcomponents to unearth the NGDLE",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699791,
+        "updated": 1723478799,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1653,13 +1653,13 @@
       "indent": 0,
       "location": "pages/item-be6f30a2-8a4d-e986-6af3-930f91e00464/index.html",
       "slug": "this-is-not-reality-2",
-      "order": 64,
+      "order": 56,
       "parent": null,
       "title": "This is not reality",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699792,
+        "updated": 1723478800,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1670,13 +1670,13 @@
       "indent": 0,
       "location": "pages/item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0/index.html",
       "slug": "playing-for-40-2",
-      "order": 66,
+      "order": 58,
       "parent": null,
       "title": "Playing for 40",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699794,
+        "updated": 1723478801,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1687,13 +1687,13 @@
       "indent": 0,
       "location": "pages/item-e8c71c40-1351-7293-ae61-2e01b348f71f/index.html",
       "slug": "dood-2",
-      "order": 49,
+      "order": 46,
       "parent": null,
       "title": "Dood",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699784,
+        "updated": 1723478794,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1704,13 +1704,13 @@
       "indent": 0,
       "location": "pages/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd/index.html",
       "slug": "generation-uine-2",
-      "order": 51,
+      "order": 47,
       "parent": null,
       "title": "Generation Uine",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699785,
+        "updated": 1723478795,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1721,13 +1721,13 @@
       "indent": 0,
       "location": "pages/item-8099a4ba-8fbc-a60f-7451-ac12d8d17409/index.html",
       "slug": "birthday-party-2",
-      "order": 53,
+      "order": 49,
       "parent": null,
       "title": "Birthday party",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699786,
+        "updated": 1723478796,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1738,13 +1738,13 @@
       "indent": 0,
       "location": "pages/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e/index.html",
       "slug": "end-of-summer-2",
-      "order": 57,
+      "order": 50,
       "parent": null,
       "title": "End of Summer",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699788,
+        "updated": 1723478797,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1755,13 +1755,13 @@
       "indent": 0,
       "location": "pages/item-bf9b2910-4880-c87f-4026-143bb334d1a6/index.html",
       "slug": "combating-the-rise-of-authoritarianism-2",
-      "order": 59,
+      "order": 52,
       "parent": null,
       "title": "Combating the rise of authoritarianism",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699789,
+        "updated": 1723478798,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1772,13 +1772,13 @@
       "indent": 0,
       "location": "pages/item-92c8d1d5-e579-930b-2c57-e9753e9dfefe/index.html",
       "slug": "singularity-digital-activism-and-saving-our-institutions-2",
-      "order": 63,
+      "order": 55,
       "parent": null,
       "title": "Singularity, Digital Activism, and saving our institutions",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699792,
+        "updated": 1723478799,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1789,13 +1789,13 @@
       "indent": 0,
       "location": "pages/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d/index.html",
       "slug": "ddosa-2",
-      "order": 65,
+      "order": 57,
       "parent": null,
       "title": "DDoSA",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699793,
+        "updated": 1723478800,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1806,13 +1806,13 @@
       "indent": 0,
       "location": "pages/item-f7c4705e-c70b-6cf9-0623-095830584d4d/index.html",
       "slug": "occutea-wallparty-2",
-      "order": 67,
+      "order": 59,
       "parent": null,
       "title": "OccuTea WallParty",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722699794,
+        "updated": 1723478802,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1823,13 +1823,13 @@
       "indent": 0,
       "location": "pages/item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e/index.html",
       "slug": "efficiency-as-activism-2",
-      "order": 69,
+      "order": 60,
       "parent": null,
       "title": "Efficiency as Activism",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646565,
+        "updated": 1723478802,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1840,13 +1840,13 @@
       "indent": 0,
       "location": "pages/item-093425c7-cba0-e10b-60f8-9bf6afd32f9a/index.html",
       "slug": "rate-of-perception-2",
-      "order": 70,
+      "order": 61,
       "parent": null,
       "title": "Rate of perception",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646566,
+        "updated": 1723478803,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1857,13 +1857,13 @@
       "indent": 0,
       "location": "pages/item-f8a9a36b-2d96-17ec-0a07-356191bb57ff/index.html",
       "slug": "ministry-of-information-2",
-      "order": 71,
+      "order": 62,
       "parent": null,
       "title": "Ministry of information",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646566,
+        "updated": 1723478803,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1874,13 +1874,13 @@
       "indent": 0,
       "location": "pages/item-2ddc5396-01fe-60fc-5c23-fa40abae58e9/index.html",
       "slug": "organic-deployment-architecture-2",
-      "order": 72,
+      "order": 63,
       "parent": null,
       "title": "Organic Deployment Architecture",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646567,
+        "updated": 1723478804,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
@@ -1909,13 +1909,13 @@
       "indent": 0,
       "location": "pages/item-b1e5eaa3-a5e9-ee65-d607-9d5cf65f5e70/index.html",
       "slug": "legacy-of-human-hierarchy-2",
-      "order": 73,
+      "order": 64,
       "parent": null,
       "title": "Legacy of Human Hierarchy",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646567,
+        "updated": 1723478804,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
@@ -1936,13 +1936,13 @@
       "indent": 0,
       "location": "pages/item-07d2884a-9e17-32f2-3175-0887f02bb49c/index.html",
       "slug": "transform-control-2",
-      "order": 74,
+      "order": 65,
       "parent": null,
       "title": "Transform Control",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646568,
+        "updated": 1723478805,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
@@ -1963,13 +1963,13 @@
       "indent": 0,
       "location": "pages/item-25e65b02-61b2-b987-7e86-601a241f74c9/index.html",
       "slug": "transforming-industry-through-information-altruism-2",
-      "order": 75,
+      "order": 66,
       "parent": null,
       "title": "Transforming industry through information altruism",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646569,
+        "updated": 1723478805,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
@@ -1990,13 +1990,13 @@
       "indent": 0,
       "location": "pages/item-c6866e7a-1981-8c76-293a-0b96181e4945/index.html",
       "slug": "sustainable-systems-development-a-moral-issue-2",
-      "order": 76,
+      "order": 67,
       "parent": null,
       "title": "Sustainable Systems Development: A moral issue",
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1722646569,
+        "updated": 1723478806,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
@@ -2017,7 +2017,7 @@
       "indent": 0,
       "location": "pages/item-5f281e5d-3162-4e83-8447-bd3c1e5a09e2/index.html",
       "slug": "regions",
-      "order": 77,
+      "order": 68,
       "parent": null,
       "title": "Regions",
       "description": "",
@@ -2026,7 +2026,7 @@
         "created": 1704396258,
         "images": [],
         "videos": [],
-        "updated": 1722646570,
+        "updated": 1723478807,
         "published": true,
         "status": ""
       }
@@ -2036,7 +2036,7 @@
       "indent": 0,
       "location": "pages/item-5d8c0376-f796-41db-92f5-75eccf36d24b/index.html",
       "slug": "go-time",
-      "order": 1,
+      "order": 2,
       "parent": null,
       "title": "Go time",
       "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
@@ -2045,7 +2045,7 @@
         "created": 1721325576,
         "images": {},
         "videos": {},
-        "updated": 1723213919,
+        "updated": 1723478770,
         "published": true,
         "hideInMenu": false,
         "readtime": 4,
@@ -2077,7 +2077,7 @@
         "created": 1722535480,
         "images": {},
         "videos": {},
-        "updated": 1723213915,
+        "updated": 1723478769,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -2098,7 +2098,7 @@
         "created": 1722646530,
         "images": {},
         "videos": {},
-        "updated": 1723213917,
+        "updated": 1723478769,
         "published": true,
         "hideInMenu": false,
         "readtime": 2,
@@ -2116,7 +2116,7 @@
       "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
       "metadata": {
         "created": 1722699241,
-        "updated": 1723213917,
+        "updated": 1723478770,
         "images": {},
         "videos": {},
         "published": true,
@@ -2132,7 +2132,7 @@
       "indent": 0,
       "location": "pages/item-49900a85-b309-48d5-a962-e291ca69b352/index.html",
       "slug": "fossy24",
-      "order": 0,
+      "order": 1,
       "parent": null,
       "title": "Fossy24",
       "description": "My thoughts on FOSSY 24 as they happened. I grouped them under here because they were per day and I think important to capture in that way.\n",
@@ -2141,10 +2141,28 @@
         "created": 1723213915,
         "images": {},
         "videos": {},
-        "updated": 1723478731,
+        "updated": 1723478768,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-802d3c36-cd68-4eb7-b45c-761a779c08d5",
+      "indent": 0,
+      "location": "pages/item-802d3c36-cd68-4eb7-b45c-761a779c08d5/index.html",
+      "slug": "open-source-cms---the-4th-turning",
+      "order": 0,
+      "parent": null,
+      "title": "Open source CMS - The 4th turning",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1723478768,
+        "images": [],
+        "videos": [],
+        "updated": 1723478768
       }
     }
   ]
