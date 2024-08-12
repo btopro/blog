@@ -2156,13 +2156,16 @@
       "order": 0,
       "parent": null,
       "title": "Open source CMS - The 4th turning",
-      "description": "",
+      "description": "A parking lot conversation with a dear friend last night lead to these thoughts of what is the 4th turning when it comes to content web?\n1st turning: Static web using standards, but they are emergent",
       "metadata": {
         "locked": false,
         "created": 1723478768,
-        "images": [],
-        "videos": [],
-        "updated": 1723478768
+        "images": {},
+        "videos": {},
+        "updated": 1723478892,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 3
       }
     }
   ]
