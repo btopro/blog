@@ -1787,23 +1787,6 @@
       }
     },
     {
-      "id": "item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c",
-      "indent": 0,
-      "location": "pages/item-773011dc-d235-36bf-7c70-fb0f8a4f4f1c/index.html",
-      "slug": "-alt-reality-2",
-      "order": 55,
-      "parent": null,
-      "title": "[Alt] + {{reality}}",
-      "description": "",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1722699787,
-        "published": "1",
-        "locked": "",
-        "status": ""
-      }
-    },
-    {
       "id": "item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e",
       "indent": 0,
       "location": "pages/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e/index.html",
