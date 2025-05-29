@@ -1,6 +1,6 @@
 {
   "name": "btopro",
-  "version": "9.0.5",
+  "version": "10.0.2",
   "description": "All things btopro on my own blog",
   "main": "index.html",
   "author": {
@@ -12,9 +12,9 @@
     "access": "public"
   },
   "scripts": {
-    "start": "npm run dev",
-    "ghpages:build": "rm dist && rm assets/babel* && rm build && rm node_modules && rm wc-registry.json",
-    "dev": "npx @haxtheweb/haxcms-nodejs",
-    "dev-theme": "cd custom && npm start"
+    "start": "npm run serve",
+    "ghpages:build": "rm index.html && mv ghpages.html index.html && rm assets/babel* && rm build && rm wc-registry.json",
+    "serve": "npx @haxtheweb/haxcms-nodejs",
+    "dev": "NODE_ENV=development npm run serve"
   }
 }
