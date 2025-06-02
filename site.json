@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1748895310,
+      "updated": 1748895340,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -138,7 +138,7 @@
     },
     {
       "id": "item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
       "slug": "i-developed",
       "order": 0,
@@ -147,16 +147,14 @@
       "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
       "metadata": {
         "created": 1709329865,
-        "updated": 1748895291,
-        "images": [],
-        "videos": [
-          "https://www.youtube.com/watch?v=wjA9-eSr9ao"
-        ],
+        "updated": 1748895340,
+        "images": {},
+        "videos": {},
         "published": true,
         "hideInMenu": false,
         "locked": false,
         "readtime": 3,
-        "tags": "inspire,hockey,future",
+        "tags": "Coaching, 2024",
         "files": [
           {
             "fullUrl": "/sites/btopro/files/i-developed.jpg",
