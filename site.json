@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1748895340,
+      "updated": 1748895360,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -60,7 +60,7 @@
   "items": [
     {
       "id": "item-e69dc923-a3a6-4052-8726-9aeec9c2105c",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
       "slug": "the-teachable",
       "order": 1,
@@ -69,13 +69,9 @@
       "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
       "metadata": {
         "created": "1704214231",
-        "updated": 1748895291,
-        "images": [
-          "files/image.png"
-        ],
-        "videos": [
-          "https://youtu.be/OQPqP02Zv_w"
-        ],
+        "updated": 1748895360,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "fullUrl": "/sites/btopro/files/image.png",
@@ -106,13 +102,13 @@
             "size": "99213"
           }
         ],
-        "published": "1",
-        "hideInMenu": "",
-        "locked": "",
-        "readtime": "7",
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 7,
         "status": "",
         "image": "files/10uchampions.jpg",
-        "tags": "coaching,hockey,life,family"
+        "tags": "coaching, 2024"
       }
     },
     {
