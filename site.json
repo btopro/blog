@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1748552004,
+      "updated": 1748895310,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -60,16 +60,16 @@
   "items": [
     {
       "id": "item-e69dc923-a3a6-4052-8726-9aeec9c2105c",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
       "slug": "the-teachable",
-      "order": 4,
-      "parent": null,
+      "order": 1,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "The Teachable",
       "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
       "metadata": {
         "created": "1704214231",
-        "updated": 1723478771,
+        "updated": 1748895291,
         "images": [
           "files/image.png"
         ],
@@ -129,7 +129,7 @@
         "created": 1704396258,
         "images": [],
         "videos": [],
-        "updated": 1723478807,
+        "updated": 1748895310,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -138,16 +138,16 @@
     },
     {
       "id": "item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
       "slug": "i-developed",
-      "order": 3,
-      "parent": null,
+      "order": 0,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "I, Developed.",
       "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
       "metadata": {
         "created": 1709329865,
-        "updated": 1723478771,
+        "updated": 1748895291,
         "images": [],
         "videos": [
           "https://www.youtube.com/watch?v=wjA9-eSr9ao"
@@ -181,7 +181,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478772,
+        "updated": 1748895293,
         "readtime": "7",
         "contentDetails": {
           "headings": "1",
@@ -239,7 +239,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478773,
+        "updated": 1748895293,
         "readtime": "10",
         "contentDetails": {
           "headings": "1",
@@ -284,7 +284,7 @@
       "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
       "metadata": {
         "created": "1698076822",
-        "updated": 1723478773,
+        "updated": 1748895293,
         "images": [],
         "videos": [
           "https://youtu.be/iPGgdRGyUtM?si=tkME13Ni2qPOeTts",
@@ -311,7 +311,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478774,
+        "updated": 1748895294,
         "readtime": "7",
         "contentDetails": {
           "headings": "6",
@@ -342,7 +342,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478774,
+        "updated": 1748895294,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files//EBd7L7eXkAAOW_d.jpg",
@@ -512,7 +512,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478775,
+        "updated": 1748895294,
         "readtime": "3",
         "contentDetails": {
           "headings": "5",
@@ -540,7 +540,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478775,
+        "updated": 1748895295,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -567,7 +567,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478776,
+        "updated": 1748895295,
         "readtime": "3",
         "contentDetails": {
           "headings": "1",
@@ -595,7 +595,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478776,
+        "updated": 1748895295,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
@@ -677,7 +677,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478777,
+        "updated": 1748895295,
         "readtime": "3",
         "contentDetails": {
           "headings": "0",
@@ -704,7 +704,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478777,
+        "updated": 1748895296,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -732,7 +732,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478778,
+        "updated": 1748895296,
         "readtime": "8",
         "contentDetails": {
           "headings": "0",
@@ -771,7 +771,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478779,
+        "updated": 1748895296,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -832,7 +832,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478779,
+        "updated": 1748895296,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/color-spectrum.jpg",
@@ -877,7 +877,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478780,
+        "updated": 1748895297,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/IMG_20190307_142300.jpg",
@@ -923,7 +923,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478780,
+        "updated": 1748895297,
         "readtime": "4",
         "contentDetails": {
           "headings": "0",
@@ -956,7 +956,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478781,
+        "updated": 1748895297,
         "readtime": "6",
         "contentDetails": {
           "headings": "7",
@@ -1004,7 +1004,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478781,
+        "updated": 1748895297,
         "readtime": "1",
         "contentDetails": {
           "headings": "0",
@@ -1055,7 +1055,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478782,
+        "updated": 1748895298,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/2019-05-24_11-14-49.jpg",
@@ -1106,7 +1106,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478782,
+        "updated": 1748895298,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/scale-50/IMG_20190127_153429.jpg",
@@ -1140,7 +1140,7 @@
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1723478783,
+        "updated": 1748895298,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
@@ -1168,7 +1168,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478783,
+        "updated": 1748895299,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/ie8.jpg",
@@ -1236,7 +1236,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478784,
+        "updated": 1748895299,
         "readtime": "3",
         "published": "1",
         "locked": "",
@@ -1255,7 +1255,7 @@
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1723478785,
+        "updated": 1748895299,
         "readtime": "4",
         "published": "1",
         "locked": "",
@@ -1273,7 +1273,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478785,
+        "updated": 1748895299,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1291,7 +1291,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478786,
+        "updated": 1748895300,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1309,7 +1309,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478786,
+        "updated": 1748895300,
         "readtime": "1",
         "published": "1",
         "locked": "",
@@ -1327,7 +1327,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478787,
+        "updated": 1748895300,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1344,7 +1344,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478787,
+        "updated": 1748895300,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1361,7 +1361,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478788,
+        "updated": 1748895301,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1404,7 +1404,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478788,
+        "updated": 1748895301,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1421,7 +1421,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478789,
+        "updated": 1748895301,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1438,7 +1438,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478790,
+        "updated": 1748895301,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1455,7 +1455,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478790,
+        "updated": 1748895302,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1472,7 +1472,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478791,
+        "updated": 1748895302,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1489,7 +1489,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478791,
+        "updated": 1748895302,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1506,7 +1506,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478792,
+        "updated": 1748895303,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1523,7 +1523,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478792,
+        "updated": 1748895303,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1540,7 +1540,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478793,
+        "updated": 1748895303,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1557,7 +1557,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478793,
+        "updated": 1748895303,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1574,7 +1574,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478794,
+        "updated": 1748895304,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1591,7 +1591,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478796,
+        "updated": 1748895304,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1608,7 +1608,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478797,
+        "updated": 1748895305,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1625,7 +1625,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478798,
+        "updated": 1748895306,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1642,7 +1642,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478799,
+        "updated": 1748895306,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1659,7 +1659,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478800,
+        "updated": 1748895307,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1676,7 +1676,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478801,
+        "updated": 1748895307,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1693,7 +1693,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478794,
+        "updated": 1748895304,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1710,7 +1710,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478795,
+        "updated": 1748895304,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1727,7 +1727,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478796,
+        "updated": 1748895305,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1744,7 +1744,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478797,
+        "updated": 1748895305,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1761,7 +1761,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478798,
+        "updated": 1748895305,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1778,7 +1778,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478799,
+        "updated": 1748895306,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1795,7 +1795,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478800,
+        "updated": 1748895307,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1812,7 +1812,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478802,
+        "updated": 1748895307,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1829,7 +1829,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478802,
+        "updated": 1748895308,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1846,7 +1846,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478803,
+        "updated": 1748895308,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1863,7 +1863,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478803,
+        "updated": 1748895308,
         "published": "1",
         "locked": "",
         "status": ""
@@ -1880,7 +1880,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478804,
+        "updated": 1748895308,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
@@ -1915,7 +1915,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478804,
+        "updated": 1748895309,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/037e9f1490d0606b7967973e65ebefb1dbb333ee-file0001605429169.jpg",
@@ -1942,7 +1942,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478805,
+        "updated": 1748895309,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
@@ -1969,7 +1969,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478805,
+        "updated": 1748895309,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
@@ -1996,7 +1996,7 @@
       "description": "",
       "metadata": {
         "created": "1698074988",
-        "updated": 1723478806,
+        "updated": 1748895309,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/243b170c2b1bfa37b38cf9b7b4d1f2b6810e8906-dsc01395.jpg",
@@ -2026,7 +2026,7 @@
         "created": 1704396258,
         "images": [],
         "videos": [],
-        "updated": 1723478807,
+        "updated": 1748895310,
         "published": true,
         "status": ""
       }
@@ -2036,7 +2036,7 @@
       "indent": 0,
       "location": "pages/item-5d8c0376-f796-41db-92f5-75eccf36d24b/index.html",
       "slug": "go-time",
-      "order": 2,
+      "order": 4,
       "parent": null,
       "title": "Go time",
       "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
@@ -2045,7 +2045,7 @@
         "created": 1721325576,
         "images": {},
         "videos": {},
-        "updated": 1723478770,
+        "updated": 1748895293,
         "published": true,
         "hideInMenu": false,
         "readtime": 4,
@@ -2065,7 +2065,7 @@
     },
     {
       "id": "item-e21ae903-c528-475f-926d-fe5b9d97c990",
-      "indent": 1,
+      "indent": 2,
       "location": "pages/item-e21ae903-c528-475f-926d-fe5b9d97c990/index.html",
       "slug": "fossy-day-1",
       "order": 0,
@@ -2077,7 +2077,7 @@
         "created": 1722535480,
         "images": {},
         "videos": {},
-        "updated": 1723478769,
+        "updated": 1748895292,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -2086,7 +2086,7 @@
     },
     {
       "id": "item-43058044-fc46-4222-b5a5-5033f5166afa",
-      "indent": 1,
+      "indent": 2,
       "location": "pages/item-43058044-fc46-4222-b5a5-5033f5166afa/index.html",
       "slug": "fossy-day-2",
       "order": 1,
@@ -2098,7 +2098,7 @@
         "created": 1722646530,
         "images": {},
         "videos": {},
-        "updated": 1723478769,
+        "updated": 1748895292,
         "published": true,
         "hideInMenu": false,
         "readtime": 2,
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "item-c7c43c72-1a21-4e60-8d56-a12aac372936",
-      "indent": 1,
+      "indent": 2,
       "location": "pages/item-c7c43c72-1a21-4e60-8d56-a12aac372936/index.html",
       "slug": "fossy-day-3",
       "order": 2,
@@ -2116,7 +2116,7 @@
       "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
       "metadata": {
         "created": 1722699241,
-        "updated": 1723478770,
+        "updated": 1748895292,
         "images": {},
         "videos": {},
         "published": true,
@@ -2129,11 +2129,11 @@
     },
     {
       "id": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-49900a85-b309-48d5-a962-e291ca69b352/index.html",
       "slug": "fossy24",
-      "order": 1,
-      "parent": null,
+      "order": 0,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Fossy24",
       "description": "My thoughts on FOSSY 24 as they happened. I grouped them under here because they were per day and I think important to capture in that way.\n",
       "metadata": {
@@ -2141,7 +2141,7 @@
         "created": 1723213915,
         "images": {},
         "videos": {},
-        "updated": 1723478768,
+        "updated": 1748895291,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
@@ -2150,11 +2150,11 @@
     },
     {
       "id": "item-802d3c36-cd68-4eb7-b45c-761a779c08d5",
-      "indent": 0,
+      "indent": 1,
       "location": "pages/item-802d3c36-cd68-4eb7-b45c-761a779c08d5/index.html",
       "slug": "open-source-cms---the-4th-turning",
-      "order": 0,
-      "parent": null,
+      "order": 1,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Open source CMS - The 4th turning",
       "description": "A parking lot conversation with a dear friend last night lead to these thoughts of what is the 4th turning when it comes to content web?\n1st turning: Static web using standards, but they are emergent",
       "metadata": {
@@ -2162,10 +2162,79 @@
         "created": 1723478768,
         "images": {},
         "videos": {},
-        "updated": 1723478892,
+        "updated": 1748895292,
         "published": true,
         "hideInMenu": false,
-        "readtime": 3
+        "readtime": 3,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-87440d77-c8be-4443-86f6-ad665a43538f",
+      "indent": 0,
+      "location": "pages/item-87440d77-c8be-4443-86f6-ad665a43538f/index.html",
+      "slug": "about",
+      "order": 0,
+      "parent": null,
+      "title": "About",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1748895291
+      }
+    },
+    {
+      "id": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "indent": 0,
+      "location": "pages/item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18/index.html",
+      "slug": "life",
+      "order": 1,
+      "parent": null,
+      "title": "Life",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1748895291
+      }
+    },
+    {
+      "id": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "indent": 0,
+      "location": "pages/item-0c02becd-f145-497d-a233-7866dbb6a3ae/index.html",
+      "slug": "work",
+      "order": 2,
+      "parent": null,
+      "title": "Work",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1748895291
+      }
+    },
+    {
+      "id": "item-9a185c5f-542b-4b53-a531-74dc882752a7",
+      "indent": 0,
+      "location": "pages/item-9a185c5f-542b-4b53-a531-74dc882752a7/index.html",
+      "slug": "contact",
+      "order": 3,
+      "parent": null,
+      "title": "Contact",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1748895293,
+        "images": [],
+        "videos": [],
+        "updated": 1748895293
       }
     }
   ]
