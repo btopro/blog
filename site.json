@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1748895368,
+      "updated": 1748895482,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2101,7 +2101,7 @@
     },
     {
       "id": "item-c7c43c72-1a21-4e60-8d56-a12aac372936",
-      "indent": 2,
+      "indent": 0,
       "location": "pages/item-c7c43c72-1a21-4e60-8d56-a12aac372936/index.html",
       "slug": "fossy-day-3",
       "order": 2,
@@ -2110,12 +2110,11 @@
       "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
       "metadata": {
         "created": 1722699241,
-        "updated": 1748895292,
+        "updated": 1748895481,
         "images": {},
         "videos": {},
         "published": true,
         "hideInMenu": false,
-        "tags": "fossy",
         "locked": false,
         "readtime": 1,
         "status": ""
