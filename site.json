@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229003,
+      "updated": 1749229141,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1576,16 +1576,21 @@
       "indent": 0,
       "location": "pages/item-6c53744c-1b33-97a1-976f-90484f5bc450/index.html",
       "slug": "innovation-s-four-ingredients-2",
-      "order": 39,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Innovation's four ingredients",
-      "description": "",
+      "description": "I saw this picture at Disney's Test Track ride and had to take a picture. I love that the build up to this ride they have lots of (propaganda) pictures, prototypes and interviews with people about ca",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895302,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229042,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
@@ -1593,16 +1598,21 @@
       "indent": 0,
       "location": "pages/item-401610da-127f-602f-5298-265f5eea00ee/index.html",
       "slug": "straddling-the-abyss-2",
-      "order": 40,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Straddling the Abyss",
-      "description": "",
+      "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward,",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895302,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229140,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
