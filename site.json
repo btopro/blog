@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228820,
+      "updated": 1749228833,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1352,17 +1352,21 @@
       "indent": 0,
       "location": "pages/item-cd716dd0-59b0-a24d-1ddb-2779369c52b2/index.html",
       "slug": "2018-innovation-submission-2",
-      "order": 30,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "2018 Innovation Submission",
-      "description": "",
+      "description": "\n    \n      \n    Not innovative\nThis is my submission to the TLT 2018 Open Innovation Challenge. \n\n\nWe have amazing capabilities and solutions available to us as an R1 research institution. But like ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895300,
-        "readtime": "1",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228833,
+        "readtime": 1,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "videos": {},
+        "images": {}
       }
     },
     {
