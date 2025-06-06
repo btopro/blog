@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228323,
+      "updated": 1749228347,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -545,14 +545,14 @@
       "indent": 0,
       "location": "pages/item-0589f6d1-3184-4e46-a856-7522d2a1b435/index.html",
       "slug": "villains-and-visionaries",
-      "order": 11,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Villains and Visionaries",
-      "description": "",
+      "description": "The Joker and V are both painted as villains but its only V that breaks through to what he actually is as seen by the audience: a visionary. A vision of a different form of society then the one in pl",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895295,
-        "readtime": "3",
+        "updated": 1749228347,
+        "readtime": 3,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "12",
@@ -562,9 +562,13 @@
           },
           "elements": "12"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
