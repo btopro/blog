@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229282,
+      "updated": 1749229295,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1729,16 +1729,21 @@
       "indent": 0,
       "location": "pages/item-4080a73d-360e-7a65-131b-705b8c6169e7/index.html",
       "slug": "actually-curing-edtech-2",
-      "order": 48,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Actually, curing edtech",
-      "description": "",
+      "description": "I read an article recently by Educause Review\n and I wonder if your able to pick up on what I did. Before reading ahead, take a minute and read through their article. It's a good take on the state of",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895304,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229295,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
