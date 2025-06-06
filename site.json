@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228985,
+      "updated": 1749229003,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1554,16 +1554,21 @@
       "indent": 0,
       "location": "pages/item-8cef1ad3-7cc7-778a-b125-1d85f265742d/index.html",
       "slug": "the-lms-is-cable-we-are-roku-expect-us-2",
-      "order": 38,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "The LMS is Cable, We are Roku. Expect Us",
-      "description": "",
+      "description": "Cable\nIn the 40s and 50s, the Cable industry was born.\nBy the mid 60s it had almost a million subscribers. In the 70s and 80s the FCC regulated it heavily because of how much of an influence it had o",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895302,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229003,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 6,
+        "videos": {},
+        "images": {}
       }
     },
     {
