@@ -2426,7 +2426,17 @@
         "updated": 1748897365,
         "published": true,
         "hideInMenu": false,
-        "readtime": 1
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+            "url": "files/headshot565332.5.jpg",
+            "type": "image/jpeg",
+            "name": "headshot565332.5.jpg",
+            "size": 140815
+          }
+        ]
       }
     },
     {
