@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229586,
+      "updated": 1749229597,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2075,16 +2075,21 @@
       "indent": 0,
       "location": "pages/item-f8a9a36b-2d96-17ec-0a07-356191bb57ff/index.html",
       "slug": "ministry-of-information-2",
-      "order": 62,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Ministry of information",
-      "description": "",
+      "description": "Are we witness to 1940s style crowd manipulation through propaganda without realizing it? Have you watched the news lately? Does it go by a single day without having a \"Get social\" or \"#HotToday\" kin",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895308,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229596,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
