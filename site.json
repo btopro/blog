@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228164,
+      "updated": 1749228175,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -170,12 +170,12 @@
       "location": "pages/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0/index.html",
       "slug": "the-climb-1",
       "order": 4,
-      "parent": null,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "The Climb",
       "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]\n  if we're going to get to 2020 and what's to come in that year... ther",
       "metadata": {
         "created": "1698074988",
-        "updated": 1749228164,
+        "updated": 1749228174,
         "readtime": 7,
         "contentDetails": {
           "headings": "1",
