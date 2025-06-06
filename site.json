@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228516,
+      "updated": 1749228535,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -865,13 +865,13 @@
       "indent": 0,
       "location": "pages/item-e3d7d519-9549-4e44-9ab8-b9df805a3531/index.html",
       "slug": "open-community-pedagogy-2",
-      "order": 18,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Open Community Pedagogy",
-      "description": "",
+      "description": "  This instructional designer didn't need to know HTML in order to convey an instructional concept.\n  Your right! No one should need to understand HTML in order to contribute meaningful knowledge to ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895296,
+        "updated": 1749228534,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/color-spectrum.jpg",
@@ -882,7 +882,7 @@
             "size": "78574"
           }
         ],
-        "readtime": "2",
+        "readtime": 2,
         "contentDetails": {
           "headings": "1",
           "paragraphs": "5",
@@ -900,9 +900,13 @@
           },
           "elements": "8"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
