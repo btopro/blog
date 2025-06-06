@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1748897365,
+      "updated": 1749228046,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2031,7 +2031,7 @@
       "location": "pages/item-5d8c0376-f796-41db-92f5-75eccf36d24b/index.html",
       "slug": "go-time",
       "order": 4,
-      "parent": null,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Go time",
       "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
       "metadata": {
@@ -2039,7 +2039,7 @@
         "created": 1721325576,
         "images": {},
         "videos": {},
-        "updated": 1748895293,
+        "updated": 1749228045,
         "published": true,
         "hideInMenu": false,
         "readtime": 4,
@@ -2053,7 +2053,7 @@
             "size": 61625
           }
         ],
-        "tags": "dx, 2025, revolution, hax9",
+        "tags": "The Climb, 2024",
         "status": ""
       }
     },
