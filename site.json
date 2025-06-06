@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228535,
+      "updated": 1749228563,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -914,13 +914,13 @@
       "indent": 0,
       "location": "pages/item-6286f8c6-5ba7-4623-8028-45fa1ac0ccdc/index.html",
       "slug": "stand-against-the-ocean-2",
-      "order": 19,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Stand against the ocean",
-      "description": "",
+      "description": "\n    Stand Against\n      \n    Complacency\nThe waves of life will crash upon you, and they'll crash hard my son. You'll be expected to carry loads that you feel aren't yours. You'll be asked to stand ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895297,
+        "updated": 1749228562,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/IMG_20190307_142300.jpg",
@@ -931,7 +931,7 @@
             "size": "98301"
           }
         ],
-        "readtime": "2",
+        "readtime": 2,
         "contentDetails": {
           "headings": "1",
           "paragraphs": "9",
@@ -950,9 +950,13 @@
           },
           "elements": "13"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
