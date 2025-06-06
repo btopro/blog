@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228408,
+      "updated": 1749228442,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -725,14 +725,14 @@
       "indent": 0,
       "location": "pages/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711/index.html",
       "slug": "my-first-time-on-stage-2",
-      "order": 15,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "My first time on stage",
-      "description": "",
+      "description": "This, is probably going to become a weekly thing or at least I'll try and make it one. This is a recap of the 1st week of class with #EdTechJoker\n\n\n.\nIf you haven't followed the references, I'm code ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895296,
-        "readtime": "8",
+        "updated": 1749228442,
+        "readtime": 8,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "29",
@@ -743,9 +743,13 @@
           },
           "elements": "31"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "EdTechJoker",
+        "videos": {},
+        "images": {}
       }
     },
     {
