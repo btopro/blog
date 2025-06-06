@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229228,
+      "updated": 1749229271,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1854,16 +1854,20 @@
       "indent": 0,
       "location": "pages/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd/index.html",
       "slug": "generation-uine-2",
-      "order": 47,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Generation Uine",
-      "description": "",
+      "description": "I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read art",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895304,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229271,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
