@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229153,
+      "updated": 1749229170,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1642,16 +1642,21 @@
       "indent": 0,
       "location": "pages/item-79649f12-a6d2-98f5-3c0b-8b88f2a24457/index.html",
       "slug": "hax-apereo-piece-2",
-      "order": 42,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "HAX apereo piece",
-      "description": "",
+      "description": "Once you see HAX, and realize how it works, you won't be able to unsee it. What is HAX? HAX is short for Headless Authoring eXperience; meaning that we've decoupled the authoring of content and media",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895303,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229169,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Events",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
