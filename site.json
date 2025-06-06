@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229398,
+      "updated": 1749229414,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1962,16 +1962,21 @@
       "indent": 0,
       "location": "pages/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d/index.html",
       "slug": "ddosa-2",
-      "order": 57,
-      "parent": null,
+      "order": 9,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "DDoSA",
-      "description": "",
+      "description": "We live in the age of Citizen agents&#8207;. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895307,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229414,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 5,
+        "videos": {},
+        "images": {}
       }
     },
     {
