@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228683,
+      "updated": 1749228698,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1087,13 +1087,13 @@
       "indent": 0,
       "location": "pages/item-04fb0667-5539-4d0a-b841-a203d6117d69/index.html",
       "slug": "the-web-components-high-performance-video-2",
-      "order": 23,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "THE web components high performance video",
-      "description": "",
+      "description": "I've become a bit performance obsessed. I often lament that the worst part of working on something you are passionate about is that first impressions with the software are everything and that if some",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895298,
+        "updated": 1749228698,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/scale-50/2019-05-24_11-14-49.jpg",
@@ -1104,7 +1104,7 @@
             "size": "30556"
           }
         ],
-        "readtime": "2",
+        "readtime": 2,
         "contentDetails": {
           "headings": "1",
           "paragraphs": "6",
@@ -1128,9 +1128,13 @@
           "subtitle": "",
           "tags": []
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "videos": {},
+        "images": {}
       }
     },
     {
