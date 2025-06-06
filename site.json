@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229186,
+      "updated": 1749229213,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1686,16 +1686,21 @@
       "indent": 0,
       "location": "pages/item-fd7f3b3e-edbb-ea0f-fc85-717973f49cb0/index.html",
       "slug": "watch-the-ripples-and-you-ll-miss-the-waves-2",
-      "order": 44,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Watch the ripples and you'll miss the waves",
-      "description": "",
+      "description": "\n  \"I don't understand why you give this stuff away, it's worth a lot. I mean screw capitalism, yea I get it I mean right there. But Universities pay a lot of money for these things. Why make them fo",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895303,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229202,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 5,
+        "videos": {},
+        "images": {}
       }
     },
     {
@@ -1703,16 +1708,21 @@
       "indent": 0,
       "location": "pages/item-40122e25-5673-4544-133f-2acb042dbb23/index.html",
       "slug": "i-challenge-you-to-transform-education-together-2",
-      "order": 45,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "I challenge you to Transform Education; together",
-      "description": "",
+      "description": "Institutions and employees within them will remain at rest unto acted upon by an internal or external force. Externally, this is the preasures of society, markets and learners demanding change. Inter",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895304,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229213,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
