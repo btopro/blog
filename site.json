@@ -112,27 +112,6 @@
       }
     },
     {
-      "id": "item-1c3a357d-2c98-4f1d-b9c6-5a0f66b2c40f",
-      "indent": 1,
-      "location": "pages/item-1c3a357d-2c98-4f1d-b9c6-5a0f66b2c40f/index.html",
-      "slug": "regions-pagebottom",
-      "order": 0,
-      "parent": "item-5f281e5d-3162-4e83-8447-bd3c1e5a09e2",
-      "title": "pageBottom",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1704396258,
-        "images": [],
-        "videos": [],
-        "updated": 1748895310,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
       "id": "item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc",
       "indent": 0,
       "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
