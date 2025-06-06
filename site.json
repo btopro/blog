@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228563,
+      "updated": 1749228581,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -964,14 +964,14 @@
       "indent": 0,
       "location": "pages/item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2/index.html",
       "slug": "edtechjoker-2",
-      "order": 20,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "EdTechJoker",
-      "description": "",
+      "description": "Ex Plures Plures\nFrom many, many. The phrase of a new publishing revolution.\nI'm old enough to remember old me. Oh, that guy. So tired. So broken. So lost. So disaffected. But the guy that showed up ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895297,
-        "readtime": "4",
+        "updated": 1749228581,
+        "readtime": 4,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "16",
@@ -987,9 +987,13 @@
           },
           "elements": "17"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "EdTechJoker",
+        "videos": {},
+        "images": {}
       }
     },
     {
