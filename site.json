@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229464,
+      "updated": 1749229477,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1773,16 +1773,21 @@
       "indent": 0,
       "location": "pages/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2/index.html",
       "slug": "creating-the-decentralized-instructional-experience-app-2",
-      "order": 53,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Creating the decentralized instructional experience app",
-      "description": "",
+      "description": "This is based on a submission to the Penn State open innovation challenge for 2018. I like to post my ideas to my blog in addition to my submission so that I never lose them. This one is about the lo",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895306,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229476,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
