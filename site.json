@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229518,
+      "updated": 1749229576,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2031,16 +2031,21 @@
       "indent": 0,
       "location": "pages/item-9566b53a-7c4c-54fb-4054-390d7c4c6e2e/index.html",
       "slug": "efficiency-as-activism-2",
-      "order": 60,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Efficiency as Activism",
-      "description": "",
+      "description": "Efficiency is not just the right thing to do or the act of making things better then before. Like anything, it can be a tactic if used correctly to modify structures from within. Anything done with i",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895308,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229576,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
