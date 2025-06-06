@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228347,
+      "updated": 1749228366,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -576,14 +576,14 @@
       "indent": 0,
       "location": "pages/item-7080d384-ade3-441e-867f-4d5b955f99a2/index.html",
       "slug": "our-values-empowerment-1",
-      "order": 12,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Our Values: Empowerment",
-      "description": "",
+      "description": "Movements claiming to be without leaders are bullshit. Everything starts somewhere and with someone or a group of someones. It's critical in my mind, as the person starting HAX, to frame what it is t",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895295,
-        "readtime": "3",
+        "updated": 1749228365,
+        "readtime": 3,
         "contentDetails": {
           "headings": "1",
           "paragraphs": "19",
@@ -594,9 +594,13 @@
           },
           "elements": "20"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
