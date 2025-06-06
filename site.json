@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228920,
+      "updated": 1749228935,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1440,13 +1440,13 @@
       "indent": 0,
       "location": "pages/item-e165f124-11d5-4b9a-06ed-7b6bf1802ca8/index.html",
       "slug": "ngdle-is-really-just-enigma-misspelled-2",
-      "order": 34,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "NGDLE is really just Enigma misspelled",
-      "description": "",
+      "description": "I mean look at it! It's a bunch of random letters that's hard to pronounced or use in a sentence. Years after initial usage, people still have difficulty saying what one is beyond pictures of childho",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895301,
+        "updated": 1749228935,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
@@ -1473,9 +1473,14 @@
             "size": "64238"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
