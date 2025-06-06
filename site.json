@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228698,
+      "updated": 1749228715,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1142,13 +1142,13 @@
       "indent": 0,
       "location": "pages/item-d7a64f62-9826-4b81-bd5a-1d855eeb1a74/index.html",
       "slug": "drunken-ux-interview-2",
-      "order": 24,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Drunken UX interview",
-      "description": "",
+      "description": "I was recently interviewed on the Drunken UX podcast\n\n\n\n\n\n\n\n\n\n\n\n\n, a show about all things web and user experience design. I was there to talk web components, block editors, and of course #HAXTheWeb\n",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895298,
+        "updated": 1749228714,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/scale-50/IMG_20190127_153429.jpg",
@@ -1164,10 +1164,14 @@
           "subtitle": "Drunken Experience?",
           "tags": []
         },
-        "readtime": "6",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "readtime": 6,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Events",
+        "videos": {},
+        "images": {}
       }
     },
     {
