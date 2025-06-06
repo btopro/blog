@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228366,
+      "updated": 1749228380,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -608,13 +608,13 @@
       "indent": 0,
       "location": "pages/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7/index.html",
       "slug": "catching-gman-1",
-      "order": 13,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Catching Gman",
-      "description": "",
+      "description": "Cut to ribbons tonight by a memory maintained and a thank you I didn't expect.\nLet me explain how my second child, the one I've had more trouble relating to if I am perfectly honest, amazes me more b",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895295,
+        "updated": 1749228379,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
@@ -664,7 +664,7 @@
             "size": "118690"
           }
         ],
-        "readtime": "5",
+        "readtime": 6,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "24",
@@ -680,9 +680,13 @@
           },
           "elements": "25"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
       }
     },
     {
