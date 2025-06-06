@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228883,
+      "updated": 1749228898,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1396,16 +1396,21 @@
       "indent": 0,
       "location": "pages/item-c97a8e67-971e-4e92-8b38-e348c780d072/index.html",
       "slug": "golden-shimmering-joy-2",
-      "order": 32,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Golden, shimmering, joy",
-      "description": "",
+      "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His aut",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895300,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228898,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 8,
+        "videos": {},
+        "images": {}
       }
     },
     {
