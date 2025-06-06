@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228642,
+      "updated": 1749228661,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -980,14 +980,14 @@
       "indent": 0,
       "location": "pages/item-1d1c8e5d-8c25-4035-bedb-0bbdc15a9814/index.html",
       "slug": "technical-weapons-2",
-      "order": 21,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Technical weapons",
-      "description": "",
+      "description": "Labels often set the narrative, or so liberals would argue. It's why they express deep concerns about the ways language is formed. Language can be used to divide, debate, and ensure that certain peop",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895297,
-        "readtime": "6",
+        "updated": 1749228660,
+        "readtime": 7,
         "contentDetails": {
           "headings": "7",
           "paragraphs": "49",
@@ -1018,9 +1018,13 @@
             "size": "255873"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
