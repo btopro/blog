@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228789,
+      "updated": 1749228803,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1307,18 +1307,22 @@
       "indent": 0,
       "location": "pages/item-985e5628-b3e6-44e5-85dc-c4d7be7bd754/index.html",
       "slug": "structured-anarchy-2",
-      "order": 28,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Structured Anarchy",
-      "description": "",
+      "description": "A year has passed since I first talked about the concept of Global Success vs. Global Failure of the LMS\n\n\n\n. &#160;I am writing now to talk about how I&#8217;ve begun working towards that goal that ",
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1748895299,
-        "readtime": "4",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228803,
+        "readtime": 4,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
