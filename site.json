@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228960,
+      "updated": 1749228973,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1510,16 +1510,21 @@
       "indent": 0,
       "location": "pages/item-4701288e-1af1-cbd5-a7ea-e110e22cfe1a/index.html",
       "slug": "occupy-the-bridge-2",
-      "order": 36,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "OCCUPY... the bridge",
-      "description": "",
+      "description": "Bridges&#160; get us from point A to point B. Woo. But they also present (literarily) a different space to occupy. If we view two locations as islands of thought. Different, separated by space; the b",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895301,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228972,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
