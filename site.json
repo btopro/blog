@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228935,
+      "updated": 1749228960,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1488,16 +1488,21 @@
       "indent": 0,
       "location": "pages/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0/index.html",
       "slug": "compartmentalizing-2",
-      "order": 35,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Compartmentalizing",
-      "description": "",
+      "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lo",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895301,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228959,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 1,
+        "videos": {},
+        "images": {}
       }
     },
     {
