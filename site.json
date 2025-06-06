@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229453,
+      "updated": 1749229464,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1938,16 +1938,21 @@
       "indent": 0,
       "location": "pages/item-bf9b2910-4880-c87f-4026-143bb334d1a6/index.html",
       "slug": "combating-the-rise-of-authoritarianism-2",
-      "order": 52,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Combating the rise of authoritarianism",
-      "description": "",
+      "description": "You may have noticed the screwed up political season in the US. Where typical corrupt politicians suddenly look like amazingly attractive options when framed against mad-men, and mad-men trick the ma",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895305,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229464,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 5,
+        "videos": {},
+        "images": {}
       }
     },
     {
