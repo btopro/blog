@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228297,
+      "updated": 1749228323,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -513,14 +513,14 @@
       "indent": 0,
       "location": "pages/item-25c16bd5-a817-4df1-b147-88e448309a4b/index.html",
       "slug": "abstractionism-1",
-      "order": 10,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Abstractionism",
-      "description": "",
+      "description": "A running back channel where my colleague tells me her ideology and I say awesome, cool, fun and then the way I self describe and explain I'm told is not a valid definition ;).\nThis has been happenin",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895294,
-        "readtime": "3",
+        "updated": 1749228323,
+        "readtime": 3,
         "contentDetails": {
           "headings": "5",
           "paragraphs": "35",
@@ -531,9 +531,13 @@
           },
           "elements": "40"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
