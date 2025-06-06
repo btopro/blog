@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228748,
+      "updated": 1749228768,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1213,13 +1213,13 @@
       "indent": 0,
       "location": "pages/item-8f85b86c-0619-4fb5-8c19-39b49c11e96b/index.html",
       "slug": "all-screens-have-rights-2",
-      "order": 26,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "All screens have rights",
-      "description": "",
+      "description": "The EU recently passed Article 13\n\n\n\n\n\n, which it's still too early to tell the implications of but it's troubling to say the least. Any time people start trying to legislate 1s and 0s I get concerne",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895299,
+        "updated": 1749228767,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/ie8.jpg",
@@ -1270,10 +1270,14 @@
             "size": "33838"
           }
         ],
-        "readtime": "5",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "readtime": 5,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
