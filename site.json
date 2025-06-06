@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229492,
+      "updated": 1749229518,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2009,16 +2009,21 @@
       "indent": 0,
       "location": "pages/item-f7c4705e-c70b-6cf9-0623-095830584d4d/index.html",
       "slug": "occutea-wallparty-2",
-      "order": 59,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "OccuTea WallParty",
-      "description": "",
+      "description": "I, much like you, am a person just trying to make sense of the world. Before you spew hate, recall this.\nI am an observer of politics that tries to \"play the game\" a bit differently. There are tells ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895307,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229517,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 5,
+        "videos": {},
+        "images": {}
       }
     },
     {
