@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229414,
+      "updated": 1749229431,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1751,16 +1751,21 @@
       "indent": 0,
       "location": "pages/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca/index.html",
       "slug": "pure-joy-2",
-      "order": 51,
-      "parent": null,
+      "order": 5,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Pure Joy",
-      "description": "",
+      "description": "The family gathered, friends came and we all shared a laugh.\nThen, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. \"I have to start getting ready for bed ca",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895305,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229431,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
