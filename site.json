@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228833,
+      "updated": 1749228883,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1374,17 +1374,21 @@
       "indent": 0,
       "location": "pages/item-44797f99-e67b-41ce-a32f-57ccafea33ec/index.html",
       "slug": "elms-ln-code-review-series-part-1-2",
-      "order": 31,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "ELMS:LN Code review series Part 1",
-      "description": "",
+      "description": "    Going to get really meta here..   This is a video showing how this blog post was made. The post follows but this video     shows the state of HAXcms which is the system being used to develop this",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895300,
-        "readtime": "1",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228883,
+        "readtime": 1,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb, 2019",
+        "videos": {},
+        "images": {}
       }
     },
     {
