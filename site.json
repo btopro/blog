@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749230328,
+      "updated": 1749230434,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2521,13 +2521,16 @@
       "order": 3,
       "parent": null,
       "title": "Contact",
-      "description": "",
+      "description": "hax @ psu [dot] edu\n@btopro - discord\n@btopro - x\n@btopro - linkedIn\n@btopro - mastodon\n",
       "metadata": {
         "locked": false,
         "created": 1748895293,
-        "images": [],
-        "videos": [],
-        "updated": 1748895293
+        "images": {},
+        "videos": {},
+        "updated": 1749230434,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
