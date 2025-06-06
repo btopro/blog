@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228973,
+      "updated": 1749228985,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1532,16 +1532,21 @@
       "indent": 0,
       "location": "pages/item-46aa6443-ebf1-62b2-6523-760490d5ce9b/index.html",
       "slug": "when-educators-left-the-lms-2",
-      "order": 37,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "When Educators left the LMS",
-      "description": "",
+      "description": "While not seeing it beyond previews and reviews, the movie When God left the building\n reviews an intreging concept: that people who leave the christian church are just leaving the building and pursu",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895301,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228985,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
