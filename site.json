@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228046,
+      "updated": 1749228065,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2122,7 +2122,7 @@
     },
     {
       "id": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-49900a85-b309-48d5-a962-e291ca69b352/index.html",
       "slug": "fossy24",
       "order": 0,
@@ -2134,11 +2134,12 @@
         "created": 1723213915,
         "images": {},
         "videos": {},
-        "updated": 1748895291,
+        "updated": 1749228064,
         "published": true,
         "hideInMenu": false,
         "readtime": 1,
-        "status": ""
+        "status": "",
+        "tags": "Events, 2024"
       }
     },
     {
