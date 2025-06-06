@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229170,
+      "updated": 1749229186,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1664,16 +1664,21 @@
       "indent": 0,
       "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
       "slug": "the-perfect-cup-of-coffee-2",
-      "order": 43,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "The perfect cup of coffee",
-      "description": "",
+      "description": "(post via @btopro on twitter\n)\ngood people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895303,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229185,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Coffee",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
