@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229576,
+      "updated": 1749229586,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2053,16 +2053,21 @@
       "indent": 0,
       "location": "pages/item-093425c7-cba0-e10b-60f8-9bf6afd32f9a/index.html",
       "slug": "rate-of-perception-2",
-      "order": 61,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Rate of perception",
-      "description": "",
+      "description": "I remember in high school talking about biology and as a test, you have to poke your arm with a small pin (lightly) and report when you can tell the difference between where it is and where your brai",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895308,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229586,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
