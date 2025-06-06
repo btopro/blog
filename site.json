@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228661,
+      "updated": 1749228683,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1032,14 +1032,14 @@
       "indent": 0,
       "location": "pages/item-73248929-e4a5-44eb-aea5-8e2373a34b69/index.html",
       "slug": "i-made-a-thing-2",
-      "order": 22,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "I made a thing",
-      "description": "",
+      "description": "Hey hey, ho ho. Welcome. To the revolution!!!!!\n\nCome say hi at Apereo 2019\n\n or Domains 2019\n\n.\n",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895297,
-        "readtime": "1",
+        "updated": 1749228683,
+        "readtime": 1,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "2",
@@ -1073,9 +1073,13 @@
             "size": "135577"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb, 2019",
+        "videos": {},
+        "images": {}
       }
     },
     {
