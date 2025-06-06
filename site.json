@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228065,
+      "updated": 1749228099,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2144,7 +2144,7 @@
     },
     {
       "id": "item-802d3c36-cd68-4eb7-b45c-761a779c08d5",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-802d3c36-cd68-4eb7-b45c-761a779c08d5/index.html",
       "slug": "open-source-cms---the-4th-turning",
       "order": 1,
@@ -2156,11 +2156,12 @@
         "created": 1723478768,
         "images": {},
         "videos": {},
-        "updated": 1748895292,
+        "updated": 1749228099,
         "published": true,
         "hideInMenu": false,
         "readtime": 3,
-        "status": ""
+        "status": "",
+        "tags": "Essays, 2024"
       }
     },
     {
