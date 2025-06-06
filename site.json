@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228768,
+      "updated": 1749228789,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1285,17 +1285,21 @@
       "indent": 0,
       "location": "pages/item-7502f3ce-134f-4c88-beaf-85e539c0e801/index.html",
       "slug": "reclaim-the-web-2",
-      "order": 27,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Reclaim the web",
-      "description": "",
+      "description": "Originally from twitter... but this is the power of Dweb methodology and enhanced UX. Previously these thoughts were only ever going to be the property of twitter.\nNow with HAXcms, I can capture and ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895299,
-        "readtime": "3",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228788,
+        "readtime": 3,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
       }
     },
     {
