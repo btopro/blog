@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228198,
+      "updated": 1749228242,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -280,25 +280,22 @@
       "indent": 0,
       "location": "pages/item-8e045593-79fd-401d-b380-1029001f5574/index.html",
       "slug": "arrival",
-      "order": 7,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Arrival",
       "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
       "metadata": {
         "created": "1698076822",
-        "updated": 1748895293,
-        "images": [],
-        "videos": [
-          "https://youtu.be/iPGgdRGyUtM?si=tkME13Ni2qPOeTts",
-          "https://www.youtube.com/watch?v=G5yEgFIxzl0"
-        ],
-        "published": "1",
-        "hideInMenu": "",
-        "locked": "",
-        "readtime": "4",
+        "updated": 1749228242,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4,
         "relatedItems": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0,item-1235ea3a-9254-4b93-8df3-8909fddcce88,item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
         "image": "https://images-assets.nasa.gov/image/2011-3753/2011-3753~thumb.jpg",
-        "tags": "hax",
+        "tags": "The Climb, 2024",
         "status": ""
       }
     },
