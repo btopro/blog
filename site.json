@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228803,
+      "updated": 1749228820,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1330,17 +1330,21 @@
       "indent": 0,
       "location": "pages/item-f13dd50c-31fe-4c59-a79c-0543b0c7f52d/index.html",
       "slug": "haxcms-theme-layer-code-review-2",
-      "order": 29,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "HAXcms Theme layer Code Review",
-      "description": "",
+      "description": "Weekly Code Review\nThis 1 starts to get pretty interesting. The team talks about HAXcms, ideates about the new capabilities of the theme layer. This gets into code and great discussion of intentions ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895299,
-        "readtime": "1",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749228819,
+        "readtime": 1,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "videos": {},
+        "images": {}
       }
     },
     {
