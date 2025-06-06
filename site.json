@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229295,
+      "updated": 1749229318,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1879,16 +1879,21 @@
       "indent": 0,
       "location": "pages/item-8099a4ba-8fbc-a60f-7451-ac12d8d17409/index.html",
       "slug": "birthday-party-2",
-      "order": 49,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Birthday party",
-      "description": "",
+      "description": "A visual history of the last 10 years of my life working on what I believe will save education. What is saving education? Lower costs, increased access, increased accessibility, increased empathy in ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895305,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229317,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
