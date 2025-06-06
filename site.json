@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229213,
+      "updated": 1749229228,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1832,16 +1832,21 @@
       "indent": 0,
       "location": "pages/item-e8c71c40-1351-7293-ae61-2e01b348f71f/index.html",
       "slug": "dood-2",
-      "order": 46,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Dood",
-      "description": "",
+      "description": "dudes crying.\ndude&#8217;s crying.\ndude, is, crying.\nThis dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need muc",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895304,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229228,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
