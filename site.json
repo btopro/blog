@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229431,
+      "updated": 1749229453,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1916,16 +1916,21 @@
       "indent": 0,
       "location": "pages/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e/index.html",
       "slug": "end-of-summer-2",
-      "order": 50,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "End of Summer",
-      "description": "",
+      "description": "The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thin",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895305,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229453,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
       }
     },
     {
