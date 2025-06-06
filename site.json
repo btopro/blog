@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229715,
+      "updated": 1749229734,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1839,16 +1839,21 @@
       "indent": 0,
       "location": "pages/item-d6d569eb-16fb-b10f-097a-9afbfa6a02b0/index.html",
       "slug": "playing-for-40-2",
-      "order": 58,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Playing for 40",
-      "description": "",
+      "description": "A former student employee reached out to me today and, as I've always dreamed of having the experience of a reach teacher, paid me a compliment in the form of successes he now can achieve through imp",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895307,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229734,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
