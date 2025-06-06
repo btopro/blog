@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228272,
+      "updated": 1749228297,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -339,13 +339,13 @@
       "indent": 0,
       "location": "pages/item-82b4b5d3-b8cb-4fab-ac71-10b98a0dac91/index.html",
       "slug": "why-i-started-hax-camp-1",
-      "order": 9,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Why I started hax-camp",
-      "description": "",
+      "description": "Hi. I'm Bryan Ollendyke, and I have a vision of the future and, I think, a way to get there. I'm not fancy. I don't have big money. I don't have important people on high; I have something far more im",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895294,
+        "updated": 1749228296,
         "files": [
           {
             "path": "/var/www/html/sites/btopro/files//EBd7L7eXkAAOW_d.jpg",
@@ -476,7 +476,7 @@
             "size": "165743"
           }
         ],
-        "readtime": "4",
+        "readtime": 4,
         "contentDetails": {
           "headings": "0",
           "paragraphs": "18",
@@ -499,9 +499,13 @@
           },
           "elements": "21"
         },
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "videos": {},
+        "images": {}
       }
     },
     {
