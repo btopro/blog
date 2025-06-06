@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229597,
+      "updated": 1749229624,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2097,13 +2097,13 @@
       "indent": 0,
       "location": "pages/item-2ddc5396-01fe-60fc-5c23-fa40abae58e9/index.html",
       "slug": "organic-deployment-architecture-2",
-      "order": 63,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Organic Deployment Architecture",
-      "description": "",
+      "description": "Decentralized deployment architecture\nAll deployments currently imply a central\n  authority, whether a company or developer running some kind of master system with\n  control over the rest of the netw",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895308,
+        "updated": 1749229624,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
@@ -2122,9 +2122,15 @@
             "size": "41825"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "image": "files/3f7119c8ee0795b23c3ed754c7e48860e8ad8b98-organic.jpg",
+        "tags": "Essays",
+        "readtime": 7,
+        "videos": {},
+        "images": {}
       }
     },
     {
