@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229660,
+      "updated": 1749229684,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2171,13 +2171,13 @@
       "indent": 0,
       "location": "pages/item-07d2884a-9e17-32f2-3175-0887f02bb49c/index.html",
       "slug": "transform-control-2",
-      "order": 65,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Transform Control",
-      "description": "",
+      "description": "The old addage of IT managers of the 90's was that technology didn't matter. As\n  in, it didn't matter which technology you choose, just that you align with one and\n  execute. This mindset was wrough",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895309,
+        "updated": 1749229683,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
@@ -2188,9 +2188,15 @@
             "size": "65965"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "image": "files/2cbcf74eb414cbc4ffc644bc923c33a3b5e3be26-sandbagged.jpg",
+        "tags": "Essays",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
       }
     },
     {
