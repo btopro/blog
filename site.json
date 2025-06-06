@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229318,
+      "updated": 1749229374,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1785,16 +1785,21 @@
       "indent": 0,
       "location": "pages/item-1222b362-d24d-0aa7-20e7-724767f57656/index.html",
       "slug": "using-webcomponents-to-unearth-the-ngdle-2",
-      "order": 54,
-      "parent": null,
+      "order": 8,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Using Webcomponents to unearth the NGDLE",
-      "description": "",
+      "description": "I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895306,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229373,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 6,
+        "videos": {},
+        "images": {}
       }
     },
     {
