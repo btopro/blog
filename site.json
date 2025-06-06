@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229684,
+      "updated": 1749229715,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2204,13 +2204,13 @@
       "indent": 0,
       "location": "pages/item-25e65b02-61b2-b987-7e86-601a241f74c9/index.html",
       "slug": "transforming-industry-through-information-altruism-2",
-      "order": 66,
-      "parent": null,
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Transforming industry through information altruism",
-      "description": "",
+      "description": "This posting is a refinement of a concept that I presented earlier: Using OSS to disrupt industries.\n\n\nThrough the title, I am suggesting that there are negative network-effects in the\n  form of soci",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895309,
+        "updated": 1749229714,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
@@ -2221,9 +2221,15 @@
             "size": "54050"
           }
         ],
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "image": "files/89cd7f14f2e207bd9a20b916cddc089da4ba3464-butterfly.jpg",
+        "tags": "Essays",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
       }
     },
     {
