@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749229477,
+      "updated": 1749229492,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1965,16 +1965,21 @@
       "indent": 0,
       "location": "pages/item-92c8d1d5-e579-930b-2c57-e9753e9dfefe/index.html",
       "slug": "singularity-digital-activism-and-saving-our-institutions-2",
-      "order": 55,
-      "parent": null,
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "Singularity, Digital Activism, and saving our institutions",
-      "description": "",
+      "description": "*This talk was originally posted on elmsln.org. I've removed it there and moved it here because even though it's about Drupal / ELMSLN, it's the first talk I gave that I started speaking my mind and ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1748895306,
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "updated": 1749229492,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Events",
+        "readtime": 1,
+        "videos": {},
+        "images": {}
       }
     },
     {
