@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749228715,
+      "updated": 1749228748,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -1179,14 +1179,14 @@
       "indent": 0,
       "location": "pages/item-15cbf071-ff46-4ec6-90dd-35c57537af97/index.html",
       "slug": "fortify-2",
-      "order": 25,
-      "parent": null,
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Fortify",
-      "description": "",
+      "description": "\"FORT. NIGHT.\"\nThey yell. Not in the way that teenagers rushing home from school to dominate their\n  friends yell but in the way of innocence. The yell of the joy of dad suggesting that\n  we build a ",
       "metadata": {
         "siteName": "btopro",
         "created": "1698074988",
-        "updated": 1748895298,
+        "updated": 1749228748,
         "files": [
           {
             "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
@@ -1197,10 +1197,15 @@
             "size": "132868"
           }
         ],
-        "readtime": "3",
-        "published": "1",
-        "locked": "",
-        "status": ""
+        "readtime": 3,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "image": "files/IMG_20190221_184100.jpg",
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
       }
     },
     {
