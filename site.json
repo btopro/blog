@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1749230434,
+      "updated": 1749845648,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2500,16 +2500,16 @@
       "id": "item-cf16c3d9-b209-43a5-b92a-27bffda4a265",
       "indent": 0,
       "location": "pages/item-cf16c3d9-b209-43a5-b92a-27bffda4a265/index.html",
-      "slug": "life/page",
+      "slug": "life/finding-the-edge",
       "order": 16,
       "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Page",
-      "description": "",
+      "title": "Finding the edge",
+      "description": "Toe, heel, toe, heel..\nhips open, foot presses toe, rocker back to heel...\nfall. {get up}. let's do it again.\nfall.. ...again\nfall. AGAIN.\nFind the edge... need to find the edge\nfall. Get up.. get. U",
       "metadata": {
         "created": 1749843426,
-        "updated": 1749843426,
-        "images": [],
-        "videos": [],
+        "updated": 1749845648,
+        "images": {},
+        "videos": {},
         "files": [
           {
             "path": "/home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
@@ -2519,7 +2519,13 @@
             "name": "finding-the-edge.jpg",
             "size": 70095
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "image": "files/finding-the-edge.jpg",
+        "tags": "Coaching",
+        "locked": false,
+        "readtime": 5
       }
     },
     {
