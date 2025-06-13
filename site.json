@@ -2497,6 +2497,22 @@
       }
     },
     {
+      "id": "item-cf16c3d9-b209-43a5-b92a-27bffda4a265",
+      "indent": 0,
+      "location": "pages/item-cf16c3d9-b209-43a5-b92a-27bffda4a265/index.html",
+      "slug": "life/page",
+      "order": 16,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Page",
+      "description": "",
+      "metadata": {
+        "created": 1749843426,
+        "updated": 1749843426,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "indent": 0,
       "location": "pages/item-0c02becd-f145-497d-a233-7866dbb6a3ae/index.html",
