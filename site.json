@@ -2509,7 +2509,17 @@
         "created": 1749843426,
         "updated": 1749843426,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
+            "url": "files/finding-the-edge.jpg",
+            "type": "image/jpeg",
+            "name": "finding-the-edge.jpg",
+            "size": 70095
+          }
+        ]
       }
     },
     {
