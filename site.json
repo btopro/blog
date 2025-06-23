@@ -2546,7 +2546,17 @@
         "created": 1750706459,
         "images": [],
         "videos": [],
-        "updated": 1750706459
+        "updated": 1750706459,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "url": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "type": "image/png",
+            "name": "design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "size": 690808
+          }
+        ]
       }
     },
     {
