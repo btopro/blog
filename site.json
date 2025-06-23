@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1750706475,
+      "updated": 1750706806,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2534,19 +2534,19 @@
     },
     {
       "id": "item-1428b18c-dfcc-498a-86c9-74bb2619b40d",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-1428b18c-dfcc-498a-86c9-74bb2619b40d/index.html",
-      "slug": "life/welcome-to-the-25-26-season!",
+      "slug": "life/welcome-to-the-25-26-season",
       "order": 17,
       "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Welcome to the 25-26 season!",
-      "description": "",
+      "description": "Hello and welcome to the 2025-26 season of SCYIHA programming!\nThe board changed&#160;over June 9th&#160;and while I've wanted to say hello, getting programming launched and organized the higher prio",
       "metadata": {
         "locked": false,
         "created": 1750706459,
-        "images": [],
-        "videos": [],
-        "updated": 1750706459,
+        "images": {},
+        "videos": {},
+        "updated": 1750706805,
         "files": [
           {
             "path": "/home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
@@ -2556,7 +2556,12 @@
             "name": "design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
             "size": 690808
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "image": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+        "tags": "Coaching, 2025",
+        "readtime": 9
       }
     },
     {
