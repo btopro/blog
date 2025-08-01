@@ -2607,6 +2607,14 @@
             "type": "image/png",
             "name": "HAX-history.png",
             "size": 336847
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend.png",
+            "url": "files/Legend.png",
+            "type": "image/png",
+            "name": "Legend.png",
+            "size": 66723
           }
         ]
       }
