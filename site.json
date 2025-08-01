@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1754091305,
+      "updated": 1754091932,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2598,7 +2598,7 @@
         "created": 1754090817,
         "images": {},
         "videos": {},
-        "updated": 1754091305,
+        "updated": 1754091931,
         "files": [
           {
             "path": "/home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
@@ -2620,7 +2620,7 @@
         "published": true,
         "hideInMenu": false,
         "tags": "Events, 2025",
-        "readtime": 1
+        "readtime": 2
       }
     },
     {
