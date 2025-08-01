@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1754090833,
+      "updated": 1754091259,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2586,19 +2586,19 @@
     },
     {
       "id": "item-cca95c4e-4d2e-433c-8c86-32d9f1749787",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-cca95c4e-4d2e-433c-8c86-32d9f1749787/index.html",
       "slug": "work/fossy25",
       "order": 1,
       "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
       "title": "FOSSY25",
-      "description": "",
+      "description": "Another year and I'm back in Portland to learn more about community development and management. This year I feel a bit more well equipped for the talks thus far from lessons learned last time. Some w",
       "metadata": {
         "locked": false,
         "created": 1754090817,
-        "images": [],
-        "videos": [],
-        "updated": 1754090817,
+        "images": {},
+        "videos": {},
+        "updated": 1754091259,
         "files": [
           {
             "path": "/home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
@@ -2616,7 +2616,11 @@
             "name": "Legend.png",
             "size": 66723
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "tags": "Events, 2025",
+        "readtime": 1
       }
     },
     {
