@@ -2598,7 +2598,17 @@
         "created": 1754090817,
         "images": [],
         "videos": [],
-        "updated": 1754090817
+        "updated": 1754090817,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
+            "url": "files/HAX-history.png",
+            "type": "image/png",
+            "name": "HAX-history.png",
+            "size": 336847
+          }
+        ]
       }
     },
     {
