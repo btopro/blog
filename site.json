@@ -2615,6 +2615,14 @@
             "type": "image/png",
             "name": "Legend.png",
             "size": 66723
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
+            "url": "files/Legend_1.png",
+            "type": "image/png",
+            "name": "Legend_1.png",
+            "size": 66723
           }
         ],
         "published": true,
