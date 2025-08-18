@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1755533084,
+      "updated": 1755539224,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2567,19 +2567,19 @@
     },
     {
       "id": "item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b/index.html",
       "slug": "coaching/scrimmage-feedback-8/16",
       "order": 18,
       "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "Scrimmage feedback 8/16",
-      "description": "",
+      "description": "Here's a clip from our game this weekend. Watch it a few times, and then see notes below.\n\nin zone coverage\nCoverage in zone to start this clip is solid but could use a few improvements\n\nSam locking ",
       "metadata": {
         "locked": false,
         "created": 1755525165,
-        "images": [],
-        "videos": [],
-        "updated": 1755533066,
+        "images": {},
+        "videos": {},
+        "updated": 1755539223,
         "published": true,
         "status": "",
         "files": [
@@ -2647,7 +2647,10 @@
             "name": "image_8.png",
             "size": 944929
           }
-        ]
+        ],
+        "hideInMenu": false,
+        "tags": "Coaching, 2025",
+        "readtime": 5
       }
     },
     {
