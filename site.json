@@ -2590,6 +2590,14 @@
             "type": "image/png",
             "name": "image_1.png",
             "size": 379430
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_2.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_2.png",
+            "url": "files/image_2.png",
+            "type": "image/png",
+            "name": "image_2.png",
+            "size": 262909
           }
         ]
       }
