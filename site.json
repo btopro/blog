@@ -2581,7 +2581,17 @@
         "videos": [],
         "updated": 1755533066,
         "published": true,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_1.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_1.png",
+            "url": "files/image_1.png",
+            "type": "image/png",
+            "name": "image_1.png",
+            "size": 379430
+          }
+        ]
       }
     },
     {
