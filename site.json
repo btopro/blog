@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1770315346,
+      "updated": 1770316499,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2773,19 +2773,22 @@
     },
     {
       "id": "item-8a167c92-4b83-49d0-b387-78f8bf37ab44",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-8a167c92-4b83-49d0-b387-78f8bf37ab44/index.html",
       "slug": "hax/benevolent-restrictions",
       "order": 0,
       "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
       "title": "Benevolent restrictions",
-      "description": "",
+      "description": "Hockey is a simple game that is difficult to play. Ice, movement, specialized equipment. But play it without nets and you can't envision how it works. Without lines and it's too easy to defeat. Play ",
       "metadata": {
         "locked": false,
         "created": 1770315346,
-        "images": [],
-        "videos": [],
-        "updated": 1770315346
+        "images": {},
+        "videos": {},
+        "updated": 1770316499,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 3
       }
     }
   ]
