@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1770316499,
+      "updated": 1770319395,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2785,7 +2785,7 @@
         "created": 1770315346,
         "images": {},
         "videos": {},
-        "updated": 1770316499,
+        "updated": 1770319394,
         "published": true,
         "hideInMenu": false,
         "readtime": 3,
@@ -2798,7 +2798,8 @@
             "name": "haxthewebroad.jpg",
             "size": 81119
           }
-        ]
+        ],
+        "image": "files/haxthewebroad.jpg"
       }
     }
   ]
