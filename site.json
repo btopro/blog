@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1773780282,
+      "updated": 1773780309,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2817,7 +2817,7 @@
         "created": 1773778634,
         "images": {},
         "videos": {},
-        "updated": 1773780282,
+        "updated": 1773780308,
         "published": true,
         "status": "",
         "files": [
@@ -2855,7 +2855,7 @@
           }
         ],
         "hideInMenu": false,
-        "image": "files/2026-student-pipeline-(1).jpg",
+        "image": "files/CopyQ.HAuVQu.png",
         "readtime": 3
       }
     }
