@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1773778691,
+      "updated": 1773779036,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2805,19 +2805,19 @@
     },
     {
       "id": "item-d21d217e-bead-408f-bd0d-4459cb918914",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-d21d217e-bead-408f-bd0d-4459cb918914/index.html",
       "slug": "sustainable-impact-and-innovation-pipeline",
       "order": 0,
       "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
       "title": "Sustainable Impact and Innovation Pipeline",
-      "description": "",
+      "description": "Do more with less. It's been the ask of higher education for the last 15 years (at least), and in the age of AI, many think we may actually be able to do more with less, though studies are starting t",
       "metadata": {
         "locked": false,
         "created": 1773778634,
-        "images": [],
-        "videos": [],
-        "updated": 1773778690,
+        "images": {},
+        "videos": {},
+        "updated": 1773779036,
         "published": true,
         "status": "",
         "files": [
@@ -2829,7 +2829,10 @@
             "name": "2026-student-pipeline-(1).jpg",
             "size": 136078
           }
-        ]
+        ],
+        "hideInMenu": false,
+        "image": "files/2026-student-pipeline-(1).jpg",
+        "readtime": 1
       }
     }
   ]
