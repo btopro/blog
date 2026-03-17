@@ -2819,7 +2819,17 @@
         "videos": [],
         "updated": 1773778690,
         "published": true,
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
+            "url": "files/2026-student-pipeline-(1).jpg",
+            "type": "image/jpeg",
+            "name": "2026-student-pipeline-(1).jpg",
+            "size": 136078
+          }
+        ]
       }
     }
   ]
