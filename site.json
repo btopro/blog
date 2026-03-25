@@ -2858,6 +2858,22 @@
         "image": "files/CopyQ.HAuVQu.png",
         "readtime": 3
       }
+    },
+    {
+      "id": "item-51064b9d-e04d-4156-8980-3a03da6abd16",
+      "indent": 0,
+      "location": "pages/item-51064b9d-e04d-4156-8980-3a03da6abd16/index.html",
+      "slug": "new-page",
+      "order": 4,
+      "parent": null,
+      "title": "New Page",
+      "description": "",
+      "metadata": {
+        "created": 1774443298,
+        "updated": 1774443298,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
