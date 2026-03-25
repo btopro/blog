@@ -23,7 +23,7 @@
         "gaID": "G-YTXEQB1N21"
       },
       "created": 1698074988,
-      "updated": 1774287581,
+      "updated": 1774444644,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2863,16 +2863,20 @@
       "id": "item-51064b9d-e04d-4156-8980-3a03da6abd16",
       "indent": 0,
       "location": "pages/item-51064b9d-e04d-4156-8980-3a03da6abd16/index.html",
-      "slug": "new-page",
-      "order": 4,
-      "parent": null,
-      "title": "New Page",
-      "description": "",
+      "slug": "hax/building-a-city",
+      "order": 5,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
+      "title": "Building a City",
+      "description": "This is a story of the past, leading into the future. When nothing exists, most can't envision what could. When something exists, many still envision that that is how it will always be. A true few ca",
       "metadata": {
         "created": 1774443298,
-        "updated": 1774443298,
-        "images": [],
-        "videos": []
+        "updated": 1774444644,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4
       }
     }
   ]
