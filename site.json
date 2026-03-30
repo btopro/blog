@@ -2,7 +2,7 @@
   "id": "99e4b4fb-bc10-4540-96b1-c12c79982fdf",
   "title": "bto-pro",
   "author": "",
-  "description": "All things btopro on my own blog..",
+  "description": "All things btopro on my own blog.",
   "license": "by-sa",
   "metadata": {
     "author": {
@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1774904488,
+      "updated": 1774904518,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
