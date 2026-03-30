@@ -3,10 +3,10 @@
   <channel>
     <title>bto-pro</title>
     <link>https://btopro.com/</link>
-    <description>All things btopro on my own blog..</description>
+    <description>All things btopro on my own blog.</description>
     <copyright>Copyright (C) 2026 https://btopro.com</copyright>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 20:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 21:01:58 GMT</lastBuildDate>
     <generator>HAXcms NodeJS</generator>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
   </channel>
