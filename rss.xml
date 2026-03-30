@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel>
-  <title>bto-pro</title>
-  <link>https://btopro.com/rss.xml</link>
-  <description>All things btopro on my own blog..</description>
-  <copyright>Copyright (C) 2026 https://btopro.com</copyright>
-  <language>en-us</language>
-  <lastBuildDate>1970-01-21T13:01:44.057Z</lastBuildDate>
-  <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
-  
-</channel>
+  <channel>
+    <title>bto-pro</title>
+    <link>https://btopro.com/</link>
+    <description>All things btopro on my own blog..</description>
+    <copyright>Copyright (C) 2026 https://btopro.com</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Mar 2026 20:54:17 GMT</lastBuildDate>
+    <generator>HAXcms NodeJS</generator>
+    <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
+  </channel>
 </rss>
