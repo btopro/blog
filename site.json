@@ -2,7 +2,7 @@
   "id": "99e4b4fb-bc10-4540-96b1-c12c79982fdf",
   "title": "bto-pro",
   "author": "",
-  "description": "All things btopro on my own blog",
+  "description": "All things btopro on my own blog..",
   "license": "by-sa",
   "metadata": {
     "author": {
@@ -20,15 +20,17 @@
         "pathauto": false,
         "sw": false,
         "forceUpgrade": true,
-        "gaID": "G-YTXEQB1N21"
+        "gaID": "G-YTXEQB1N21",
+        "private": false,
+        "canonical": true
       },
       "created": 1698074988,
-      "updated": 1774904035,
+      "updated": 1774904057,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "10.0.2",
+      "version": "25.0.0",
       "domain": "https://btopro.com",
       "static": {},
       "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
@@ -36,8 +38,15 @@
     "theme": {
       "element": "clean-portfolio-theme",
       "path": "@haxtheweb/clean-portfolio-theme/clean-portfolio-theme.js",
-      "name": "Clean Portfolio theme",
-      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
+      "name": "Clean Portfolio",
+      "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-portfolio-theme-thumb.jpg",
+      "description": "Start with a blank site using the Clean Portfolio",
+      "category": [
+        "Website"
+      ],
+      "hidden": false,
+      "priority": -10,
+      "terrible": false,
       "variables": {
         "image": "files/1500x5001.jpeg",
         "imageAlt": "",
@@ -55,7 +64,8 @@
       "version": "7.0.18",
       "structure": "import",
       "type": "haxcms"
-    }
+    },
+    "platform": {}
   },
   "items": [
     {
