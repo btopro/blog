@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1774904518,
+      "updated": 1774981003,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2771,9 +2771,9 @@
       "metadata": {
         "locked": false,
         "created": 1770315237,
-        "images": {},
-        "videos": {},
-        "updated": 1774287580,
+        "images": [],
+        "videos": [],
+        "updated": 1774981002,
         "published": true,
         "hideInMenu": false,
         "tags": "hax",
