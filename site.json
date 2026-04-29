@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1774981003,
+      "updated": 1777479954,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2894,15 +2894,29 @@
       "indent": 0,
       "location": "pages/item-e041c3c7-f650-48b6-bff5-671346e7a0ad/index.html",
       "slug": "the-many-mes",
-      "order": 4,
+      "order": 5,
       "parent": null,
-      "title": "the many mes",
-      "description": "",
+      "title": "the many me's",
+      "description": "\n",
       "metadata": {
         "created": 1777479781,
-        "updated": 1777479781,
+        "updated": 1777479953,
         "images": [],
-        "videos": []
+        "videos": [],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_9.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_9.png",
+            "url": "files/image_9.png",
+            "type": "image/png",
+            "name": "image_9.png",
+            "size": 904924
+          }
+        ]
       }
     }
   ]
