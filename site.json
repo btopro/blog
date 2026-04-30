@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1777481708,
+      "updated": 1777565950,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2893,14 +2893,14 @@
       "id": "item-e041c3c7-f650-48b6-bff5-671346e7a0ad",
       "indent": 0,
       "location": "pages/item-e041c3c7-f650-48b6-bff5-671346e7a0ad/index.html",
-      "slug": "the-many-mes",
-      "order": 5,
-      "parent": null,
+      "slug": "hax/the-many-mes",
+      "order": 3,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
       "title": "the many me's",
       "description": "\n",
       "metadata": {
         "created": 1777479781,
-        "updated": 1777481708,
+        "updated": 1777565950,
         "images": [],
         "videos": [],
         "published": true,
@@ -2924,7 +2924,9 @@
             "name": "image_10.png",
             "size": 732482
           }
-        ]
+        ],
+        "image": "files/image_10.png",
+        "tags": "praw"
       }
     }
   ]

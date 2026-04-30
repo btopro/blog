@@ -1,4 +1,47 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-e041c3c7-f650-48b6-bff5-671346e7a0ad</id>
+<indent>0</indent>
+<location>pages/item-e041c3c7-f650-48b6-bff5-671346e7a0ad/index.xml</location>
+<slug>hax/the-many-mes</slug>
+<order>3</order>
+<parent>item-07636896-5843-47a7-8cf6-bd7798992831</parent>
+<title>the many me&apos;s</title>
+<description>
+</description>
+<metadata>
+<created>1777479781</created>
+<updated>1777565950</updated>
+<images>
+</images>
+<videos>
+</videos>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<locked>false</locked>
+<readtime>2</readtime>
+<files>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/image_9.png</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/image_9.png</fullUrl>
+<url>files/image_9.png</url>
+<type>image/png</type>
+<name>image_9.png</name>
+<size>904924</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/image_10.png</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/image_10.png</fullUrl>
+<url>files/image_10.png</url>
+<type>image/png</type>
+<name>image_10.png</name>
+<size>732482</size>
+</item>
+</files>
+<image>files/image_10.png</image>
+<tags>praw</tags>
+</metadata>
+<content><![CDATA[
 <media-image accent-color="grey" size="wide" offset="none" source="files/image_10.png" alt="Image from gallery"></media-image>
 <p>The other day I opened 12 copies of myself and then accomplished more work in a 24 hour period than I could have previously finished in 6 months. This is becoming the norm for many in the development industry. I don't want an agent that just writes or tests code though.</p>
 <p><moar-sarcasm say="I want me.">I want me.</moar-sarcasm>
@@ -51,3 +94,5 @@
 <video-player source="https://youtu.be/zb9iPABbEyo" caption="https://youtu.be/zb9iPABbEyo" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#bcbf5ebb-bb37-f6e1-ea4b-2e6655944234" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" media-title="Cognitive overload" source-type="youtube" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/zb9iPABbEyo&quot;,&quot;type&quot;:&quot;&quot;}]" audio-description-source=""></video-player>
 <p>Approaches for a publishing revolution. Or at least more interesting prompt responses like the following:</p>
 <blockquote><i>Market impact: kills WP incumbency moat (“we can’t migrate”).</i></blockquote>
+]]></content>
+</item>
