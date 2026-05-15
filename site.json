@@ -2950,7 +2950,17 @@
         "created": 1778852865,
         "updated": 1778852865,
         "images": [],
-        "videos": []
+        "videos": [],
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/Gemini_Generated_Image_hcblyahcblyahcbl.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Gemini_Generated_Image_hcblyahcblyahcbl.png",
+            "url": "files/Gemini_Generated_Image_hcblyahcblyahcbl.png",
+            "type": "image/png",
+            "name": "Gemini_Generated_Image_hcblyahcblyahcbl.png",
+            "size": 2228879
+          }
+        ]
       }
     }
   ]
