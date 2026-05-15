@@ -25,7 +25,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1778852847,
+      "updated": 1778853925,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -2941,14 +2941,14 @@
       "id": "item-b74ea009-29c2-4b4e-8706-f63d9e2f07e9",
       "indent": 0,
       "location": "pages/item-b74ea009-29c2-4b4e-8706-f63d9e2f07e9/index.html",
-      "slug": "new-page",
-      "order": 4,
-      "parent": null,
-      "title": "New Page",
-      "description": "",
+      "slug": "hax/flying-cars",
+      "order": 5,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
+      "title": "No talk of Flying Cars",
+      "description": "I am done with talk of flying cars.\nFull stop.\nThat's the blog post.\nOh... it's supposed to be more... *fine*😬\nShut up and build the future\nFor roughly 11 years, but likely longer, I've expected the",
       "metadata": {
         "created": 1778852865,
-        "updated": 1778852865,
+        "updated": 1778853925,
         "images": [],
         "videos": [],
         "files": [
@@ -2968,7 +2968,12 @@
             "name": "Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
             "size": 80741
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "image": "files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
+        "locked": false,
+        "readtime": 2
       }
     }
   ]

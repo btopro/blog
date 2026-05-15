@@ -96,7 +96,7 @@ Managed files (feeds, search indexes, manifests, and this `llms.txt`) are genera
 - [Sustainable Impact and Innovation Pipeline](https://btopro.com/pages/item-d21d217e-bead-408f-bd0d-4459cb918914/index.md): Do more with less. It's been the ask of higher education for the last 15 years (at least), and in the age of AI, many think we may actually be able to do more with less, though studies are starting t
 - [Building a City](https://btopro.com/pages/item-51064b9d-e04d-4156-8980-3a03da6abd16/index.md): This is a story of the past, leading into the future. When nothing exists, most can't envision what could. When something exists, many still envision that that is how it will always be. A true few ca
 - [the many me's](https://btopro.com/pages/item-e041c3c7-f650-48b6-bff5-671346e7a0ad/index.md)
-- [New Page](https://btopro.com/pages/item-b74ea009-29c2-4b4e-8706-f63d9e2f07e9/index.md)
+- [No talk of Flying Cars](https://btopro.com/pages/item-b74ea009-29c2-4b4e-8706-f63d9e2f07e9/index.md): I am done with talk of flying cars. Full stop. That's the blog post. Oh... it's supposed to be more... *fine*😬 Shut up and build the future For roughly 11 years, but likely longer, I've expected the
 
 ## Optional
 - [Search index](https://btopro.com/lunrSearchIndex.json): Lunr corpus for quick full-text retrieval.
