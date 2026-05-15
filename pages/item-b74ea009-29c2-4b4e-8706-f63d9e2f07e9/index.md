@@ -31,4 +31,4 @@ Yesterday in a new talk (to be published on Apereo's website in coming days) I s
 *   Ran `[hax start](https://www.npmjs.com/package/@haxtheweb/create)` locally to make more changes to the site
 *   Then ran it again and selected to [publish the site to surge which you can find here](https://earthy-hax-og.surge.sh/)
 
-This is the future we are building. These are flying cars. I'm tired of waiting for others to make sites
+This is the future we are building. These are our flying cars. Elimination of the barriers between information being in one place in one format and another. HAX has begun investing in multiple converters to simplify migration (as much as possible) to copy and paste so that we can convert anything from its present format into JSON Outline Schema (api that powers hax's site.json files).
