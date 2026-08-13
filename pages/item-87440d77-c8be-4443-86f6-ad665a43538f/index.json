@@ -1,0 +1,74 @@
+{
+  "id": "item-87440d77-c8be-4443-86f6-ad665a43538f",
+  "indent": 0,
+  "location": "pages/item-87440d77-c8be-4443-86f6-ad665a43538f/index.json",
+  "slug": "about",
+  "order": 0,
+  "parent": null,
+  "title": "About",
+  "description": "damn near impossible\n",
+  "metadata": {
+    "locked": false,
+    "created": 1748895291,
+    "images": [],
+    "videos": [],
+    "updated": 1786636830,
+    "published": true,
+    "hideInMenu": false,
+    "readtime": 1,
+    "files": [
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+        "url": "files/headshot565332.5.jpg",
+        "type": "image/jpeg",
+        "name": "headshot565332.5.jpg",
+        "size": 140815
+      },
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
+        "url": "files/headshot571373.9000000004.jpg",
+        "type": "image/jpeg",
+        "name": "headshot571373.9000000004.jpg",
+        "size": 161281
+      },
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
+        "url": "files/headshot574816.3000000007.jpg",
+        "type": "image/jpeg",
+        "name": "headshot574816.3000000007.jpg",
+        "size": 182859
+      },
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
+        "url": "files/headshot579566.8000000007.jpg",
+        "type": "image/jpeg",
+        "name": "headshot579566.8000000007.jpg",
+        "size": 172062
+      },
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
+        "url": "files/headshot581415.6000000006.jpg",
+        "type": "image/jpeg",
+        "name": "headshot581415.6000000006.jpg",
+        "size": 166139
+      },
+      {
+        "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
+        "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
+        "url": "files/headshot603198.jpg",
+        "type": "image/jpeg",
+        "name": "headshot603198.jpg",
+        "size": 155001
+      }
+    ],
+    "status": "",
+    "overridePathauto": false,
+    "linkTarget": "_self"
+  },
+  "content": "\n<blockquote>\"Problematic\",&nbsp;<span>\"too sarcastic\", </span><span>\"lacks seriousness\"</span></blockquote>\n<grid-plate disable-responsive=\"\" layout=\"1-2-1\"><p slot=\"col-2\">Yes, and so many more issues from there. I am a dad, a believer, a developer, a coach, and opinionated about many a thing. I've worked in web development since the early 2000s and started on a DX 486 \"laptop\" and a large book about HTML in 1997!!</p><img src=\"files/headshot581415.6000000006.jpg\" loading=\"lazy\" slot=\"col-3\"><img src=\"files/headshot603198.jpg\" loading=\"lazy\" slot=\"col-1\"><img src=\"files/headshot581415.6000000006.jpg\" loading=\"lazy\" slot=\"col-1\"><img src=\"files/headshot603198.jpg\" loading=\"lazy\" slot=\"col-3\"><img src=\"files/headshot603198.jpg\" loading=\"lazy\" slot=\"col-1\"><img src=\"files/headshot581415.6000000006.jpg\" loading=\"lazy\" slot=\"col-3\"></grid-plate>\n<p>I am the project lead on <a href=\"https://haxtheweb.org/\">HAXTheWeb</a>, which <a href=\"https://github.com/btopro/blog\">powers this blog</a>, and is a large part of my purpose. From HAX I've <a href=\"https://oer.hax.psu.edu/bto108/sites/ist256/welcome\">taught courses</a> at Penn State, I am an advisor to <a href=\"https://github.com/haxtheweb/hax-the-club\">HAXTheClub</a>, mentor to dozens of students through <a href=\"https://haxtheweb.org/hax-lab\">HAX Lab</a> and have become a better coach and human as a result of all the students I've met along the way.</p>\n<p>I love the web. Hockey. Coaching. Teaching. and all the social scene that pops up around those things.</p>\n<p>Just trying to do the best I can with the time I have remaining.</p>\n<p><b>~!bto-pro</b></p>\n<p></p>\n<image-gallery mode=\"masonry\" accent-color=\"grey\" active-index=\"2\"><media-image source=\"/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1778853921\" alt=\"Sample image 1\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<media-image source=\"/files/headshot422070.074999996.jpg?t=1748551989\" alt=\"Sample image 2\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n<media-image source=\"/files/headshot143493.3299999684.jpg?t=1748551989\" alt=\"Sample image 3\" accent-color=\"grey\" size=\"wide\" offset=\"none\"></media-image>\n</image-gallery>\n<p></p>\n"
+}

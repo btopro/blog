@@ -103,3 +103,4 @@ Managed files (feeds, search indexes, manifests, and this `llms.txt`) are genera
 - [RSS feed](https://btopro.com/rss.xml): Site updates in RSS format.
 - [Atom feed](https://btopro.com/atom.xml): Site updates in Atom format.
 - [Sitemap](https://btopro.com/sitemap.xml): URL-level discovery map for the published site.
+- [Agent skills](https://btopro.com/.well-known/agent-skills/index.json): Agent Skills discovery index (agentskills.io v0.2.0) listing skills that teach an agent how to read, author, audit, and remix this site.

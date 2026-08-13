@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-87440d77-c8be-4443-86f6-ad665a43538f</id>
+<indent>0</indent>
+<location>pages/item-87440d77-c8be-4443-86f6-ad665a43538f/index.xml</location>
+<slug>about</slug>
+<order>0</order>
+<parent></parent>
+<title>About</title>
+<description>damn near impossible
+</description>
+<metadata>
+<locked>false</locked>
+<created>1748895291</created>
+<images>
+</images>
+<videos>
+</videos>
+<updated>1786636830</updated>
+<published>true</published>
+<hideInMenu>false</hideInMenu>
+<readtime>1</readtime>
+<files>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg</fullUrl>
+<url>files/headshot565332.5.jpg</url>
+<type>image/jpeg</type>
+<name>headshot565332.5.jpg</name>
+<size>140815</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg</fullUrl>
+<url>files/headshot571373.9000000004.jpg</url>
+<type>image/jpeg</type>
+<name>headshot571373.9000000004.jpg</name>
+<size>161281</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg</fullUrl>
+<url>files/headshot574816.3000000007.jpg</url>
+<type>image/jpeg</type>
+<name>headshot574816.3000000007.jpg</name>
+<size>182859</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg</fullUrl>
+<url>files/headshot579566.8000000007.jpg</url>
+<type>image/jpeg</type>
+<name>headshot579566.8000000007.jpg</name>
+<size>172062</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg</fullUrl>
+<url>files/headshot581415.6000000006.jpg</url>
+<type>image/jpeg</type>
+<name>headshot581415.6000000006.jpg</name>
+<size>166139</size>
+</item>
+<item>
+<path>/home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg</path>
+<fullUrl>//home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg</fullUrl>
+<url>files/headshot603198.jpg</url>
+<type>image/jpeg</type>
+<name>headshot603198.jpg</name>
+<size>155001</size>
+</item>
+</files>
+<status></status>
+<overridePathauto>false</overridePathauto>
+<linkTarget>_self</linkTarget>
+</metadata>
+<content><![CDATA[
+<blockquote>"Problematic",&nbsp;<span>"too sarcastic", </span><span>"lacks seriousness"</span></blockquote>
+<grid-plate disable-responsive="" layout="1-2-1"><p slot="col-2">Yes, and so many more issues from there. I am a dad, a believer, a developer, a coach, and opinionated about many a thing. I've worked in web development since the early 2000s and started on a DX 486 "laptop" and a large book about HTML in 1997!!</p><img src="files/headshot581415.6000000006.jpg" loading="lazy" slot="col-3"><img src="files/headshot603198.jpg" loading="lazy" slot="col-1"><img src="files/headshot581415.6000000006.jpg" loading="lazy" slot="col-1"><img src="files/headshot603198.jpg" loading="lazy" slot="col-3"><img src="files/headshot603198.jpg" loading="lazy" slot="col-1"><img src="files/headshot581415.6000000006.jpg" loading="lazy" slot="col-3"></grid-plate>
+<p>I am the project lead on <a href="https://haxtheweb.org/">HAXTheWeb</a>, which <a href="https://github.com/btopro/blog">powers this blog</a>, and is a large part of my purpose. From HAX I've <a href="https://oer.hax.psu.edu/bto108/sites/ist256/welcome">taught courses</a> at Penn State, I am an advisor to <a href="https://github.com/haxtheweb/hax-the-club">HAXTheClub</a>, mentor to dozens of students through <a href="https://haxtheweb.org/hax-lab">HAX Lab</a> and have become a better coach and human as a result of all the students I've met along the way.</p>
+<p>I love the web. Hockey. Coaching. Teaching. and all the social scene that pops up around those things.</p>
+<p>Just trying to do the best I can with the time I have remaining.</p>
+<p><b>~!bto-pro</b></p>
+<p></p>
+<image-gallery mode="masonry" accent-color="grey" active-index="2"><media-image source="/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1778853921" alt="Sample image 1" accent-color="grey" size="wide" offset="none"></media-image>
+<media-image source="/files/headshot422070.074999996.jpg?t=1748551989" alt="Sample image 2" accent-color="grey" size="wide" offset="none"></media-image>
+<media-image source="/files/headshot143493.3299999684.jpg?t=1748551989" alt="Sample image 3" accent-color="grey" size="wide" offset="none"></media-image>
+</image-gallery>
+<p></p>
+]]></content>
+</item>
