@@ -1,0 +1,27 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://btopro.com/",
+      "item": [
+        {
+          "href": "https://btopro.com/x/api",
+          "rel": "service"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://btopro.com/x/api/openapi",
+          "type": "application/json"
+        },
+        {
+          "href": "https://btopro.com/x/api/openapi.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://btopro.com/x/api/openapi.yaml",
+          "type": "application/yaml"
+        }
+      ]
+    }
+  ]
+}

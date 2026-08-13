@@ -21,6 +21,56 @@
       seoTag.setAttribute('content', document.location.href);
     }
   </script>
+  <script>
+    (function() {
+      var cdn = "./";
+      try {
+        var xhr = new XMLHttpRequest();
+        xhr.open('HEAD', './build/es6/node_modules/@haxtheweb/wc-autoload/wc-autoload.js', false);
+        xhr.send();
+        if (xhr.status >= 400) {
+          cdn = "https://cdn.hax.cloud/cdn/";
+        }
+      } catch (e) {}
+      globalThis.__appCDN = cdn;
+      if (cdn !== "./") {
+        var cdns = [
+          'https://cdn.hax.cloud/cdn/',
+          'https://cdn.webcomponents.psu.edu/cdn/'
+        ];
+        var preloads = document.querySelectorAll('link[rel="modulepreload"]');
+        for (var i = 0; i < preloads.length; i++) {
+          var href = preloads[i].getAttribute('href');
+          if (href && href.indexOf('./build/') === 0) {
+            preloads[i].setAttribute('href', cdn + href.substring(2));
+          }
+        }
+        var baseCss = document.querySelector('link[rel="preload"][as="style"]');
+        if (baseCss && baseCss.getAttribute('href') && baseCss.getAttribute('href').indexOf('./build/') === 0) {
+          baseCss.setAttribute('href', cdn + baseCss.getAttribute('href').substring(2));
+        }
+        var importmap = document.querySelector('script[type="importmap"]');
+        if (importmap) {
+          try {
+            var map = JSON.parse(importmap.textContent);
+            if (map.scopes) {
+              Object.keys(map.scopes).forEach(function(scope) {
+                Object.keys(map.scopes[scope]).forEach(function(key) {
+                  var val = map.scopes[scope][key];
+                  cdns.forEach(function(oldCdn) {
+                    if (val.indexOf(oldCdn) === 0) {
+                      map.scopes[scope][key] = cdn + val.substring(oldCdn.length);
+                    }
+                  });
+                });
+              });
+            }
+            importmap.textContent = JSON.stringify(map);
+          } catch (e) {}
+        }
+      }
+    })();
+  </script>
   <script type="importmap">
     {
       "scopes": {
@@ -31,6 +81,8 @@
     }
   </script>
   <meta charset="utf-8">
+  <link rel="llms" href="llms.txt" title="LLM Content Map">
+  <link rel="alternate" type="text/markdown" href="llms.txt" title="Markdown Summary">
   <link rel="preconnect" crossorigin href="https://fonts.googleapis.com">
   <link rel="preconnect" crossorigin href="https://cdnjs.cloudflare.com">
   <title>HAXcms</title>
@@ -41,8 +93,7 @@
   <meta name="twitter:title" property="twitter:title" content="HAXcms" />
   <meta name="og:url" property="og:url" content="/" data-managed-seo />
   <meta name="twitter:site" property="twitter:site" content="/" data-managed-seo />
-  <link rel="preload" href="./build.js" as="script" />
-  <link rel="preload" href="./build-haxcms.js" as="script" />
+  <!-- build.js and build-haxcms.js are loaded via script at the end of body; removing redundant preload -->
   <link rel="preload" href="./wc-registry.json" as="fetch" crossorigin="anonymous" fetchpriority="high" />
   <link rel="modulepreload" href="./build/es6/node_modules/@haxtheweb/wc-autoload/wc-autoload.js" crossorigin="anonymous" />
   <link rel="modulepreload" href="./build/es6/node_modules/@haxtheweb/dynamic-import-registry/dynamic-import-registry.js" crossorigin="anonymous" />
@@ -86,43 +137,21 @@
       padding: 0;
       min-height: 98vh;
     }
-    haxcms-site-builder:not([theme-loaded]) * {
-      margin-top: 100px;
+    haxcms-site-builder {
       display: block;
-      max-width: 50vw;
-      margin-left: auto;
-      margin-right: auto;
+      min-height: 100svh;
     }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) {
-      margin-top: 100px;
-    }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) * {
-      max-width: 50vw;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) *:not(:defined) {
-      display: block;
-      min-height: 50px;
-      min-width: 200px;
-    }
+
   </style>
   <style id="loadingstyles">
     haxcms-site-builder {
       display: block;
     }
-    body {
-      background-color: #ffffff;
-      color: rgba(0,0,0, 0.2);
-    }
     #loading {
       background-color: #ffffff;
-      bottom: 0px;
-      left: 0px;
+      inset: 0;
       opacity: 1;
-      position: absolute;
-      right: 0px;
-      top: 0px;
+      position: fixed;
       z-index: 99999999;
     }
     #loading.loaded {
@@ -188,10 +217,6 @@
       }
     }
     @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #333333;
-        color: rgba(255,255,255, 0.2);
-      }
       #loading {
         background-color: #333333;
       }
@@ -204,39 +229,71 @@
     globalThis.dataLayer = globalThis.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    globalThis.addEventListener('haxcms-ready', function(e) {
-      var s = document.createElement('script');
-      s.async = true;
-      document.body.appendChild(s);
-      // give the web components a second to build
-      setTimeout(function() {
-        var loadingEl = document.querySelector('#loading');
-        if (loadingEl) {
-          loadingEl.classList.add('loaded');
+    (function () {
+      var loadingDismissed = false;
+      var analyticsLoaded = false;
+      function loadAnalyticsFromManifest() {
+        if (analyticsLoaded) {
+          return;
         }
-        setTimeout(function() {
-          if (globalThis.HAXCMS.requestAvailability().store.getManifest()) {
-            var gaid = globalThis.HAXCMS.requestAvailability().store.getManifest().metadata.site.settings.gaID || null;
-            if (gaid) {
-              gtag('config', gaid);
-              s.src = `https://www.googletagmanager.com/gtag/js?id=${gaid}`;
-            }
+        analyticsLoaded = true;
+        var script = document.createElement('script');
+        script.async = true;
+        document.body.appendChild(script);
+        if (
+          globalThis.HAXCMS &&
+          globalThis.HAXCMS.requestAvailability &&
+          globalThis.HAXCMS.requestAvailability().store.getManifest()
+        ) {
+          var gaid =
+            globalThis.HAXCMS.requestAvailability().store.getManifest()
+              .metadata.site.settings.gaID || null;
+          if (gaid) {
+            gtag('config', gaid);
+            script.src =
+              'https://www.googletagmanager.com/gtag/js?id=' + gaid;
           }
-          var loadingEl = document.querySelector('#loading');
-          if (loadingEl && loadingEl.parentNode) {
-            loadingEl.parentNode.removeChild(loadingEl);
-          }
-          var loadingStylesEl = document.querySelector('#loadingstyles');
-          if (loadingStylesEl && loadingStylesEl.parentNode) {
-            loadingStylesEl.parentNode.removeChild(loadingStylesEl);
-          }
-          var loadingScriptEl = document.querySelector('#loadingscript');
-          if (loadingScriptEl && loadingScriptEl.parentNode) {
-            loadingScriptEl.parentNode.removeChild(loadingScriptEl);
-          }
-        }, 100);
-      }, 300);
-    });
+        }
+      }
+      function hideLoading() {
+        if (loadingDismissed) {
+          return;
+        }
+        loadingDismissed = true;
+        var loadingEl = document.querySelector('#loading');
+        if (!loadingEl) {
+          return;
+        }
+        globalThis.requestAnimationFrame(function () {
+          globalThis.requestAnimationFrame(function () {
+            loadingEl.classList.add('loaded');
+            loadingEl.setAttribute('aria-busy', 'false');
+            setTimeout(function () {
+              loadingEl.setAttribute('hidden', 'hidden');
+            }, 120);
+          });
+        });
+      }
+      globalThis.addEventListener(
+        'json-outline-schema-active-body-changed',
+        function () {
+          hideLoading();
+        },
+        { once: true }
+      );
+      globalThis.addEventListener(
+        'haxcms-ready',
+        function () {
+          setTimeout(function () {
+            loadAnalyticsFromManifest();
+          }, 150);
+          setTimeout(function () {
+            hideLoading();
+          }, 2500);
+        },
+        { once: true }
+      );
+    })();
   </script>
 </head>
 <body vocab="http://schema.org/" prefix="oer:http://oerschema.org cc:http://creativecommons.org/ns dc:http://purl.org/dc/terms/">
@@ -249,7 +306,7 @@
   <haxcms-site-builder id="site" file="site.json?2GQKWcJ3ni0xrL2X4_Dw_Sr9SeXqY2Sk3XblmvHVArA"></haxcms-site-builder>
   <script>
     globalThis.MicroFrontendRegistryConfig = globalThis.MicroFrontendRegistryConfig || {};
-    globalThis.HAXCMSContext="php";globalThis.__appCDN="./";</script>
+    globalThis.HAXCMSContext="php";globalThis.__appCDN=globalThis.__appCDN || "./";</script>
   <script src="./build-haxcms.js"></script>
   <script src="./build.js"></script>
 </body>

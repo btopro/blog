@@ -9,7 +9,12 @@
       "image": "files/PXL_20220729_131000960.jpg",
       "name": "Bryan Ollendyke",
       "email": "btopro@outlook.com",
-      "socialLink": "https://www.linkedin.com/in/btopro/"
+      "socialLink": "https://www.linkedin.com/in/btopro/",
+      "phone": "",
+      "location": "",
+      "website": "",
+      "website2": "",
+      "socialLink2": ""
     },
     "site": {
       "name": "btopro",
@@ -17,7 +22,7 @@
       "settings": {
         "lang": "en-US",
         "publishPagesOn": true,
-        "pathauto": false,
+        "pathauto": true,
         "sw": false,
         "forceUpgrade": true,
         "gaID": "G-YTXEQB1N21",
@@ -25,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1786636867,
+      "updated": 1786636871,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"

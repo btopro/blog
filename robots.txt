@@ -1,5 +1,8 @@
 User-agent: *
 Crawl-delay: 10
+Allow: /
+Sitemap: https://btopro.com/sitemap.xml
+LLMS: https://btopro.com/llms.txt
 # CSS, JS, Images
 Allow: /assets/*.css$
 Allow: /assets/*.css?

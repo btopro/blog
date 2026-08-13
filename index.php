@@ -32,43 +32,21 @@ else {
       padding: 0;
       min-height: 98vh;
     }
-    haxcms-site-builder:not([theme-loaded]) * {
-      margin-top: 100px;
+    haxcms-site-builder {
       display: block;
-      max-width: 50vw;
-      margin-left: auto;
-      margin-right: auto;
+      min-height: 100svh;
     }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) {
-      margin-top: 100px;
-    }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) * {
-      max-width: 50vw;
-      margin-left: auto;
-      margin-right: auto;
-    }
-    haxcms-site-builder[theme-loaded] .haxcms-theme-element:not(:defined) *:not(:defined) {
-      display: block;
-      min-height: 50px;
-      min-width: 200px;
-    }
+
   </style>
   <style id="loadingstyles">
     haxcms-site-builder {
       display: block;
     }
-    body {
-      background-color: #ffffff;
-      color: rgba(0,0,0, 0.2);
-    }
     #loading {
       background-color: #ffffff;
-      bottom: 0px;
-      left: 0px;
+      inset: 0;
       opacity: 1;
-      position: absolute;
-      right: 0px;
-      top: 0px;
+      position: fixed;
       z-index: 99999999;
     }
     #loading.loaded {
@@ -134,10 +112,6 @@ else {
       }
     }
     @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #333333;
-        color: rgba(255,255,255, 0.2);
-      }
       #loading {
         background-color: #333333;
       }
@@ -147,29 +121,44 @@ else {
     }
   </style>
   <script id="loadingscript">
-    globalThis.addEventListener('haxcms-ready', function(e) {
-      // give the web components a second to build
-      setTimeout(function() {
-        var loadingEl = document.querySelector('#loading');
-        if (loadingEl) {
-          loadingEl.classList.add('loaded');
+    (function () {
+      var loadingDismissed = false;
+      function hideLoading() {
+        if (loadingDismissed) {
+          return;
         }
-        setTimeout(function() {
-          var loadingEl = document.querySelector('#loading');
-          if (loadingEl && loadingEl.parentNode) {
-            loadingEl.parentNode.removeChild(loadingEl);
-          }
-          var loadingStylesEl = document.querySelector('#loadingstyles');
-          if (loadingStylesEl && loadingStylesEl.parentNode) {
-            loadingStylesEl.parentNode.removeChild(loadingStylesEl);
-          }
-          var loadingScriptEl = document.querySelector('#loadingscript');
-          if (loadingScriptEl && loadingScriptEl.parentNode) {
-            loadingScriptEl.parentNode.removeChild(loadingScriptEl);
-          }
-        }, 100);
-      }, 300);
-    });
+        loadingDismissed = true;
+        var loadingEl = document.querySelector('#loading');
+        if (!loadingEl) {
+          return;
+        }
+        globalThis.requestAnimationFrame(function () {
+          globalThis.requestAnimationFrame(function () {
+            loadingEl.classList.add('loaded');
+            loadingEl.setAttribute('aria-busy', 'false');
+            setTimeout(function () {
+              loadingEl.setAttribute('hidden', 'hidden');
+            }, 120);
+          });
+        });
+      }
+      globalThis.addEventListener(
+        'json-outline-schema-active-body-changed',
+        function () {
+          hideLoading();
+        },
+        { once: true }
+      );
+      globalThis.addEventListener(
+        'haxcms-ready',
+        function () {
+          setTimeout(function () {
+            hideLoading();
+          }, 2500);
+        },
+        { once: true }
+      );
+    })();
   </script>
 </head>
 <body <?php print $HAXSiteConfig->getSitePageAttributes();?>>
@@ -180,7 +169,18 @@ else {
     </div>
   </section>
   <haxcms-site-builder id="site" file="site.json<?php print $HAXSiteConfig->cacheBusterHash();?>">
-    <?php print $HAXSiteConfig->getPageContent($HAXSiteConfig->page); ?>
+    <?php
+      if (
+        method_exists($HAXSiteConfig, 'isPageNotFound') &&
+        $HAXSiteConfig->isPageNotFound() &&
+        method_exists($HAXSiteConfig, 'getPageMissShellMarkup')
+      ) {
+        print $HAXSiteConfig->getPageMissShellMarkup();
+      }
+      else {
+        print $HAXSiteConfig->getPageContent($HAXSiteConfig->page);
+      }
+    ?>
   </haxcms-site-builder>
   <script>
     <?php 
