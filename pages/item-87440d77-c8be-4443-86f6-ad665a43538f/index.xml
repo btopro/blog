@@ -16,7 +16,7 @@
 </images>
 <videos>
 </videos>
-<updated>1786636830</updated>
+<updated>1786638234</updated>
 <published>true</published>
 <hideInMenu>false</hideInMenu>
 <readtime>1</readtime>
@@ -82,9 +82,12 @@
 <p>Just trying to do the best I can with the time I have remaining.</p>
 <p><b>~!bto-pro</b></p>
 <p></p>
-<image-gallery mode="masonry" accent-color="grey" active-index="2"><media-image source="/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1778853921" alt="Sample image 1" accent-color="grey" size="wide" offset="none"></media-image>
-<media-image source="/files/headshot422070.074999996.jpg?t=1748551989" alt="Sample image 2" accent-color="grey" size="wide" offset="none"></media-image>
-<media-image source="/files/headshot143493.3299999684.jpg?t=1748551989" alt="Sample image 3" accent-color="grey" size="wide" offset="none"></media-image>
+<image-gallery mode="masonry" accent-color="grey" active-index="2"><media-image source="/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1778853921" accent-color="grey" size="wide" offset="none" alt="btopro, in the future, ripped"></media-image>
+
+<media-image source="/files/headshot422070.074999996.jpg?t=1748551989" alt="btopro in a jersey, shocking" accent-color="grey" size="wide" offset="none"></media-image>
+
+<media-image source="/files/headshot143493.3299999684.jpg?t=1748551989" alt="btopro with an elms logo, old school" accent-color="grey" size="wide" offset="none"></media-image>
+
 </image-gallery>
 <p></p>
 ]]></content>
