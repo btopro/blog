@@ -1,4 +1,4 @@
-# bto-pro
+# btopro
 
 > All things btopro on my own blog.
 
