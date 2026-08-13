@@ -1,6 +1,6 @@
 {
   "id": "99e4b4fb-bc10-4540-96b1-c12c79982fdf",
-  "title": "bto-pro",
+  "title": "btopro",
   "author": "",
   "description": "All things btopro on my own blog.",
   "license": "by-sa",
@@ -30,12 +30,12 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1786636871,
+      "updated": 1786636929,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
-      "version": "25.0.0",
+      "version": "26.0.0",
       "domain": "https://btopro.com",
       "static": {},
       "tags": "blog, personal, website, haxtheweb, hax, btopro, bryan, author, family"
