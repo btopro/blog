@@ -30,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1788975858,
+      "updated": 1788975861,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -889,23 +889,26 @@
     },
     {
       "id": "item-c9e2488a-44dd-f0d4-4b3f-651245add81a",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
       "slug": "life/the-perfect-cup-of-coffee",
-      "order": 15,
+      "order": 16,
       "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
       "title": "The perfect cup of coffee",
       "description": "(post via @btopro on twitter\n)\ngood people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into ",
       "metadata": {
         "created": "1698074988",
-        "updated": 1773778671,
+        "updated": 1788975861,
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
         "readtime": 3,
-        "videos": {},
-        "images": {}
+        "videos": [],
+        "images": [],
+        "overridePathauto": false,
+        "tags": "2022",
+        "linkTarget": "_self"
       }
     },
     {
