@@ -12,9 +12,9 @@
       "socialLink": "https://www.linkedin.com/in/btopro/",
       "phone": "",
       "location": "",
-      "website": "",
+      "website": "https://btopro.com",
       "website2": "",
-      "socialLink2": ""
+      "socialLink2": "https://x.com/btopro"
     },
     "site": {
       "name": "btopro",
@@ -30,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1788975879,
+      "updated": 1788976072,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
