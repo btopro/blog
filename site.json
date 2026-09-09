@@ -30,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1788975861,
+      "updated": 1788975879,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -545,7 +545,7 @@
       "description": "I was rambling in the car to my boys about a lack of interest in IT fields, broadly by society, and how I started to trace it to Chromebooks and unintended consequences. K-12 largely adopted Chromebo",
       "metadata": {
         "created": 1788975014,
-        "updated": 1788975857,
+        "updated": 1788975878,
         "images": [],
         "videos": [],
         "overridePathauto": false,
@@ -555,7 +555,7 @@
         "linkTarget": "_self",
         "locked": false,
         "readtime": 3,
-        "tags": "Family, 2026"
+        "tags": "Stories, 2026"
       }
     },
     {
