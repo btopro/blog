@@ -30,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1786638234,
+      "updated": 1788975618,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -532,6 +532,29 @@
         "tags": "Stories",
         "videos": {},
         "images": {}
+      }
+    },
+    {
+      "id": "item-db9cc0da-f894-413c-ba2c-1f55187fac78",
+      "indent": 0,
+      "location": "pages/item-db9cc0da-f894-413c-ba2c-1f55187fac78/index.html",
+      "slug": "life/do-i-have-a-computer",
+      "order": 3,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Do I have a computer",
+      "description": "I was rambling in the car to my boys about a lack of interest in IT fields, broadly by society, and how I started to trace it to Chromebooks and unintended consequences. K-12 largely adopted Chromebo",
+      "metadata": {
+        "created": 1788975014,
+        "updated": 1788975618,
+        "images": [],
+        "videos": [],
+        "overridePathauto": false,
+        "published": true,
+        "hideInMenu": false,
+        "icon": "icons:error",
+        "linkTarget": "_self",
+        "locked": false,
+        "readtime": 3
       }
     },
     {
@@ -2839,22 +2862,6 @@
         "readtime": 3,
         "videos": {},
         "images": {}
-      }
-    },
-    {
-      "id": "item-db9cc0da-f894-413c-ba2c-1f55187fac78",
-      "indent": 0,
-      "location": "pages/item-db9cc0da-f894-413c-ba2c-1f55187fac78/index.html",
-      "slug": "new-page",
-      "order": 2,
-      "parent": null,
-      "title": "New Page",
-      "description": "",
-      "metadata": {
-        "created": 1788975014,
-        "updated": 1788975014,
-        "images": [],
-        "videos": []
       }
     },
     {

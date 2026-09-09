@@ -1,0 +1,22 @@
+I was rambling in the car to my boys about a lack of interest in IT fields, broadly by society, and how I started to trace it to Chromebooks and unintended consequences. K-12 largely adopted Chromebooks either on carts or in many areas as something students can take with them. As a result, watching them grow up, as a parent who's kids had Chromebooks I was less likely to say "Let's get a home computer". Why? Because they "had one".
+
+But, does one really have a computer if it is managed?
+
+Sure, it's easier for IT departments to manage; but the user is then penciled into what a thing is and can do, not what it could be or them be programmed to do. Let's take a simple example; Right click and inspect this webpage. If you can "Inspect" or "View Source" then congratulations, you have a computer.
+
+Chromebooks with common IT policy settings, cannot perform this. When I explained this was a common operation on computers, my 15 knew that because I made him learn about it, but my 13 year old had never heard that before. He had no idea that HTML was floating around and that there was a language, let alone an easy one to learn, floating in front of the web pages he read or the youtube videos he watched.
+
+So he has a computer, but is he shown how to dream with it or simply that it is a tool built my mythological others who figured it out.
+
+I decided not to find out; we recently purchased a home computer, a traditional server style one, so that they can see all the things they can do when they actually can control a computer. Already there's the obvious things like Steam, installing Minecraft, and obvious common gaming operations; all concepts that easy UX fails them on when it comes to actually learning if they have an XBOX.
+
+XBOX, magic, click it's there, click it's connected, click I download. A UX pattern so simple it masks what's going on; installing programs, having to find them, having to think about where they go and manage them. Us owning a computer, here's some common lesson plans that I plan on taking them through as a guide (the deal was we get the computer in exchange for learning how to configure it 2-3 hours a week).
+
+*   What specs does it have? Dig into settings, figure out what's there
+*   Open the machine; what's expandable? What isn't? How much RAM and what configuration? What can we do with more RAM? Graphics cards? etc
+*   Setup admin accounts vs user accounts. What are these, why do we need a different account? What's trusted to download vs detecting what isn't.
+*   Where are things on the file system? How do we navigate it, where is everything stored? How can we modify and add new things?
+*   Install \_\_\_\_\_ thing and do \_\_\_\_\_\_ with it; where the blanks can be anything from Terminal, to AI software, graphics software.
+*   Account management; google, adobe, figma, github or otherwise; you need to understand what a user account is, how to protect it, how to manage it
+
+All of these tasks you can't do on a locked down machine. Administrators took that choice away from you and if you don't want to learn that stuff as an adult, that's fine. But we need more spaces for breaking things, hacking things, and reverse engineering otherwise our children will never seek to build and dream what's possible and meerly accept the UX patterns we've been given as a society, no matter how broken they may be.

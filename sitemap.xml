@@ -1,26 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://btopro.com/work/the-climb</loc>
-    <lastmod>2026-03-17T20:17:55.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/life/keep-moving-week-0</loc>
     <lastmod>2026-03-17T20:17:47.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/work/information-altruism-2-0</loc>
-    <lastmod>2026-03-17T20:17:55.000Z</lastmod>
+    <loc>https://btopro.com/life/catching-gman</loc>
+    <lastmod>2026-03-17T20:17:47.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/the-infinite-void</loc>
+    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/annabella</loc>
+    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/hey-remember-when</loc>
+    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/fortify</loc>
+    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/golden-shimmering-joy</loc>
+    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/compartmentalizing</loc>
+    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/straddling-the-abyss</loc>
+    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/dood</loc>
+    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/generation-uine</loc>
+    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/end-of-summer</loc>
+    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/pure-joy</loc>
+    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/the-perfect-cup-of-coffee</loc>
+    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://btopro.com/work/why-i-started-hax-camp</loc>
     <lastmod>2026-03-17T20:17:54.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/work/the-climb</loc>
+    <lastmod>2026-03-17T20:17:55.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/work/information-altruism-2-0</loc>
+    <lastmod>2026-03-17T20:17:55.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,32 +121,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/catching-gman</loc>
-    <lastmod>2026-03-17T20:17:47.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/the-infinite-void</loc>
-    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/my-first-time-on-stage</loc>
     <lastmod>2026-03-17T20:17:57.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/annabella</loc>
-    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/hey-remember-when</loc>
-    <lastmod>2026-03-17T20:17:48.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -115,12 +169,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/fortify</loc>
-    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/all-screens-have-rights</loc>
     <lastmod>2026-03-17T20:17:59.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -157,12 +205,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/golden-shimmering-joy</loc>
-    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/common-web-component-state-question</loc>
     <lastmod>2026-03-17T20:18:01.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -171,12 +213,6 @@
   <url>
     <loc>https://btopro.com/work/ngdle-is-really-just-enigma-misspelled</loc>
     <lastmod>2026-03-17T20:18:01.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/compartmentalizing</loc>
-    <lastmod>2026-03-17T20:17:49.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -205,12 +241,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/straddling-the-abyss</loc>
-    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/the-knowledge-decentralization-manifesto</loc>
     <lastmod>2026-03-17T20:18:03.000Z</lastmod>
     <changefreq>daily</changefreq>
@@ -219,12 +249,6 @@
   <url>
     <loc>https://btopro.com/work/hax-apereo-piece</loc>
     <lastmod>2026-03-17T20:18:03.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/the-perfect-cup-of-coffee</loc>
-    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -247,26 +271,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/pure-joy</loc>
-    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/creating-the-decentralized-instructional-experience-app</loc>
     <lastmod>2026-03-17T20:18:04.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/work/using-webcomponents-to-unearth-the-ngdle</loc>
-    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/work/this-is-not-reality</loc>
-    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -277,26 +283,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://btopro.com/life/dood</loc>
-    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/generation-uine</loc>
-    <lastmod>2026-03-17T20:17:50.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://btopro.com/work/birthday-party</loc>
     <lastmod>2026-03-17T20:18:05.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/life/end-of-summer</loc>
-    <lastmod>2026-03-17T20:17:51.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -309,12 +297,6 @@
   <url>
     <loc>https://btopro.com/work/singularity-digital-activism-and-saving-our-institutions</loc>
     <lastmod>2026-03-17T20:18:06.000Z</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://btopro.com/work/ddosa</loc>
-    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -363,6 +345,24 @@
   <url>
     <loc>https://btopro.com/work/transforming-industry-through-information-altruism</loc>
     <lastmod>2026-03-17T20:18:08.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/work/using-webcomponents-to-unearth-the-ngdle</loc>
+    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/work/this-is-not-reality</loc>
+    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/work/ddosa</loc>
+    <lastmod>2026-03-17T20:18:09.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -507,6 +507,12 @@
   <url>
     <loc>https://btopro.com/hax/no-talk-of-flying-cars</loc>
     <lastmod>2026-05-15T14:20:06.000Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://btopro.com/life/do-i-have-a-computer</loc>
+    <lastmod>2026-09-09T17:40:18.000Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
