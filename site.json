@@ -82,6 +82,252 @@
   },
   "items": [
     {
+      "id": "item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc",
+      "indent": 1,
+      "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
+      "slug": "life/i-developed-",
+      "order": 0,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "I, Developed.",
+      "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
+      "metadata": {
+        "created": 1709329865,
+        "updated": 1773778667,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 3,
+        "tags": "coaching, 2024",
+        "files": [
+          {
+            "fullUrl": "/sites/btopro/files/i-developed.jpg",
+            "url": "files/i-developed.jpg",
+            "type": "image/jpeg",
+            "name": "i-developed.jpg",
+            "size": 247346
+          }
+        ],
+        "image": "files/i-developed.jpg",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-e21ae903-c528-475f-926d-fe5b9d97c990",
+      "indent": 2,
+      "location": "pages/item-e21ae903-c528-475f-926d-fe5b9d97c990/index.html",
+      "slug": "work/fossy24/fossy-day-1",
+      "order": 0,
+      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
+      "title": "FOSSY Day 1",
+      "description": "\n",
+      "metadata": {
+        "locked": false,
+        "created": 1722535480,
+        "images": {},
+        "videos": {},
+        "updated": 1773778673,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-49900a85-b309-48d5-a962-e291ca69b352",
+      "indent": 1,
+      "location": "pages/item-49900a85-b309-48d5-a962-e291ca69b352/index.html",
+      "slug": "work/fossy24",
+      "order": 0,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "Fossy24",
+      "description": "My thoughts on FOSSY 24 as they happened. I grouped them under here because they were per day and I think important to capture in that way.\n",
+      "metadata": {
+        "locked": false,
+        "created": 1723213915,
+        "images": {},
+        "videos": {},
+        "updated": 1773778673,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": "",
+        "tags": "Events, 2024"
+      }
+    },
+    {
+      "id": "item-43058044-fc46-4222-b5a5-5033f5166afa",
+      "indent": 2,
+      "location": "pages/item-43058044-fc46-4222-b5a5-5033f5166afa/index.html",
+      "slug": "work/fossy24/fossy-day-2",
+      "order": 1,
+      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
+      "title": "FOSSY Day 2",
+      "description": "Day two I hung out in the Education Track most of the day. This is a series of phrases and important topics I learned about to bring back:\nRenewable assignment - David Willey concept; it's having stu",
+      "metadata": {
+        "locked": false,
+        "created": 1722646530,
+        "images": {},
+        "videos": {},
+        "updated": 1773778673,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 2,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-c7c43c72-1a21-4e60-8d56-a12aac372936",
+      "indent": 2,
+      "location": "pages/item-c7c43c72-1a21-4e60-8d56-a12aac372936/index.html",
+      "slug": "work/fossy24/fossy-day-3",
+      "order": 2,
+      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
+      "title": "FOSSY Day 3",
+      "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
+      "metadata": {
+        "created": 1722699241,
+        "updated": 1773778674,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-87440d77-c8be-4443-86f6-ad665a43538f",
+      "indent": 0,
+      "location": "pages/item-87440d77-c8be-4443-86f6-ad665a43538f/index.html",
+      "slug": "about",
+      "order": 0,
+      "parent": null,
+      "title": "About",
+      "description": "damn near impossible\n",
+      "metadata": {
+        "locked": false,
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1786638234,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
+            "url": "files/headshot565332.5.jpg",
+            "type": "image/jpeg",
+            "name": "headshot565332.5.jpg",
+            "size": 140815
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
+            "url": "files/headshot571373.9000000004.jpg",
+            "type": "image/jpeg",
+            "name": "headshot571373.9000000004.jpg",
+            "size": 161281
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
+            "url": "files/headshot574816.3000000007.jpg",
+            "type": "image/jpeg",
+            "name": "headshot574816.3000000007.jpg",
+            "size": 182859
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
+            "url": "files/headshot579566.8000000007.jpg",
+            "type": "image/jpeg",
+            "name": "headshot579566.8000000007.jpg",
+            "size": 172062
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
+            "url": "files/headshot581415.6000000006.jpg",
+            "type": "image/jpeg",
+            "name": "headshot581415.6000000006.jpg",
+            "size": 166139
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
+            "url": "files/headshot603198.jpg",
+            "type": "image/jpeg",
+            "name": "headshot603198.jpg",
+            "size": 155001
+          }
+        ],
+        "status": "",
+        "overridePathauto": false,
+        "linkTarget": "_self"
+      }
+    },
+    {
+      "id": "item-d21d217e-bead-408f-bd0d-4459cb918914",
+      "indent": 0,
+      "location": "pages/item-d21d217e-bead-408f-bd0d-4459cb918914/index.html",
+      "slug": "hax/sustainable-impact-and-innovation-pipeline",
+      "order": 0,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
+      "title": "Sustainable Impact and Innovation Pipeline",
+      "description": "Do more with less. It's been the ask of higher education for the last 15 years (at least), and in the age of AI, many think we may actually be able to do more with less, though studies are starting t",
+      "metadata": {
+        "locked": false,
+        "created": 1773778634,
+        "images": {},
+        "videos": {},
+        "updated": 1773780397,
+        "published": true,
+        "status": "",
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
+            "url": "files/2026-student-pipeline-(1).jpg",
+            "type": "image/jpeg",
+            "name": "2026-student-pipeline-(1).jpg",
+            "size": 136078
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.BNXqNU.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.BNXqNU.png",
+            "url": "files/CopyQ.BNXqNU.png",
+            "type": "image/png",
+            "name": "CopyQ.BNXqNU.png",
+            "size": 165153
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.RvAxrm.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.RvAxrm.png",
+            "url": "files/CopyQ.RvAxrm.png",
+            "type": "image/png",
+            "name": "CopyQ.RvAxrm.png",
+            "size": 97242
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.HAuVQu.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.HAuVQu.png",
+            "url": "files/CopyQ.HAuVQu.png",
+            "type": "image/png",
+            "name": "CopyQ.HAuVQu.png",
+            "size": 80061
+          }
+        ],
+        "hideInMenu": false,
+        "image": "files/CopyQ.HAuVQu.png",
+        "readtime": 3
+      }
+    },
+    {
       "id": "item-e69dc923-a3a6-4052-8726-9aeec9c2105c",
       "indent": 1,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
@@ -135,97 +381,22 @@
       }
     },
     {
-      "id": "item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc",
-      "indent": 1,
-      "location": "pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.html",
-      "slug": "life/i-developed-",
-      "order": 0,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "I, Developed.",
-      "description": "When I was a child, my parents helped me to develop. I had a loving home, that encouraged my growth and development in all aspects of life. Parents, thank you for developing your children this year",
+      "id": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "indent": 0,
+      "location": "pages/item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18/index.html",
+      "slug": "life",
+      "order": 1,
+      "parent": null,
+      "title": "Life",
+      "description": "",
       "metadata": {
-        "created": 1709329865,
-        "updated": 1773778667,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
         "locked": false,
-        "readtime": 3,
-        "tags": "coaching, 2024",
-        "files": [
-          {
-            "fullUrl": "/sites/btopro/files/i-developed.jpg",
-            "url": "files/i-developed.jpg",
-            "type": "image/jpeg",
-            "name": "i-developed.jpg",
-            "size": 247346
-          }
-        ],
-        "image": "files/i-developed.jpg",
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1773778666,
+        "published": true,
         "status": ""
-      }
-    },
-    {
-      "id": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0",
-      "indent": 1,
-      "location": "pages/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0/index.html",
-      "slug": "work/the-climb",
-      "order": 4,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "The Climb",
-      "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]\n  if we're going to get to 2020 and what's to come in that year... ther",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778675,
-        "readtime": 7,
-        "contentDetails": {
-          "headings": "1",
-          "paragraphs": "19",
-          "schema": [],
-          "tags": {
-            "p": "19",
-            "lrndesign-blockquote": "1",
-            "ol": "1",
-            "video-player": "1",
-            "h2": "1",
-            "ul": "1",
-            "grid-plate": "1"
-          },
-          "elements": "25"
-        },
-        "files": [
-          {
-            "path": "/var/www/html/sites/btopro/files/edtechjoker.gif",
-            "fullUrl": "/sites/btopro/files/edtechjoker.gif",
-            "url": "files/edtechjoker.gif",
-            "type": "image/gif",
-            "name": "edtechjoker.gif",
-            "size": "838403"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files/edtechjoker.jpg",
-            "fullUrl": "/sites/btopro/files/edtechjoker.jpg",
-            "url": "files/edtechjoker.jpg",
-            "type": "image/jpeg",
-            "name": "edtechjoker.jpg",
-            "size": "68012"
-          },
-          {
-            "fullUrl": "/sites/btopro/files/PXL_20220729_131000960.jpg",
-            "url": "files/PXL_20220729_131000960.jpg",
-            "type": "image/jpeg",
-            "name": "PXL_20220729_131000960.jpg",
-            "size": "138328"
-          }
-        ],
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "The Climb, 2019",
-        "videos": {},
-        "images": {}
       }
     },
     {
@@ -278,62 +449,719 @@
       }
     },
     {
-      "id": "item-8e045593-79fd-401d-b380-1029001f5574",
+      "id": "item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7",
       "indent": 1,
-      "location": "pages/item-8e045593-79fd-401d-b380-1029001f5574/index.html",
-      "slug": "work/arrival",
-      "order": 5,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Arrival",
-      "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
-      "metadata": {
-        "created": "1698076822",
-        "updated": 1773778675,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 4,
-        "relatedItems": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0,item-1235ea3a-9254-4b93-8df3-8909fddcce88,item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
-        "image": "https://images-assets.nasa.gov/image/2011-3753/2011-3753~thumb.jpg",
-        "tags": "The Climb, 2024",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
-      "indent": 1,
-      "location": "pages/item-1235ea3a-9254-4b93-8df3-8909fddcce88/index.html",
-      "slug": "work/information-altruism-2-0",
-      "order": 6,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Information Altruism 2.0",
-      "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My ",
+      "location": "pages/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7/index.html",
+      "slug": "life/catching-gman",
+      "order": 3,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Catching Gman",
+      "description": "Cut to ribbons tonight by a memory maintained and a thank you I didn't expect.\nLet me explain how my second child, the one I've had more trouble relating to if I am perfectly honest, amazes me more b",
       "metadata": {
         "created": "1698074988",
-        "updated": 1773778675,
-        "readtime": 7,
-        "contentDetails": {
-          "headings": "6",
-          "paragraphs": "18",
-          "schema": [],
-          "tags": {
-            "p": "18",
-            "h2": "3",
-            "ul": "1",
-            "ol": "2",
-            "h3": "3"
+        "updated": 1773778667,
+        "files": [
+          {
+            "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
+            "fullUrl": "/sites/btopro/files/headshot422070.074999996.jpg",
+            "url": "files/headshot422070.074999996.jpg",
+            "type": "image/jpeg",
+            "name": "headshot422070.074999996.jpg",
+            "size": "199646"
           },
-          "elements": "27"
+          {
+            "path": "/var/www/html/sites/btopro/files/headshot451242.7200000384.jpg",
+            "fullUrl": "/sites/btopro/files/headshot451242.7200000384.jpg",
+            "url": "files/headshot451242.7200000384.jpg",
+            "type": "image/jpeg",
+            "name": "headshot451242.7200000384.jpg",
+            "size": "223650"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files/headshot522511.73000002746.jpg",
+            "fullUrl": "/sites/btopro/files/headshot522511.73000002746.jpg",
+            "url": "files/headshot522511.73000002746.jpg",
+            "type": "image/jpeg",
+            "name": "headshot522511.73000002746.jpg",
+            "size": "210524"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files/headshot529121.6300000087.jpg",
+            "fullUrl": "/sites/btopro/files/headshot529121.6300000087.jpg",
+            "url": "files/headshot529121.6300000087.jpg",
+            "type": "image/jpeg",
+            "name": "headshot529121.6300000087.jpg",
+            "size": "216612"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files/headshot533131.1700000078.jpg",
+            "fullUrl": "/sites/btopro/files/headshot533131.1700000078.jpg",
+            "url": "files/headshot533131.1700000078.jpg",
+            "type": "image/jpeg",
+            "name": "headshot533131.1700000078.jpg",
+            "size": "227296"
+          },
+          {
+            "fullUrl": "/sites/btopro/files/1500x5001.jpeg",
+            "url": "files/1500x5001.jpeg",
+            "type": "image/jpeg",
+            "name": "1500x5001.jpeg",
+            "size": "118690"
+          }
+        ],
+        "readtime": 6,
+        "contentDetails": {
+          "headings": "0",
+          "paragraphs": "24",
+          "schema": [
+            {
+              "resource": "#48fe53f8-f89e-bf0b-407b",
+              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
+            }
+          ],
+          "tags": {
+            "p": "24",
+            "lrndesign-blockquote": "1"
+          },
+          "elements": "25"
         },
         "published": true,
         "locked": false,
         "status": "",
         "hideInMenu": false,
-        "tags": "Essays",
+        "tags": "Stories",
         "videos": {},
         "images": {}
+      }
+    },
+    {
+      "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
+      "indent": 1,
+      "location": "pages/item-2d2887cc-08c8-4f22-8554-abcce1823282/index.html",
+      "slug": "life/the-infinite-void",
+      "order": 4,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "The infinite void",
+      "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but f",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778668,
+        "readtime": 3,
+        "contentDetails": {
+          "headings": "0",
+          "paragraphs": "12",
+          "schema": [],
+          "tags": {
+            "p": "12"
+          },
+          "elements": "12"
+        },
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a",
+      "indent": 1,
+      "location": "pages/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a/index.html",
+      "slug": "life/annabella",
+      "order": 5,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Annabella",
+      "description": "The wheels squeaked on the cart, boosting my kid sister I placed her in the front part kids sit in. Five years old, happy to have someone who could lift her high. I was fifteen when we went to a rand",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778668,
+        "readtime": 8,
+        "contentDetails": {
+          "headings": "0",
+          "paragraphs": "37",
+          "schema": [
+            {
+              "resource": "#2b95c77e-01c9-6a24-2a2f",
+              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
+            },
+            {
+              "resource": "#f4f74a88-45e4-607f-a073",
+              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
+            }
+          ],
+          "tags": {
+            "p": "37",
+            "lrndesign-blockquote": "1",
+            "video-player": "1",
+            "blockquote": "1"
+          },
+          "elements": "40"
+        },
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
+      "indent": 1,
+      "location": "pages/item-006601d9-4063-4bd9-ba32-3e959b631d31/index.html",
+      "slug": "life/hey-remember-when",
+      "order": 6,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Hey, remember when",
+      "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.\nTo build a nest, in my \"Effing\" c",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778668,
+        "readtime": 4,
+        "contentDetails": {
+          "headings": "0",
+          "paragraphs": "21",
+          "schema": [],
+          "tags": {
+            "p": "21",
+            "meme-maker": "1",
+            "ol": "1",
+            "full-width-image": "3"
+          },
+          "elements": "26"
+        },
+        "files": [
+          {
+            "path": "/var/www/html/sites/btopro/files//IMG_20190713_185619.jpg",
+            "fullUrl": "/sites/btopro/files/IMG_20190713_185619.jpg",
+            "url": "files/IMG_20190713_185619.jpg",
+            "type": "image/jpeg",
+            "name": "IMG_20190713_185619.jpg",
+            "size": "833595"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files//IMG_20190713_115919.jpg",
+            "fullUrl": "/sites/btopro/files/IMG_20190713_115919.jpg",
+            "url": "files/IMG_20190713_115919.jpg",
+            "type": "image/jpeg",
+            "name": "IMG_20190713_115919.jpg",
+            "size": "1228849"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files//IMG_20190713_122826.jpg",
+            "fullUrl": "/sites/btopro/files/IMG_20190713_122826.jpg",
+            "url": "files/IMG_20190713_122826.jpg",
+            "type": "image/jpeg",
+            "name": "IMG_20190713_122826.jpg",
+            "size": "536118"
+          }
+        ],
+        "fields": {
+          "images": [],
+          "subtitle": "",
+          "tags": []
+        },
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
+      "indent": 1,
+      "location": "pages/item-15cbf071-ff46-4ec6-90dd-35c57537af97/index.html",
+      "slug": "life/fortify",
+      "order": 7,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Fortify",
+      "description": "\"FORT. NIGHT.\"\nThey yell. Not in the way that teenagers rushing home from school to dominate their\n  friends yell but in the way of innocence. The yell of the joy of dad suggesting that\n  we build a ",
+      "metadata": {
+        "siteName": "btopro",
+        "created": "1698074988",
+        "updated": 1773778669,
+        "files": [
+          {
+            "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
+            "fullUrl": "/_sites/btopro/files/IMG_20190221_184100.jpg",
+            "url": "files/IMG_20190221_184100.jpg",
+            "type": "image/jpeg",
+            "name": "IMG_20190221_184100.jpg",
+            "size": "132868"
+          }
+        ],
+        "readtime": 3,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "image": "files/IMG_20190221_184100.jpg",
+        "tags": "Stories",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
+      "indent": 1,
+      "location": "pages/item-c97a8e67-971e-4e92-8b38-e348c780d072/index.html",
+      "slug": "life/golden-shimmering-joy",
+      "order": 8,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Golden, shimmering, joy",
+      "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His aut",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778669,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 8,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0",
+      "indent": 1,
+      "location": "pages/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0/index.html",
+      "slug": "life/compartmentalizing",
+      "order": 9,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Compartmentalizing",
+      "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lo",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778669,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 1,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-401610da-127f-602f-5298-265f5eea00ee",
+      "indent": 1,
+      "location": "pages/item-401610da-127f-602f-5298-265f5eea00ee/index.html",
+      "slug": "life/straddling-the-abyss",
+      "order": 10,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Straddling the Abyss",
+      "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward,",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778670,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 4,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-e8c71c40-1351-7293-ae61-2e01b348f71f",
+      "indent": 1,
+      "location": "pages/item-e8c71c40-1351-7293-ae61-2e01b348f71f/index.html",
+      "slug": "life/dood",
+      "order": 11,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Dood",
+      "description": "dudes crying.\ndude&#8217;s crying.\ndude, is, crying.\nThis dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need muc",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778670,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-930234f4-c1d5-1d04-b08a-fddc47aa98dd",
+      "indent": 1,
+      "location": "pages/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd/index.html",
+      "slug": "life/generation-uine",
+      "order": 12,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Generation Uine",
+      "description": "I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read art",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778670,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 3,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e",
+      "indent": 1,
+      "location": "pages/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e/index.html",
+      "slug": "life/end-of-summer",
+      "order": 13,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "End of Summer",
+      "description": "The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thin",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778671,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-897d5115-b6de-2c55-afa7-ba3262f4d9ca",
+      "indent": 1,
+      "location": "pages/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca/index.html",
+      "slug": "life/pure-joy",
+      "order": 14,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Pure Joy",
+      "description": "The family gathered, friends came and we all shared a laugh.\nThen, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. \"I have to start getting ready for bed ca",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778671,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Stories",
+        "readtime": 2,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-c9e2488a-44dd-f0d4-4b3f-651245add81a",
+      "indent": 1,
+      "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
+      "slug": "life/the-perfect-cup-of-coffee",
+      "order": 15,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "The perfect cup of coffee",
+      "description": "(post via @btopro on twitter\n)\ngood people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into ",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778671,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "readtime": 3,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-cf16c3d9-b209-43a5-b92a-27bffda4a265",
+      "indent": 1,
+      "location": "pages/item-cf16c3d9-b209-43a5-b92a-27bffda4a265/index.html",
+      "slug": "life/finding-the-edge",
+      "order": 16,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Finding the edge",
+      "description": "Toe, heel, toe, heel..\nhips open, foot presses toe, rocker back to heel...\nfall. {get up}. let's do it again.\nfall.. ...again\nfall. AGAIN.\nFind the edge... need to find the edge\nfall. Get up.. get. U",
+      "metadata": {
+        "created": 1749843426,
+        "updated": 1773778671,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
+            "url": "files/finding-the-edge.jpg",
+            "type": "image/jpeg",
+            "name": "finding-the-edge.jpg",
+            "size": 70095
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "image": "files/finding-the-edge.jpg",
+        "tags": "coaching, 2025",
+        "locked": false,
+        "readtime": 5,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-1428b18c-dfcc-498a-86c9-74bb2619b40d",
+      "indent": 1,
+      "location": "pages/item-1428b18c-dfcc-498a-86c9-74bb2619b40d/index.html",
+      "slug": "life/welcome-to-the-25-26-season-",
+      "order": 17,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Welcome to the 25-26 season!",
+      "description": "Hello and welcome to the 2025-26 season of SCYIHA programming!\nThe board changed over June 9th and while I've wanted to say hello, getting programming launched and organized the higher prio",
+      "metadata": {
+        "locked": false,
+        "created": 1750706459,
+        "images": {},
+        "videos": {},
+        "updated": 1773778672,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "url": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "type": "image/png",
+            "name": "design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+            "size": 690808
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "image": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
+        "tags": "coaching, 2025",
+        "readtime": 9,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b",
+      "indent": 1,
+      "location": "pages/item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b/index.html",
+      "slug": "life/scrimmage-feedback-8/16",
+      "order": 18,
+      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
+      "title": "Scrimmage feedback 8/16",
+      "description": "Here's a clip from our game this weekend. Watch it a few times, and then see notes below.\n\nin zone coverage\nCoverage in zone to start this clip is solid but could use a few improvements\n\nSam locking ",
+      "metadata": {
+        "locked": false,
+        "created": 1755525165,
+        "images": {},
+        "videos": {},
+        "updated": 1773778672,
+        "published": true,
+        "status": "",
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_1.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_1.png",
+            "url": "files/image_1.png",
+            "type": "image/png",
+            "name": "image_1.png",
+            "size": 379430
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_2.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_2.png",
+            "url": "files/image_2.png",
+            "type": "image/png",
+            "name": "image_2.png",
+            "size": 262909
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_3.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_3.png",
+            "url": "files/image_3.png",
+            "type": "image/png",
+            "name": "image_3.png",
+            "size": 270023
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_4.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_4.png",
+            "url": "files/image_4.png",
+            "type": "image/png",
+            "name": "image_4.png",
+            "size": 598687
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_5.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_5.png",
+            "url": "files/image_5.png",
+            "type": "image/png",
+            "name": "image_5.png",
+            "size": 731323
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_6.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_6.png",
+            "url": "files/image_6.png",
+            "type": "image/png",
+            "name": "image_6.png",
+            "size": 748169
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_7.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_7.png",
+            "url": "files/image_7.png",
+            "type": "image/png",
+            "name": "image_7.png",
+            "size": 886582
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_8.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_8.png",
+            "url": "files/image_8.png",
+            "type": "image/png",
+            "name": "image_8.png",
+            "size": 944929
+          }
+        ],
+        "hideInMenu": false,
+        "tags": "coaching, 2025",
+        "readtime": 5
+      }
+    },
+    {
+      "id": "item-cca95c4e-4d2e-433c-8c86-32d9f1749787",
+      "indent": 1,
+      "location": "pages/item-cca95c4e-4d2e-433c-8c86-32d9f1749787/index.html",
+      "slug": "work/fossy25",
+      "order": 1,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "FOSSY25",
+      "description": "Another year and I'm back in Portland to learn more about community development and management. This year I feel a bit more well equipped for the talks thus far from lessons learned last time. Some w",
+      "metadata": {
+        "locked": false,
+        "created": 1754090817,
+        "images": {},
+        "videos": {},
+        "updated": 1773778674,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
+            "url": "files/HAX-history.png",
+            "type": "image/png",
+            "name": "HAX-history.png",
+            "size": 336847
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend.png",
+            "url": "files/Legend.png",
+            "type": "image/png",
+            "name": "Legend.png",
+            "size": 66723
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
+            "url": "files/Legend_1.png",
+            "type": "image/png",
+            "name": "Legend_1.png",
+            "size": 66723
+          },
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/3.png",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/3.png",
+            "url": "files/3.png",
+            "type": "image/png",
+            "name": "3.png",
+            "size": 83287
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "tags": "Events, 2025",
+        "readtime": 4,
+        "status": ""
+      }
+    },
+    {
+      "id": "item-8a167c92-4b83-49d0-b387-78f8bf37ab44",
+      "indent": 1,
+      "location": "pages/item-8a167c92-4b83-49d0-b387-78f8bf37ab44/index.html",
+      "slug": "hax/benevolent-restrictions",
+      "order": 1,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
+      "title": "Benevolent restrictions",
+      "description": "Hockey is a simple game that is difficult to play. Ice, movement, specialized equipment. But play it without nets and you can't envision how it works. Without lines and it's too easy to defeat. Play ",
+      "metadata": {
+        "locked": false,
+        "created": 1770315346,
+        "images": {},
+        "videos": {},
+        "updated": 1773778691,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 3,
+        "files": [
+          {
+            "path": "/home/bto108a/Documents/git/btopro/blog/files/haxthewebroad.jpg",
+            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/haxthewebroad.jpg",
+            "url": "files/haxthewebroad.jpg",
+            "type": "image/jpeg",
+            "name": "haxthewebroad.jpg",
+            "size": 81119
+          }
+        ],
+        "image": "files/haxthewebroad.jpg",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-802d3c36-cd68-4eb7-b45c-761a779c08d5",
+      "indent": 1,
+      "location": "pages/item-802d3c36-cd68-4eb7-b45c-761a779c08d5/index.html",
+      "slug": "work/open-source-cms-the-4th-turning",
+      "order": 2,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "Open source CMS - The 4th turning",
+      "description": "A parking lot conversation with a dear friend last night lead to these thoughts of what is the 4th turning when it comes to content web?\n1st turning: Static web using standards, but they are emergent",
+      "metadata": {
+        "locked": false,
+        "created": 1723478768,
+        "images": {},
+        "videos": {},
+        "updated": 1773778674,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 3,
+        "status": "",
+        "tags": "Essays, 2024"
+      }
+    },
+    {
+      "id": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "indent": 0,
+      "location": "pages/item-0c02becd-f145-497d-a233-7866dbb6a3ae/index.html",
+      "slug": "work",
+      "order": 2,
+      "parent": null,
+      "title": "Work",
+      "description": "",
+      "metadata": {
+        "locked": false,
+        "created": 1748895291,
+        "images": [],
+        "videos": [],
+        "updated": 1773778672,
+        "published": true,
+        "status": ""
       }
     },
     {
@@ -511,6 +1339,127 @@
       }
     },
     {
+      "id": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0",
+      "indent": 1,
+      "location": "pages/item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0/index.html",
+      "slug": "work/the-climb",
+      "order": 4,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "The Climb",
+      "description": "It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase]\n  if we're going to get to 2020 and what's to come in that year... ther",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778675,
+        "readtime": 7,
+        "contentDetails": {
+          "headings": "1",
+          "paragraphs": "19",
+          "schema": [],
+          "tags": {
+            "p": "19",
+            "lrndesign-blockquote": "1",
+            "ol": "1",
+            "video-player": "1",
+            "h2": "1",
+            "ul": "1",
+            "grid-plate": "1"
+          },
+          "elements": "25"
+        },
+        "files": [
+          {
+            "path": "/var/www/html/sites/btopro/files/edtechjoker.gif",
+            "fullUrl": "/sites/btopro/files/edtechjoker.gif",
+            "url": "files/edtechjoker.gif",
+            "type": "image/gif",
+            "name": "edtechjoker.gif",
+            "size": "838403"
+          },
+          {
+            "path": "/var/www/html/sites/btopro/files/edtechjoker.jpg",
+            "fullUrl": "/sites/btopro/files/edtechjoker.jpg",
+            "url": "files/edtechjoker.jpg",
+            "type": "image/jpeg",
+            "name": "edtechjoker.jpg",
+            "size": "68012"
+          },
+          {
+            "fullUrl": "/sites/btopro/files/PXL_20220729_131000960.jpg",
+            "url": "files/PXL_20220729_131000960.jpg",
+            "type": "image/jpeg",
+            "name": "PXL_20220729_131000960.jpg",
+            "size": "138328"
+          }
+        ],
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb, 2019",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-8e045593-79fd-401d-b380-1029001f5574",
+      "indent": 1,
+      "location": "pages/item-8e045593-79fd-401d-b380-1029001f5574/index.html",
+      "slug": "work/arrival",
+      "order": 5,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "Arrival",
+      "description": "Some decades, nothing happens. Other days, decades happen.That sentiment about sums up what the last few weeks have been like. As if everyone began to realize what we built, all at once, after years",
+      "metadata": {
+        "created": "1698076822",
+        "updated": 1773778675,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4,
+        "relatedItems": "item-4a18ebe0-cf6a-49cd-9531-4c430ba2a9e0,item-1235ea3a-9254-4b93-8df3-8909fddcce88,item-e0c25c63-ad3e-421e-8fd2-86cd5516d3a2",
+        "image": "https://images-assets.nasa.gov/image/2011-3753/2011-3753~thumb.jpg",
+        "tags": "The Climb, 2024",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-1235ea3a-9254-4b93-8df3-8909fddcce88",
+      "indent": 1,
+      "location": "pages/item-1235ea3a-9254-4b93-8df3-8909fddcce88/index.html",
+      "slug": "work/information-altruism-2-0",
+      "order": 6,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "Information Altruism 2.0",
+      "description": "In 2006 I started Graduate school at Penn State. I didn't know why I was there other then to get an advanced degree and be exposed to different ideas. In that exposure though, I found my purpose. My ",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778675,
+        "readtime": 7,
+        "contentDetails": {
+          "headings": "6",
+          "paragraphs": "18",
+          "schema": [],
+          "tags": {
+            "p": "18",
+            "h2": "3",
+            "ul": "1",
+            "ol": "2",
+            "h3": "3"
+          },
+          "elements": "27"
+        },
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
       "id": "item-25c16bd5-a817-4df1-b147-88e448309a4b",
       "indent": 1,
       "location": "pages/item-25c16bd5-a817-4df1-b147-88e448309a4b/index.html",
@@ -606,123 +1555,6 @@
       }
     },
     {
-      "id": "item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7",
-      "indent": 1,
-      "location": "pages/item-92cf5d68-96a8-44c4-b31a-9aae74c08ab7/index.html",
-      "slug": "life/catching-gman",
-      "order": 3,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Catching Gman",
-      "description": "Cut to ribbons tonight by a memory maintained and a thank you I didn't expect.\nLet me explain how my second child, the one I've had more trouble relating to if I am perfectly honest, amazes me more b",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778667,
-        "files": [
-          {
-            "path": "/var/www/html/sites/btopro/files/headshot422070.074999996.jpg",
-            "fullUrl": "/sites/btopro/files/headshot422070.074999996.jpg",
-            "url": "files/headshot422070.074999996.jpg",
-            "type": "image/jpeg",
-            "name": "headshot422070.074999996.jpg",
-            "size": "199646"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files/headshot451242.7200000384.jpg",
-            "fullUrl": "/sites/btopro/files/headshot451242.7200000384.jpg",
-            "url": "files/headshot451242.7200000384.jpg",
-            "type": "image/jpeg",
-            "name": "headshot451242.7200000384.jpg",
-            "size": "223650"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files/headshot522511.73000002746.jpg",
-            "fullUrl": "/sites/btopro/files/headshot522511.73000002746.jpg",
-            "url": "files/headshot522511.73000002746.jpg",
-            "type": "image/jpeg",
-            "name": "headshot522511.73000002746.jpg",
-            "size": "210524"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files/headshot529121.6300000087.jpg",
-            "fullUrl": "/sites/btopro/files/headshot529121.6300000087.jpg",
-            "url": "files/headshot529121.6300000087.jpg",
-            "type": "image/jpeg",
-            "name": "headshot529121.6300000087.jpg",
-            "size": "216612"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files/headshot533131.1700000078.jpg",
-            "fullUrl": "/sites/btopro/files/headshot533131.1700000078.jpg",
-            "url": "files/headshot533131.1700000078.jpg",
-            "type": "image/jpeg",
-            "name": "headshot533131.1700000078.jpg",
-            "size": "227296"
-          },
-          {
-            "fullUrl": "/sites/btopro/files/1500x5001.jpeg",
-            "url": "files/1500x5001.jpeg",
-            "type": "image/jpeg",
-            "name": "1500x5001.jpeg",
-            "size": "118690"
-          }
-        ],
-        "readtime": 6,
-        "contentDetails": {
-          "headings": "0",
-          "paragraphs": "24",
-          "schema": [
-            {
-              "resource": "#48fe53f8-f89e-bf0b-407b",
-              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
-            }
-          ],
-          "tags": {
-            "p": "24",
-            "lrndesign-blockquote": "1"
-          },
-          "elements": "25"
-        },
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-2d2887cc-08c8-4f22-8554-abcce1823282",
-      "indent": 1,
-      "location": "pages/item-2d2887cc-08c8-4f22-8554-abcce1823282/index.html",
-      "slug": "life/the-infinite-void",
-      "order": 4,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "The infinite void",
-      "description": "Staring off, into nothing. Spacing out, focusing on the sound and the feeling of the sun beating down on my arms. I don't know what it is.. but when I see others relax at the beach I can't help but f",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778668,
-        "readtime": 3,
-        "contentDetails": {
-          "headings": "0",
-          "paragraphs": "12",
-          "schema": [],
-          "tags": {
-            "p": "12"
-          },
-          "elements": "12"
-        },
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711",
       "indent": 1,
       "location": "pages/item-5d49d1f3-0918-4bc9-90ef-855c8dcdc711/index.html",
@@ -750,114 +1582,6 @@
         "status": "",
         "hideInMenu": false,
         "tags": "EdTechJoker",
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a",
-      "indent": 1,
-      "location": "pages/item-be5cdfec-cdfd-4db8-8ace-8b13f3da004a/index.html",
-      "slug": "life/annabella",
-      "order": 5,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Annabella",
-      "description": "The wheels squeaked on the cart, boosting my kid sister I placed her in the front part kids sit in. Five years old, happy to have someone who could lift her high. I was fifteen when we went to a rand",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778668,
-        "readtime": 8,
-        "contentDetails": {
-          "headings": "0",
-          "paragraphs": "37",
-          "schema": [
-            {
-              "resource": "#2b95c77e-01c9-6a24-2a2f",
-              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
-            },
-            {
-              "resource": "#f4f74a88-45e4-607f-a073",
-              "prefix": "oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org "
-            }
-          ],
-          "tags": {
-            "p": "37",
-            "lrndesign-blockquote": "1",
-            "video-player": "1",
-            "blockquote": "1"
-          },
-          "elements": "40"
-        },
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-006601d9-4063-4bd9-ba32-3e959b631d31",
-      "indent": 1,
-      "location": "pages/item-006601d9-4063-4bd9-ba32-3e959b631d31/index.html",
-      "slug": "life/hey-remember-when",
-      "order": 6,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Hey, remember when",
-      "description": "A couch. It had to be the couch. The bastard scurries away, unheeding in the warnings of the past weeks. Undeterred in his quest for one thing. One, insatiable goal.\nTo build a nest, in my \"Effing\" c",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778668,
-        "readtime": 4,
-        "contentDetails": {
-          "headings": "0",
-          "paragraphs": "21",
-          "schema": [],
-          "tags": {
-            "p": "21",
-            "meme-maker": "1",
-            "ol": "1",
-            "full-width-image": "3"
-          },
-          "elements": "26"
-        },
-        "files": [
-          {
-            "path": "/var/www/html/sites/btopro/files//IMG_20190713_185619.jpg",
-            "fullUrl": "/sites/btopro/files/IMG_20190713_185619.jpg",
-            "url": "files/IMG_20190713_185619.jpg",
-            "type": "image/jpeg",
-            "name": "IMG_20190713_185619.jpg",
-            "size": "833595"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files//IMG_20190713_115919.jpg",
-            "fullUrl": "/sites/btopro/files/IMG_20190713_115919.jpg",
-            "url": "files/IMG_20190713_115919.jpg",
-            "type": "image/jpeg",
-            "name": "IMG_20190713_115919.jpg",
-            "size": "1228849"
-          },
-          {
-            "path": "/var/www/html/sites/btopro/files//IMG_20190713_122826.jpg",
-            "fullUrl": "/sites/btopro/files/IMG_20190713_122826.jpg",
-            "url": "files/IMG_20190713_122826.jpg",
-            "type": "image/jpeg",
-            "name": "IMG_20190713_122826.jpg",
-            "size": "536118"
-          }
-        ],
-        "fields": {
-          "images": [],
-          "subtitle": "",
-          "tags": []
-        },
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
         "videos": {},
         "images": {}
       }
@@ -1198,40 +1922,6 @@
       }
     },
     {
-      "id": "item-15cbf071-ff46-4ec6-90dd-35c57537af97",
-      "indent": 1,
-      "location": "pages/item-15cbf071-ff46-4ec6-90dd-35c57537af97/index.html",
-      "slug": "life/fortify",
-      "order": 7,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Fortify",
-      "description": "\"FORT. NIGHT.\"\nThey yell. Not in the way that teenagers rushing home from school to dominate their\n  friends yell but in the way of innocence. The yell of the joy of dad suggesting that\n  we build a ",
-      "metadata": {
-        "siteName": "btopro",
-        "created": "1698074988",
-        "updated": 1773778669,
-        "files": [
-          {
-            "path": "/var/www/html/_sites/btopro/files/IMG_20190221_184100.jpg",
-            "fullUrl": "/_sites/btopro/files/IMG_20190221_184100.jpg",
-            "url": "files/IMG_20190221_184100.jpg",
-            "type": "image/jpeg",
-            "name": "IMG_20190221_184100.jpg",
-            "size": "132868"
-          }
-        ],
-        "readtime": 3,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "image": "files/IMG_20190221_184100.jpg",
-        "tags": "Stories",
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-8f85b86c-0619-4fb5-8c19-39b49c11e96b",
       "indent": 1,
       "location": "pages/item-8f85b86c-0619-4fb5-8c19-39b49c11e96b/index.html",
@@ -1415,28 +2105,6 @@
       }
     },
     {
-      "id": "item-c97a8e67-971e-4e92-8b38-e348c780d072",
-      "indent": 1,
-      "location": "pages/item-c97a8e67-971e-4e92-8b38-e348c780d072/index.html",
-      "slug": "life/golden-shimmering-joy",
-      "order": 8,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Golden, shimmering, joy",
-      "description": "I had one of the best days of my life. when they happen, you have to write them down. I saw my son take the first step toward becoming a person of character and strength without being pushed. His aut",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778669,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 8,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-5e860e67-2444-0304-6180-9cb7dee92321",
       "indent": 1,
       "location": "pages/item-5e860e67-2444-0304-6180-9cb7dee92321/index.html",
@@ -1502,28 +2170,6 @@
         "hideInMenu": false,
         "tags": "Essays",
         "readtime": 4,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0",
-      "indent": 1,
-      "location": "pages/item-c01a9db3-d74c-d8f9-c813-3c1bd61695a0/index.html",
-      "slug": "life/compartmentalizing",
-      "order": 9,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Compartmentalizing",
-      "description": "bitter sweet. 15 minutes spent creating things out of previous lego sets with my son made the entire day. I couldn't sleep tonight, so instead of a beer I had a ginger ale and thought about what I lo",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778669,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 1,
         "videos": {},
         "images": {}
       }
@@ -1617,28 +2263,6 @@
       }
     },
     {
-      "id": "item-401610da-127f-602f-5298-265f5eea00ee",
-      "indent": 1,
-      "location": "pages/item-401610da-127f-602f-5298-265f5eea00ee/index.html",
-      "slug": "life/straddling-the-abyss",
-      "order": 10,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Straddling the Abyss",
-      "description": "The tight rope walker\nHe looks to his left..\ncertain death.He tilts to the right, also, certain death. It would appear that the only path forward, was the only way to go. No ability to step backward,",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778670,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 4,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-f82147b6-1844-d3c0-9515-01130ce85c79",
       "indent": 1,
       "location": "pages/item-f82147b6-1844-d3c0-9515-01130ce85c79/index.html",
@@ -1678,27 +2302,6 @@
         "hideInMenu": false,
         "tags": "Events",
         "readtime": 2,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-c9e2488a-44dd-f0d4-4b3f-651245add81a",
-      "indent": 1,
-      "location": "pages/item-c9e2488a-44dd-f0d4-4b3f-651245add81a/index.html",
-      "slug": "life/the-perfect-cup-of-coffee",
-      "order": 15,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "The perfect cup of coffee",
-      "description": "(post via @btopro on twitter\n)\ngood people of the internet who drink coffee. I am about to embark on a delicious journey. A journey of mind altering chemicals pour perfectly at home. A journey, into ",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778671,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 3,
         "videos": {},
         "images": {}
       }
@@ -1770,28 +2373,6 @@
       }
     },
     {
-      "id": "item-897d5115-b6de-2c55-afa7-ba3262f4d9ca",
-      "indent": 1,
-      "location": "pages/item-897d5115-b6de-2c55-afa7-ba3262f4d9ca/index.html",
-      "slug": "life/pure-joy",
-      "order": 14,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Pure Joy",
-      "description": "The family gathered, friends came and we all shared a laugh.\nThen, he pulled me aside. My oldest was concerned as to why he wasn't getting ready for bed yet. \"I have to start getting ready for bed ca",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778671,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 2,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2",
       "indent": 1,
       "location": "pages/item-70c61ad7-f543-9af8-dd1b-1b65f0f453b2/index.html",
@@ -1808,50 +2389,6 @@
         "status": "",
         "hideInMenu": false,
         "tags": "Essays",
-        "readtime": 3,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-1222b362-d24d-0aa7-20e7-724767f57656",
-      "indent": 1,
-      "location": "pages/item-1222b362-d24d-0aa7-20e7-724767f57656/index.html",
-      "slug": "work/using-webcomponents-to-unearth-the-ngdle",
-      "order": 49,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Using Webcomponents to unearth the NGDLE",
-      "description": "I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look ",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778689,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Essays",
-        "readtime": 6,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-be6f30a2-8a4d-e986-6af3-930f91e00464",
-      "indent": 1,
-      "location": "pages/item-be6f30a2-8a4d-e986-6af3-930f91e00464/index.html",
-      "slug": "work/this-is-not-reality",
-      "order": 50,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "This is not reality",
-      "description": "\n\n\n\n\nChapter 1: The Shower\nA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778689,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "The Climb",
         "readtime": 3,
         "videos": {},
         "images": {}
@@ -1880,49 +2417,6 @@
       }
     },
     {
-      "id": "item-e8c71c40-1351-7293-ae61-2e01b348f71f",
-      "indent": 1,
-      "location": "pages/item-e8c71c40-1351-7293-ae61-2e01b348f71f/index.html",
-      "slug": "life/dood",
-      "order": 11,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Dood",
-      "description": "dudes crying.\ndude&#8217;s crying.\ndude, is, crying.\nThis dude, has been crying uncontrollably for the last hour about how wonderful my son is. I'll recall for you what happened and it won't need muc",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778670,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 3,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-930234f4-c1d5-1d04-b08a-fddc47aa98dd",
-      "indent": 1,
-      "location": "pages/item-930234f4-c1d5-1d04-b08a-fddc47aa98dd/index.html",
-      "slug": "life/generation-uine",
-      "order": 12,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Generation Uine",
-      "description": "I'd like to put a positive spin on Millennials / Gen Y. As someone who doesn't really feel like he's a Millennial (until reading that most quantify this between 1980 and 2000), I often would read art",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778670,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "readtime": 3,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
       "id": "item-8099a4ba-8fbc-a60f-7451-ac12d8d17409",
       "indent": 1,
       "location": "pages/item-8099a4ba-8fbc-a60f-7451-ac12d8d17409/index.html",
@@ -1940,28 +2434,6 @@
         "hideInMenu": false,
         "tags": "The Climb",
         "readtime": 4,
-        "videos": {},
-        "images": {}
-      }
-    },
-    {
-      "id": "item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e",
-      "indent": 1,
-      "location": "pages/item-1b6dd8f4-a01e-45d6-dafe-944b4c60320e/index.html",
-      "slug": "life/end-of-summer",
-      "order": 13,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "End of Summer",
-      "description": "The sleepless nights, the early mornings, the last minute requests. It's the magical time of the year known as the end of summer. The time just after all the last minute work is put in to ensure thin",
-      "metadata": {
-        "created": "1698074988",
-        "updated": 1773778671,
-        "published": true,
-        "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Stories",
-        "readtime": 2,
         "videos": {},
         "images": {}
       }
@@ -2011,25 +2483,35 @@
       }
     },
     {
-      "id": "item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d",
+      "id": "item-5d8c0376-f796-41db-92f5-75eccf36d24b",
       "indent": 1,
-      "location": "pages/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d/index.html",
-      "slug": "work/ddosa",
-      "order": 51,
+      "location": "pages/item-5d8c0376-f796-41db-92f5-75eccf36d24b/index.html",
+      "slug": "work/go-time",
+      "order": 40,
       "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "DDoSA",
-      "description": "We live in the age of Citizen agents&#8207;. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have ",
+      "title": "Go time",
+      "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
       "metadata": {
-        "created": "1698074988",
-        "updated": 1773778689,
-        "published": true,
         "locked": false,
-        "status": "",
-        "hideInMenu": false,
-        "tags": "Essays",
-        "readtime": 5,
+        "created": 1721325576,
+        "images": {},
         "videos": {},
-        "images": {}
+        "updated": 1773778686,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 4,
+        "files": [
+          {
+            "path": "[object Object]41tqb7.jpg",
+            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/blog/files/41tqb7.jpg",
+            "url": "files/41tqb7.jpg",
+            "type": "image/jpeg",
+            "name": "41tqb7.jpg",
+            "size": 61625
+          }
+        ],
+        "tags": "The Climb, 2024",
+        "status": ""
       }
     },
     {
@@ -2261,6 +2743,72 @@
       }
     },
     {
+      "id": "item-1222b362-d24d-0aa7-20e7-724767f57656",
+      "indent": 1,
+      "location": "pages/item-1222b362-d24d-0aa7-20e7-724767f57656/index.html",
+      "slug": "work/using-webcomponents-to-unearth-the-ngdle",
+      "order": 49,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "Using Webcomponents to unearth the NGDLE",
+      "description": "I find innovation best comes from the cross-sections. The weave between spaces tends to breed the best ideas of the two fabrics to create something new. It is this mentality that's caused me to look ",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778689,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 6,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-be6f30a2-8a4d-e986-6af3-930f91e00464",
+      "indent": 1,
+      "location": "pages/item-be6f30a2-8a4d-e986-6af3-930f91e00464/index.html",
+      "slug": "work/this-is-not-reality",
+      "order": 50,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "This is not reality",
+      "description": "\n\n\n\n\nChapter 1: The Shower\nA Developer takes a shower. A Developer closes his eyes, breathes deeply, and presses the water over his scalp and eyes and face. When hands press against the eye socket in",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778689,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "The Climb",
+        "readtime": 3,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
+      "id": "item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d",
+      "indent": 1,
+      "location": "pages/item-818bd74d-1af8-6db0-3fb0-c1fe996c4f9d/index.html",
+      "slug": "work/ddosa",
+      "order": 51,
+      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
+      "title": "DDoSA",
+      "description": "We live in the age of Citizen agents&#8207;. Everyone can become their own nation state because of the authority that technology affords us. If broadcasting and viewership is validation, we all have ",
+      "metadata": {
+        "created": "1698074988",
+        "updated": 1773778689,
+        "published": true,
+        "locked": false,
+        "status": "",
+        "hideInMenu": false,
+        "tags": "Essays",
+        "readtime": 5,
+        "videos": {},
+        "images": {}
+      }
+    },
+    {
       "id": "item-c6866e7a-1981-8c76-293a-0b96181e4945",
       "indent": 1,
       "location": "pages/item-c6866e7a-1981-8c76-293a-0b96181e4945/index.html",
@@ -2294,484 +2842,19 @@
       }
     },
     {
-      "id": "item-5d8c0376-f796-41db-92f5-75eccf36d24b",
-      "indent": 1,
-      "location": "pages/item-5d8c0376-f796-41db-92f5-75eccf36d24b/index.html",
-      "slug": "work/go-time",
-      "order": 40,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Go time",
-      "description": "The year is 2024, but do you know what season of life it is?\nI ask myself this a lot recently. What season is it? Seasons of life are different than seasons of the year but represent themes in the sa",
-      "metadata": {
-        "locked": false,
-        "created": 1721325576,
-        "images": {},
-        "videos": {},
-        "updated": 1773778686,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 4,
-        "files": [
-          {
-            "path": "[object Object]41tqb7.jpg",
-            "fullUrl": "//media/bto108a/AtticStorage/git/btopro/blog/files/41tqb7.jpg",
-            "url": "files/41tqb7.jpg",
-            "type": "image/jpeg",
-            "name": "41tqb7.jpg",
-            "size": 61625
-          }
-        ],
-        "tags": "The Climb, 2024",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-e21ae903-c528-475f-926d-fe5b9d97c990",
-      "indent": 2,
-      "location": "pages/item-e21ae903-c528-475f-926d-fe5b9d97c990/index.html",
-      "slug": "work/fossy24/fossy-day-1",
-      "order": 0,
-      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "title": "FOSSY Day 1",
-      "description": "\n",
-      "metadata": {
-        "locked": false,
-        "created": 1722535480,
-        "images": {},
-        "videos": {},
-        "updated": 1773778673,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-43058044-fc46-4222-b5a5-5033f5166afa",
-      "indent": 2,
-      "location": "pages/item-43058044-fc46-4222-b5a5-5033f5166afa/index.html",
-      "slug": "work/fossy24/fossy-day-2",
-      "order": 1,
-      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "title": "FOSSY Day 2",
-      "description": "Day two I hung out in the Education Track most of the day. This is a series of phrases and important topics I learned about to bring back:\nRenewable assignment - David Willey concept; it's having stu",
-      "metadata": {
-        "locked": false,
-        "created": 1722646530,
-        "images": {},
-        "videos": {},
-        "updated": 1773778673,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 2,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-c7c43c72-1a21-4e60-8d56-a12aac372936",
-      "indent": 2,
-      "location": "pages/item-c7c43c72-1a21-4e60-8d56-a12aac372936/index.html",
-      "slug": "work/fossy24/fossy-day-3",
-      "order": 2,
-      "parent": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "title": "FOSSY Day 3",
-      "description": "Starting out the day with UN SDGs. I wonder how HAX could fit into these. It might be a good idea to make a page or start a blog specific to HAX and how it meets these goals (among other things).\nExc",
-      "metadata": {
-        "created": 1722699241,
-        "updated": 1773778674,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-49900a85-b309-48d5-a962-e291ca69b352",
-      "indent": 1,
-      "location": "pages/item-49900a85-b309-48d5-a962-e291ca69b352/index.html",
-      "slug": "work/fossy24",
-      "order": 0,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Fossy24",
-      "description": "My thoughts on FOSSY 24 as they happened. I grouped them under here because they were per day and I think important to capture in that way.\n",
-      "metadata": {
-        "locked": false,
-        "created": 1723213915,
-        "images": {},
-        "videos": {},
-        "updated": 1773778673,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": "",
-        "tags": "Events, 2024"
-      }
-    },
-    {
-      "id": "item-802d3c36-cd68-4eb7-b45c-761a779c08d5",
-      "indent": 1,
-      "location": "pages/item-802d3c36-cd68-4eb7-b45c-761a779c08d5/index.html",
-      "slug": "work/open-source-cms-the-4th-turning",
-      "order": 2,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "Open source CMS - The 4th turning",
-      "description": "A parking lot conversation with a dear friend last night lead to these thoughts of what is the 4th turning when it comes to content web?\n1st turning: Static web using standards, but they are emergent",
-      "metadata": {
-        "locked": false,
-        "created": 1723478768,
-        "images": {},
-        "videos": {},
-        "updated": 1773778674,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 3,
-        "status": "",
-        "tags": "Essays, 2024"
-      }
-    },
-    {
-      "id": "item-87440d77-c8be-4443-86f6-ad665a43538f",
+      "id": "item-db9cc0da-f894-413c-ba2c-1f55187fac78",
       "indent": 0,
-      "location": "pages/item-87440d77-c8be-4443-86f6-ad665a43538f/index.html",
-      "slug": "about",
-      "order": 0,
+      "location": "pages/item-db9cc0da-f894-413c-ba2c-1f55187fac78/index.html",
+      "slug": "new-page",
+      "order": 2,
       "parent": null,
-      "title": "About",
-      "description": "damn near impossible\n",
-      "metadata": {
-        "locked": false,
-        "created": 1748895291,
-        "images": [],
-        "videos": [],
-        "updated": 1786638234,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot565332.5.jpg",
-            "url": "files/headshot565332.5.jpg",
-            "type": "image/jpeg",
-            "name": "headshot565332.5.jpg",
-            "size": 140815
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot571373.9000000004.jpg",
-            "url": "files/headshot571373.9000000004.jpg",
-            "type": "image/jpeg",
-            "name": "headshot571373.9000000004.jpg",
-            "size": 161281
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot574816.3000000007.jpg",
-            "url": "files/headshot574816.3000000007.jpg",
-            "type": "image/jpeg",
-            "name": "headshot574816.3000000007.jpg",
-            "size": 182859
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot579566.8000000007.jpg",
-            "url": "files/headshot579566.8000000007.jpg",
-            "type": "image/jpeg",
-            "name": "headshot579566.8000000007.jpg",
-            "size": 172062
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot581415.6000000006.jpg",
-            "url": "files/headshot581415.6000000006.jpg",
-            "type": "image/jpeg",
-            "name": "headshot581415.6000000006.jpg",
-            "size": 166139
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/headshot603198.jpg",
-            "url": "files/headshot603198.jpg",
-            "type": "image/jpeg",
-            "name": "headshot603198.jpg",
-            "size": 155001
-          }
-        ],
-        "status": "",
-        "overridePathauto": false,
-        "linkTarget": "_self"
-      }
-    },
-    {
-      "id": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "indent": 0,
-      "location": "pages/item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18/index.html",
-      "slug": "life",
-      "order": 1,
-      "parent": null,
-      "title": "Life",
+      "title": "New Page",
       "description": "",
       "metadata": {
-        "locked": false,
-        "created": 1748895291,
+        "created": 1788975014,
+        "updated": 1788975014,
         "images": [],
-        "videos": [],
-        "updated": 1773778666,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-cf16c3d9-b209-43a5-b92a-27bffda4a265",
-      "indent": 1,
-      "location": "pages/item-cf16c3d9-b209-43a5-b92a-27bffda4a265/index.html",
-      "slug": "life/finding-the-edge",
-      "order": 16,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Finding the edge",
-      "description": "Toe, heel, toe, heel..\nhips open, foot presses toe, rocker back to heel...\nfall. {get up}. let's do it again.\nfall.. ...again\nfall. AGAIN.\nFind the edge... need to find the edge\nfall. Get up.. get. U",
-      "metadata": {
-        "created": 1749843426,
-        "updated": 1773778671,
-        "images": {},
-        "videos": {},
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/finding-the-edge.jpg",
-            "url": "files/finding-the-edge.jpg",
-            "type": "image/jpeg",
-            "name": "finding-the-edge.jpg",
-            "size": 70095
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "image": "files/finding-the-edge.jpg",
-        "tags": "coaching, 2025",
-        "locked": false,
-        "readtime": 5,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-1428b18c-dfcc-498a-86c9-74bb2619b40d",
-      "indent": 1,
-      "location": "pages/item-1428b18c-dfcc-498a-86c9-74bb2619b40d/index.html",
-      "slug": "life/welcome-to-the-25-26-season-",
-      "order": 17,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Welcome to the 25-26 season!",
-      "description": "Hello and welcome to the 2025-26 season of SCYIHA programming!\nThe board changed over June 9th and while I've wanted to say hello, getting programming launched and organized the higher prio",
-      "metadata": {
-        "locked": false,
-        "created": 1750706459,
-        "images": {},
-        "videos": {},
-        "updated": 1773778672,
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
-            "url": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
-            "type": "image/png",
-            "name": "design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
-            "size": 690808
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "image": "files/design-e817e96b-3b0c-41aa-b804-a6d0b33efe83.png",
-        "tags": "coaching, 2025",
-        "readtime": 9,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b",
-      "indent": 1,
-      "location": "pages/item-19fa5a3a-eb9e-42df-97ba-a5de49726c9b/index.html",
-      "slug": "life/scrimmage-feedback-8/16",
-      "order": 18,
-      "parent": "item-84f3ef38-edc8-4d5d-be9b-eba6611eeb18",
-      "title": "Scrimmage feedback 8/16",
-      "description": "Here's a clip from our game this weekend. Watch it a few times, and then see notes below.\n\nin zone coverage\nCoverage in zone to start this clip is solid but could use a few improvements\n\nSam locking ",
-      "metadata": {
-        "locked": false,
-        "created": 1755525165,
-        "images": {},
-        "videos": {},
-        "updated": 1773778672,
-        "published": true,
-        "status": "",
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_1.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_1.png",
-            "url": "files/image_1.png",
-            "type": "image/png",
-            "name": "image_1.png",
-            "size": 379430
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_2.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_2.png",
-            "url": "files/image_2.png",
-            "type": "image/png",
-            "name": "image_2.png",
-            "size": 262909
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_3.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_3.png",
-            "url": "files/image_3.png",
-            "type": "image/png",
-            "name": "image_3.png",
-            "size": 270023
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_4.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_4.png",
-            "url": "files/image_4.png",
-            "type": "image/png",
-            "name": "image_4.png",
-            "size": 598687
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_5.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_5.png",
-            "url": "files/image_5.png",
-            "type": "image/png",
-            "name": "image_5.png",
-            "size": 731323
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_6.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_6.png",
-            "url": "files/image_6.png",
-            "type": "image/png",
-            "name": "image_6.png",
-            "size": 748169
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_7.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_7.png",
-            "url": "files/image_7.png",
-            "type": "image/png",
-            "name": "image_7.png",
-            "size": 886582
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/image_8.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/image_8.png",
-            "url": "files/image_8.png",
-            "type": "image/png",
-            "name": "image_8.png",
-            "size": 944929
-          }
-        ],
-        "hideInMenu": false,
-        "tags": "coaching, 2025",
-        "readtime": 5
-      }
-    },
-    {
-      "id": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "indent": 0,
-      "location": "pages/item-0c02becd-f145-497d-a233-7866dbb6a3ae/index.html",
-      "slug": "work",
-      "order": 2,
-      "parent": null,
-      "title": "Work",
-      "description": "",
-      "metadata": {
-        "locked": false,
-        "created": 1748895291,
-        "images": [],
-        "videos": [],
-        "updated": 1773778672,
-        "published": true,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-cca95c4e-4d2e-433c-8c86-32d9f1749787",
-      "indent": 1,
-      "location": "pages/item-cca95c4e-4d2e-433c-8c86-32d9f1749787/index.html",
-      "slug": "work/fossy25",
-      "order": 1,
-      "parent": "item-0c02becd-f145-497d-a233-7866dbb6a3ae",
-      "title": "FOSSY25",
-      "description": "Another year and I'm back in Portland to learn more about community development and management. This year I feel a bit more well equipped for the talks thus far from lessons learned last time. Some w",
-      "metadata": {
-        "locked": false,
-        "created": 1754090817,
-        "images": {},
-        "videos": {},
-        "updated": 1773778674,
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/HAX-history.png",
-            "url": "files/HAX-history.png",
-            "type": "image/png",
-            "name": "HAX-history.png",
-            "size": 336847
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend.png",
-            "url": "files/Legend.png",
-            "type": "image/png",
-            "name": "Legend.png",
-            "size": 66723
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/Legend_1.png",
-            "url": "files/Legend_1.png",
-            "type": "image/png",
-            "name": "Legend_1.png",
-            "size": 66723
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/3.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/3.png",
-            "url": "files/3.png",
-            "type": "image/png",
-            "name": "3.png",
-            "size": 83287
-          }
-        ],
-        "published": true,
-        "hideInMenu": false,
-        "tags": "Events, 2025",
-        "readtime": 4,
-        "status": ""
-      }
-    },
-    {
-      "id": "item-9a185c5f-542b-4b53-a531-74dc882752a7",
-      "indent": 0,
-      "location": "pages/item-9a185c5f-542b-4b53-a531-74dc882752a7/index.html",
-      "slug": "contact",
-      "order": 4,
-      "parent": null,
-      "title": "Contact",
-      "description": "hax @ psu [dot] edu\n@btopro - discord\n@btopro - x\n@btopro - linkedIn\n@btopro - mastodon\n",
-      "metadata": {
-        "locked": false,
-        "created": 1748895293,
-        "images": {},
-        "videos": {},
-        "updated": 1773778691,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 1,
-        "status": ""
+        "videos": []
       }
     },
     {
@@ -2794,114 +2877,6 @@
         "tags": "hax",
         "readtime": 1,
         "status": ""
-      }
-    },
-    {
-      "id": "item-8a167c92-4b83-49d0-b387-78f8bf37ab44",
-      "indent": 1,
-      "location": "pages/item-8a167c92-4b83-49d0-b387-78f8bf37ab44/index.html",
-      "slug": "hax/benevolent-restrictions",
-      "order": 1,
-      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
-      "title": "Benevolent restrictions",
-      "description": "Hockey is a simple game that is difficult to play. Ice, movement, specialized equipment. But play it without nets and you can't envision how it works. Without lines and it's too easy to defeat. Play ",
-      "metadata": {
-        "locked": false,
-        "created": 1770315346,
-        "images": {},
-        "videos": {},
-        "updated": 1773778691,
-        "published": true,
-        "hideInMenu": false,
-        "readtime": 3,
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/haxthewebroad.jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/haxthewebroad.jpg",
-            "url": "files/haxthewebroad.jpg",
-            "type": "image/jpeg",
-            "name": "haxthewebroad.jpg",
-            "size": 81119
-          }
-        ],
-        "image": "files/haxthewebroad.jpg",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-d21d217e-bead-408f-bd0d-4459cb918914",
-      "indent": 0,
-      "location": "pages/item-d21d217e-bead-408f-bd0d-4459cb918914/index.html",
-      "slug": "hax/sustainable-impact-and-innovation-pipeline",
-      "order": 0,
-      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
-      "title": "Sustainable Impact and Innovation Pipeline",
-      "description": "Do more with less. It's been the ask of higher education for the last 15 years (at least), and in the age of AI, many think we may actually be able to do more with less, though studies are starting t",
-      "metadata": {
-        "locked": false,
-        "created": 1773778634,
-        "images": {},
-        "videos": {},
-        "updated": 1773780397,
-        "published": true,
-        "status": "",
-        "files": [
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/2026-student-pipeline-(1).jpg",
-            "url": "files/2026-student-pipeline-(1).jpg",
-            "type": "image/jpeg",
-            "name": "2026-student-pipeline-(1).jpg",
-            "size": 136078
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.BNXqNU.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.BNXqNU.png",
-            "url": "files/CopyQ.BNXqNU.png",
-            "type": "image/png",
-            "name": "CopyQ.BNXqNU.png",
-            "size": 165153
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.RvAxrm.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.RvAxrm.png",
-            "url": "files/CopyQ.RvAxrm.png",
-            "type": "image/png",
-            "name": "CopyQ.RvAxrm.png",
-            "size": 97242
-          },
-          {
-            "path": "/home/bto108a/Documents/git/btopro/blog/files/CopyQ.HAuVQu.png",
-            "fullUrl": "//home/bto108a/Documents/git/btopro/blog/files/CopyQ.HAuVQu.png",
-            "url": "files/CopyQ.HAuVQu.png",
-            "type": "image/png",
-            "name": "CopyQ.HAuVQu.png",
-            "size": 80061
-          }
-        ],
-        "hideInMenu": false,
-        "image": "files/CopyQ.HAuVQu.png",
-        "readtime": 3
-      }
-    },
-    {
-      "id": "item-51064b9d-e04d-4156-8980-3a03da6abd16",
-      "indent": 0,
-      "location": "pages/item-51064b9d-e04d-4156-8980-3a03da6abd16/index.html",
-      "slug": "hax/building-a-city",
-      "order": 5,
-      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
-      "title": "Building a City",
-      "description": "This is a story of the past, leading into the future. When nothing exists, most can't envision what could. When something exists, many still envision that that is how it will always be. A true few ca",
-      "metadata": {
-        "created": 1774443298,
-        "updated": 1774444644,
-        "images": {},
-        "videos": {},
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 4
       }
     },
     {
@@ -2981,6 +2956,47 @@
         "image": "files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
         "locked": false,
         "readtime": 4
+      }
+    },
+    {
+      "id": "item-51064b9d-e04d-4156-8980-3a03da6abd16",
+      "indent": 0,
+      "location": "pages/item-51064b9d-e04d-4156-8980-3a03da6abd16/index.html",
+      "slug": "hax/building-a-city",
+      "order": 5,
+      "parent": "item-07636896-5843-47a7-8cf6-bd7798992831",
+      "title": "Building a City",
+      "description": "This is a story of the past, leading into the future. When nothing exists, most can't envision what could. When something exists, many still envision that that is how it will always be. A true few ca",
+      "metadata": {
+        "created": 1774443298,
+        "updated": 1774444644,
+        "images": {},
+        "videos": {},
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 4
+      }
+    },
+    {
+      "id": "item-9a185c5f-542b-4b53-a531-74dc882752a7",
+      "indent": 0,
+      "location": "pages/item-9a185c5f-542b-4b53-a531-74dc882752a7/index.html",
+      "slug": "contact",
+      "order": 4,
+      "parent": null,
+      "title": "Contact",
+      "description": "hax @ psu [dot] edu\n@btopro - discord\n@btopro - x\n@btopro - linkedIn\n@btopro - mastodon\n",
+      "metadata": {
+        "locked": false,
+        "created": 1748895293,
+        "images": {},
+        "videos": {},
+        "updated": 1773778691,
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1,
+        "status": ""
       }
     }
   ]
