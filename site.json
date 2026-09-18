@@ -30,7 +30,7 @@
         "canonical": true
       },
       "created": 1698074988,
-      "updated": 1789744436,
+      "updated": 1789744772,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
@@ -288,7 +288,7 @@
     },
     {
       "id": "item-e69dc923-a3a6-4052-8726-9aeec9c2105c",
-      "indent": 1,
+      "indent": 0,
       "location": "pages/item-e69dc923-a3a6-4052-8726-9aeec9c2105c/index.html",
       "slug": "life/the-teachable",
       "order": 1,
@@ -297,38 +297,12 @@
       "description": "Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view",
       "metadata": {
         "created": "1704214231",
-        "updated": 1773778667,
-        "images": {},
-        "videos": {},
+        "updated": 1789744771,
+        "images": [],
+        "videos": [],
         "files": [
-          {
-            "fullUrl": "/sites/btopro/files/image.png",
-            "url": "files/image.png",
-            "type": "image/png",
-            "name": "image.png",
-            "size": "284384"
-          },
-          {
-            "fullUrl": "/sites/btopro/files/PXL_20231229_200725896.jpg",
-            "url": "files/PXL_20231229_200725896.jpg",
-            "type": "image/jpeg",
-            "name": "PXL_20231229_200725896.jpg",
-            "size": "1896047"
-          },
-          {
-            "fullUrl": "/sites/btopro/files/Screenshot from 2024-01-02 12-41-02.png",
-            "url": "files/Screenshot from 2024-01-02 12-41-02.png",
-            "type": "image/png",
-            "name": "Screenshot from 2024-01-02 12-41-02.png",
-            "size": "757956"
-          },
-          {
-            "fullUrl": "/sites/btopro/files/10uchampions.jpg",
-            "url": "files/10uchampions.jpg",
-            "type": "image/jpeg",
-            "name": "10uchampions.jpg",
-            "size": "99213"
-          }
+          "d3dbae31-14a8-f4c9-83f0-911afe00f585",
+          "f5ae525d-a382-cadd-e253-8fa4fb5db96c"
         ],
         "published": true,
         "hideInMenu": false,
@@ -336,7 +310,9 @@
         "readtime": 7,
         "status": "",
         "image": "files/10uchampions.jpg",
-        "tags": "coaching, 2024"
+        "tags": "coaching, 2024",
+        "overridePathauto": false,
+        "linkTarget": "_self"
       }
     },
     {
