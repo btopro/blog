@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744676,
+  "generated": 1789744677,
   "data": {
     "path": "files",
     "files": [
@@ -994,9 +994,9 @@
         "path": "files/scale-50/collapse.jpg",
         "name": "collapse.jpg",
         "mimetype": "image/jpeg",
-        "size": 50827,
-        "dateCreated": 1789744653,
-        "fullUrl": "/files/scale-50/collapse.jpg?t=1789744653",
+        "size": 56649,
+        "dateCreated": 1789744677,
+        "fullUrl": "/files/scale-50/collapse.jpg?t=1789744677",
         "url": "files/scale-50/collapse.jpg",
         "width": 1200,
         "height": 854
