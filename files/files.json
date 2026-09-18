@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744569,
+  "generated": 1789744570,
   "data": {
     "path": "files",
     "files": [
@@ -874,9 +874,9 @@
         "path": "files/image_6.png",
         "name": "image_6.png",
         "mimetype": "image/png",
-        "size": 748169,
-        "dateCreated": 1755534064,
-        "fullUrl": "/files/image_6.png?t=1755534064",
+        "size": 248161,
+        "dateCreated": 1789744570,
+        "fullUrl": "/files/image_6.png?t=1789744570",
         "url": "files/image_6.png",
         "width": 1184,
         "height": 560
