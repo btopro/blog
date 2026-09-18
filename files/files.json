@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744677,
+  "generated": 1789744740,
   "data": {
     "path": "files",
     "files": [
@@ -1096,6 +1096,18 @@
         "url": "files/headshot1368860.2400000002.jpg",
         "width": 320,
         "height": 180
+      },
+      {
+        "uuid": "d3dbae31-14a8-f4c9-83f0-911afe00f585",
+        "path": "files/image.jpg",
+        "name": "image.jpg",
+        "mimetype": "image/jpeg",
+        "size": 71029,
+        "dateCreated": 1789744740,
+        "fullUrl": "/files/image.jpg?t=1789744740",
+        "url": "files/image.jpg",
+        "width": 1960,
+        "height": 948
       }
     ]
   }
