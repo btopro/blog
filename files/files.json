@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744670,
+  "generated": 1789744671,
   "data": {
     "path": "files",
     "files": [
@@ -478,9 +478,9 @@
         "path": "files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
         "name": "e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
         "mimetype": "image/jpeg",
-        "size": 30685,
-        "dateCreated": 1789744647,
-        "fullUrl": "/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg?t=1789744647",
+        "size": 35001,
+        "dateCreated": 1789744671,
+        "fullUrl": "/files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg?t=1789744671",
         "url": "files/e4e17905cd786316dd2485bc5e6bc8854f18661b-ngdle-university.jpg",
         "width": 1200,
         "height": 508
