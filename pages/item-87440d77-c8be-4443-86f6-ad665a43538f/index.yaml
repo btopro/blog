@@ -12,7 +12,7 @@ metadata:
   created: 1748895291
   images: []
   videos: []
-  updated: 1789744400
+  updated: 1789744436
   published: true
   hideInMenu: false
   readtime: 1
@@ -71,15 +71,18 @@ content: >
 
 
 
+
   <media-image source="/files/headshot422070.074999996.jpg?t=1748551989"
   alt="btopro in a jersey, shocking" accent-color="grey" size="wide"
   offset="none"></media-image>
 
 
 
+
   <media-image source="/files/headshot143493.3299999684.jpg?t=1748551989"
   alt="btopro with an elms logo, old school" accent-color="grey" size="wide"
   offset="none"></media-image>
+
 
 
 
