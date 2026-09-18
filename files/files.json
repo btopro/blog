@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744571,
+  "generated": 1789744572,
   "data": {
     "path": "files",
     "files": [
@@ -394,9 +394,9 @@
         "path": "files/Legend_1.png",
         "name": "Legend_1.png",
         "mimetype": "image/png",
-        "size": 66723,
-        "dateCreated": 1754092662,
-        "fullUrl": "/files/Legend_1.png?t=1754092662",
+        "size": 23886,
+        "dateCreated": 1789744572,
+        "fullUrl": "/files/Legend_1.png?t=1789744572",
         "url": "files/Legend_1.png",
         "width": 1366,
         "height": 768
