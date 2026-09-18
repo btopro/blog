@@ -10,7 +10,7 @@
 <description>Skill is the learned behavior of repetition and desire to improve. In the thousands of touches on the puck or taps of the keyboard, we start to loose sight of what was once learned behavior, now view</description>
 <metadata>
 <created>1704214231</created>
-<updated>1789744771</updated>
+<updated>1789744819</updated>
 <images>
 </images>
 <videos>
@@ -79,11 +79,13 @@
 <video-player source="https://youtu.be/HkwLhDgLGgE" caption="https://youtu.be/HkwLhDgLGgE" accent-color="blue-grey" crossorigin="anonymous" sticky-corner="none" resource="#a92ad39b-312b-aaca-20ff-18a163d337ec" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org" lang="en" slot="col-1" element-visible="" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/HkwLhDgLGgE&quot;,&quot;type&quot;:&quot;&quot;}]" audio-description-source="" typeof="oer:MediaObject"></video-player>
 
 
+
 </grid-plate>
 <grid-plate layout="1-1" item-padding="24" item-margin="24" disable-responsive=""><p slot="col-1" font-size="large">The kid with the Red pants is my youngest. And he had himself a week. Not because I coach him. But because I coach his friends. Their success and growth leads to his</p>
 <p slot="col-1" font-size="large">Him and the Center supporting the puck in the clip played D one game this tournament, it's why they came back low to help out, and it's also how he figured out how to cause other D to misjudge their gap-ing.</p>
 <p slot="col-1" font-size="large">He had maybe 5 goals all last season, and this tournament had 8G/3A in 4 games.</p>
 <media-image source="files/PXL_20231229_200725896.jpg" alt="files/PXL_20231229_200725896.jpg" size="wide" offset="none" slot="col-2" citation="Tournament MVP" accent-color="grey"></media-image>
+
 
 
 </grid-plate>

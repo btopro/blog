@@ -11,7 +11,7 @@ description: >-
   sight of what was once learned behavior, now view
 metadata:
   created: '1704214231'
-  updated: 1789744771
+  updated: 1789744819
   images: []
   videos: []
   files:
@@ -187,6 +187,7 @@ content: >
 
 
 
+
   </grid-plate>
 
   <grid-plate layout="1-1" item-padding="24" item-margin="24"
@@ -205,6 +206,7 @@ content: >
   <media-image source="files/PXL_20231229_200725896.jpg"
   alt="files/PXL_20231229_200725896.jpg" size="wide" offset="none" slot="col-2"
   citation="Tournament MVP" accent-color="grey"></media-image>
+
 
 
 
