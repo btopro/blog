@@ -1,7 +1,7 @@
 {
   "schema": "HAXCMS-FILE-SCHEMA-V1",
   "site": "btopro",
-  "generated": 1789744814,
+  "generated": 1789744855,
   "data": {
     "path": "files",
     "files": [
@@ -202,12 +202,12 @@
         "path": "files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
         "name": "Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
         "mimetype": "image/jpeg",
-        "size": 67744,
-        "dateCreated": 1789744671,
-        "fullUrl": "/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1789744671",
+        "size": 11379,
+        "dateCreated": 1789744855,
+        "fullUrl": "/files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg?t=1789744855",
         "url": "files/Gemini_Generated_Image_hcblyahcblyahcbl-(1).jpg",
-        "width": 1200,
-        "height": 670
+        "width": 400,
+        "height": 223
       },
       {
         "uuid": "e1c2f903-e00b-b716-515c-6d30e0cda17b",
