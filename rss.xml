@@ -5,15 +5,16 @@
     <link>https://btopro.com/</link>
     <description>All things btopro on my own blog.</description>
     <copyright>Copyright (C) 2026 https://btopro.com</copyright>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:20:19 GMT</lastBuildDate>
-    <generator>HAXcms NodeJS</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Sep 2026 15:21:20 GMT</lastBuildDate>
+    <generator>HAXcms</generator>
     <atom:link href="https://btopro.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Keep moving: Week 0</title>
       <link>https://btopro.com/life/keep-moving-week-0</link>
       <description>I&apos;ve felt 2020 coming for a long time. I still recall the realization. In 2012 I had a vision of what I had to build with my life. The pattern it would form. And then I remember in 2015 having some meeting as our team was growing and realizing that we were at the start, nowhere near the end of what the journey would be. Since 2015, I&apos;ve said 2020 would be a big year. I didn&apos;t know why and I certainly didn&apos;t see a global pandemic forcing a total change to the way people work and operate.. Yea,...</description>
-      <category>Stories, 2020</category>
+      <category>Stories</category>
+      <category>2020</category>
       <guid>https://btopro.com/life/keep-moving-week-0</guid>
       <pubDate>Mon, 23 Oct 2023 15:29:48 GMT</pubDate>
     </item>
@@ -133,7 +134,8 @@
       <title>The Climb</title>
       <link>https://btopro.com/work/the-climb</link>
       <description>It was New years Eve 2018, or shortly before it. About 1 year ago, where I looked in the mirror and said to myself [paraphrase] if we&apos;re going to get to 2020 and what&apos;s to come in that year... there&apos;s going to be a lot of pain this year I said then, that 2019 was going to be a climb, the death march toward what we are to become. The royal we as in me personally, but also the &quot;we&quot; as in our little team of core developers. Wow, did I have no idea what would change for me this year at the end of...</description>
-      <category>The Climb, 2019</category>
+      <category>The Climb</category>
+      <category>2019</category>
       <guid>https://btopro.com/work/the-climb</guid>
       <pubDate>Mon, 23 Oct 2023 15:29:48 GMT</pubDate>
     </item>

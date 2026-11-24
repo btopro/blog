@@ -4,6 +4,8 @@
 
 I am the project lead on [HAXTheWeb](https://haxtheweb.org/), which [powers this blog](https://github.com/btopro/blog), and is a large part of my purpose. From HAX I've [taught courses](https://oer.hax.psu.edu/bto108/sites/ist256/welcome) at Penn State, I am an advisor to [HAXTheClub](https://github.com/haxtheweb/hax-the-club), mentor to dozens of students through [HAX Lab](https://haxtheweb.org/hax-lab) and have become a better coach and human as a result of all the students I've met along the way.
 
+HAX Seeks ubiquity, and ubiquity in publishing and authoring changes everything.
+
 I love the web. Hockey. Coaching. Teaching. and all the social scene that pops up around those things.
 
 Just trying to do the best I can with the time I have remaining.
