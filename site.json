@@ -30,7 +30,7 @@
                 "canonical": true
             },
             "created": 1698074988,
-            "updated": 1795555493,
+            "updated": 1795555506,
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages"
@@ -50,17 +50,24 @@
             ]
         },
         "theme": {
-            "element": "clean-portfolio-theme",
-            "path": "@haxtheweb/clean-portfolio-theme/clean-portfolio-theme.js",
-            "name": "Clean Portfolio",
-            "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-clean-portfolio-theme-thumb.jpg",
-            "description": "Start with a blank site using the Clean Portfolio",
+            "element": "vhs-blog-theme",
+            "path": "@haxtheweb/vhs-blog-theme/vhs-blog-theme.js",
+            "name": "VHS Blog",
+            "thumbnail": "@haxtheweb/haxcms-elements/lib/theme-screenshots/theme-vhs-blog-theme-thumb.jpg",
+            "description": "Start with a blank site using the VHS Blog",
             "category": [
+                "Blog",
                 "Website"
             ],
             "hidden": false,
-            "priority": -10,
+            "priority": 0,
             "terrible": false,
+            "supportedPalettes": null,
+            "layout": "Sidebar",
+            "designSystem": null,
+            "inspiredBy": null,
+            "inspiredByTheme": null,
+            "acceptsDesignSystems": false,
             "variables": {
                 "image": "files/1500x5001.jpeg",
                 "imageAlt": "",
