@@ -10,6 +10,11 @@
       ],
       "service-desc": [
         {
+          "href": "https://btopro.com/x/api/openapi.json?profile=public",
+          "type": "application/json",
+          "title": "Public profile: operations that work without logging in"
+        },
+        {
           "href": "https://btopro.com/x/api/openapi",
           "type": "application/json"
         },

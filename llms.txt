@@ -1,4 +1,4 @@
-# btopro
+# bto.pro
 
 > All things btopro on my own blog.
 
@@ -12,6 +12,7 @@ Managed files (feeds, search indexes, manifests, and this `llms.txt`) are genera
 - [llms.txt](https://btopro.com/llms.txt): LLM-oriented guide to this site and its machine-readable resources.
 - [llms-full.txt](https://btopro.com/llms-full.txt): The whole site as one markdown document, in outline order.
 - [Whole site as HTML](https://btopro.com/x/api/v1/site/export/html): Every page in one HTML document.
+- [AGENTS.md](https://btopro.com/AGENTS.md): Instructions for AI agents working on this site's files.
 
 ## Pages
 - [I, Developed.](https://btopro.com/pages/item-72eec0cc-53fc-4a38-9e2b-79ed350ba3dc/index.md): This is about the 10th recording test to ensure the pacing and tone were what I wanted.

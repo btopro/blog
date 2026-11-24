@@ -1,11 +1,8 @@
 {
   "name": "btopro",
-  "version": "26.8.0",
+  "version": "0.0.0",
   "description": "All things btopro on my own blog.",
   "main": "index.html",
-  "author": {
-    "name": "btopro"
-  },
   "license": "Apache-2.0",
   "private": false,
   "publishConfig": {

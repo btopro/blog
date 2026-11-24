@@ -1,5 +1,6 @@
 {
-    "name": "btopro",
+    "id": "/",
+    "name": "bto.pro",
     "short_name": "btopro",
     "description": "All things btopro on my own blog.",
     "icons": [
@@ -7,59 +8,51 @@
             "src": "files/haxcms-managed/48x48-1500x500.jpeg",
             "sizes": "48x48",
             "type": "image\/png",
-            "density": "1.0"
+            "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/72x72-1500x500.jpeg",
             "sizes": "72x72",
             "type": "image\/png",
-            "density": "1.5"
+            "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/96x96-1500x500.jpeg",
             "sizes": "96x96",
             "type": "image\/png",
-            "density": "2.0"
+            "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/144x144-1500x500.jpeg",
             "sizes": "144x144",
             "type": "image\/png",
-            "density": "3.0"
+            "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/192x192-1500x500.jpeg",
             "sizes": "192x192",
             "type": "image\/png",
-            "density": "4.0"
+            "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/256x256-1500x500.jpeg",
             "sizes": "256x256",
             "type": "image\/png",
-            "density": "4.0",
             "purpose": "any"
         },
         {
             "src": "files/haxcms-managed/512x512-1500x500.jpeg",
             "sizes": "512x512",
             "type": "image\/png",
-            "density": "4.0",
-            "purpose": "maskable"
+            "purpose": "any"
         }
     ],
-    "scope": "/btopro/",
-    "start_url": "/btopro/",
+    "scope": "/",
+    "start_url": "/",
     "display": "standalone",
     "theme_color": "#3f51b5",
     "background_color": "#3f51b5",
     "dir": "auto",
-    "lang": "",
-    "orientation": "any",
-    "display_override": [
-      "window-controls-overlay"
-    ],
-    "categories": [
-      "education"
-    ]
+    "lang": "en-US",
+    "orientation": "any"
 }
