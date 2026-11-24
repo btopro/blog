@@ -22,7 +22,7 @@ var shellFiles = [
     ],
     [
         "site.json",
-        "k7ouBqqAQQT7EVHghNoLldln68lAJJB1EDp_J7AyZA"
+        "TwrUYRWYFjHG9zH_OYonqNB7yAqG3qqjuR7v574Ec"
     ],
     [
         "manifest.json",
